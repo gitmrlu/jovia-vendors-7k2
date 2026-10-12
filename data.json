@@ -1,6 +1,6 @@
 {
- "lastUpdated": "2026-10-12T17:26:00+02:00",
- "lastUpdatedLabel": "Oct 12, 2026, 17:26 CEST (Belgrade)",
+ "lastUpdated": "2026-10-12T17:30:00+02:00",
+ "lastUpdatedLabel": "Oct 12, 2026, 17:30 CEST (Belgrade)",
  "launch": "Compounded acne topicals (503A, patient-specific)",
  "paths": [
   {
@@ -61,6 +61,10 @@
    "time": "18:24",
    "text": "SteadyMD call scheduled.",
    "upcoming": true
+  },
+  {
+   "time": "17:26",
+   "text": "Belmar: emailed pharmacy@belmarpharmacy.com; 2nd call reached a Colorado rep then hung up mid-intro."
   }
  ],
  "vendors": [
@@ -196,15 +200,15 @@
    "fit": "Medium",
    "fitNote": "OK via 503A arm only; core is hormones, acne TBC",
    "states": "503A: all 50",
-   "contact": "800-525-9473 \u00b7 pharmacy@belmarpharmacy.com (menu-confirmed)",
-   "status": "Waiting on us",
-   "owes": "Us",
-   "statusNote": "2nd call Oct 12 ~3.5 min: live Colorado rep answered, hung up mid-intro. Acne/LifeFile unanswered; Max callback (310-866-6347 / max@getpilot.ai) not delivered. Menu confirmed pharmacy@belmarpharmacy.com.",
-   "next": "Send email to pharmacy@belmarpharmacy.com; retry call for named partnerships contact",
+   "contact": "800-525-9473 \u00b7 pharmacy@belmarpharmacy.com (confirmed by phone menu)",
+   "status": "Waiting on them",
+   "owes": "Belmar",
+   "statusNote": "Email sent Oct 12; 2 calls reached staff (Pam; Colorado rep) but both cut off before answers",
+   "next": "Await reply; follow up if silent by Wed Oct 14",
    "updated": "Oct 12",
    "flags": [
     "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices \u2014 old, 503B only.",
-    "Phone menu confirmed pharmacy@belmarpharmacy.com; 2nd call got a live rep who hung up mid-intro (no named contact yet)."
+    "pharmacy@belmarpharmacy.com confirmed via phone menu; outreach email sent Oct 12."
    ],
    "sources": [
     {
