@@ -33,6 +33,7 @@ dl{display:grid;grid-template-columns:96px 1fr;gap:4px 10px;margin:0;font-size:1
 .fit{font-weight:600}.f-Strong{color:var(--forest)}.f-Good{color:var(--forest2)}.f-Medium{color:var(--clay)}.f-Low,.f-Unrated{color:var(--mute)}
 .more{display:none;margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);font-size:13.5px}.card.open .more{display:block}
 .flags li{color:var(--red);margin:4px 0}.flags{padding-left:18px;margin:6px 0 0}.hint{font-size:12px;color:var(--mute);margin-top:10px}
+.srcs{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px}.chip{font-size:11.5px;font-weight:600;border-radius:6px;padding:2px 8px;background:#eef1f6;color:#33415c;border:1px solid #d6dce8}.chip.c-nolla{background:#f3e8ff;color:#5b2a86;border-color:#e0ccf5}.chip.c-medvi{background:#e6f4f1;color:#1f5f52;border-color:#c6e4dc}.chip.c-research{background:#fff5e0;color:#7a5410;border-color:#f0dfb5}.src a{color:var(--forest)}
 .empty{color:var(--mute);padding:20px 0}
 .tl{list-style:none;padding:0;margin:0;border-left:2px solid var(--sage);margin-left:8px}
 .tl li{position:relative;padding:0 0 14px 22px}.tl li:before{content:"";position:absolute;left:-7px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--forest)}
@@ -46,7 +47,7 @@ footer{color:var(--mute);font-size:13px;padding:30px 0 40px}
 <h2>Vendors</h2>
 <div class="controls"><input id="q" placeholder="Search vendors, contacts, notes…">
 <select id="role"><option value="">All roles</option></select><select id="status"><option value="">All statuses</option></select>
-<select id="fit"><option value="">Any fit</option></select><label class="tog"><input type="checkbox" id="rf" style="min-width:0;flex:0"> Red flags only</label></div>
+<select id="fit"><option value="">Any fit</option></select><select id="src"><option value="">All sources</option></select><label class="tog"><input type="checkbox" id="rf" style="min-width:0;flex:0"> Red flags only</label></div>
 <div id="groups"></div>
 <h2>Today</h2><ul class="tl" id="tl"></ul></main>
 <footer class="wrap" id="foot"></footer>
@@ -62,26 +63,27 @@ function init(){
  document.getElementById("foot").textContent="Last updated "+D.lastUpdatedLabel+". Internal working document — statuses and vendor claims are unverified until confirmed on calls.";
  document.getElementById("paths").innerHTML=D.paths.map(p=>`<div class="path ${p.recommended?"rec":""}"><span class="w">${esc(p.weeks)}</span><h3>Path ${p.id} · ${esc(p.name)}${p.recommended?'<span class="tag">Recommended</span>':""}</h3><div><b>${esc(p.vendors)}</b></div><p>${esc(p.note)}</p></div>`).join("");
  const opt=(id,vals)=>document.getElementById(id).insertAdjacentHTML("beforeend",vals.map(v=>`<option>${esc(v)}</option>`).join(""));
- opt("role",ROLES);opt("status",[...new Set(D.vendors.map(v=>v.status))]);opt("fit",["Strong","Good","Medium","Low","Unrated"]);
- ["q","role","status","fit","rf"].forEach(i=>document.getElementById(i).addEventListener("input",render));
+ opt("role",ROLES);opt("status",[...new Set(D.vendors.map(v=>v.status))]);opt("fit",["Strong","Good","Medium","Low","Unrated"]);opt("src",[...new Set(D.vendors.flatMap(v=>v.sources.map(x=>x.tag.replace(/ \(reported\)/,""))))]);
+ ["q","role","status","fit","src","rf"].forEach(i=>document.getElementById(i).addEventListener("input",render));
  document.getElementById("tl").innerHTML=D.timeline.map(t=>`<li class="${t.upcoming?"up":""}"><time>${esc(t.time)}</time>${esc(t.text)}${t.upcoming?" <em>(upcoming)</em>":""}</li>`).join("");
  render();
 }
 function render(){
- const q=document.getElementById("q").value.toLowerCase(),r=role.value,s=status.value,f=fit.value,rf=document.getElementById("rf").checked;
+ const q=document.getElementById("q").value.toLowerCase(),r=role.value,s=status.value,f=fit.value,rf=document.getElementById("rf").checked,sr=document.getElementById("src").value;
  const st=document.getElementById("stats");
  st.innerHTML=BUCKETS.map(([k,l])=>`<button class="stat ${bucket===k?"on":""}" data-k="${k}"><b>${D.vendors.filter(v=>G[v.status]===k).length}</b><span>${l}</span></button>`).join("");
  st.querySelectorAll("button").forEach(b=>b.onclick=()=>{bucket=bucket===b.dataset.k?"":b.dataset.k;render()});
- const list=D.vendors.filter(v=>(!r||v.role===r)&&(!s||v.status===s)&&(!f||v.fit===f)&&(!rf||v.flags.some(x=>!/^No FDA|^No Arkansas|unverified; phone/i.test(x)))&&(!bucket||G[v.status]===bucket)&&(!q||JSON.stringify(v).toLowerCase().includes(q)));
+ const list=D.vendors.filter(v=>(!r||v.role===r)&&(!s||v.status===s)&&(!f||v.fit===f)&&(!rf||v.flags.some(x=>!/^No FDA|^No Arkansas|unverified; phone/i.test(x)))&&(!sr||v.sources.some(x=>x.tag.startsWith(sr)))&&(!bucket||G[v.status]===bucket)&&(!q||JSON.stringify(v).toLowerCase().includes(q)));
  document.getElementById("groups").innerHTML=ROLES.map(R=>{const vs=list.filter(v=>v.role===R);if(!vs.length)return"";
   return `<h3 style="font:500 15px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin:22px 0 10px">${R} · ${vs.length}</h3><div class="grid">${vs.map(card).join("")}</div>`}).join("")||'<p class="empty">No vendors match these filters.</p>';
- document.querySelectorAll(".card").forEach(c=>c.onclick=()=>c.classList.toggle("open"));
+ document.querySelectorAll(".card").forEach(c=>c.onclick=e=>{if(e.target.closest("a"))return;c.classList.toggle("open")});
 }
+function chipc(t){return /Nolla/.test(t)?"c-nolla":/Medvi/.test(t)?"c-medvi":/Research/.test(t)?"c-research":""}
 function card(v){const serious=v.flags.some(x=>!/^No FDA|^No Arkansas|unverified; phone/i.test(x));
  return `<article class="card ${serious?"flag":""}"><div class="top"><h4>${esc(v.name)}</h4><span class="pill s-${G[v.status]}">${esc(v.status)}</span></div>
- <div class="type">${esc(v.type)}</div><dl><dt>Next move</dt><dd><b>${esc(v.owes)}</b></dd><dt>Fit</dt><dd><span class="fit f-${v.fit}">${esc(v.fit)}</span></dd>
+ <div class="type">${esc(v.type)}</div><div class="srcs">${v.sources.map(x=>`<span class="chip ${chipc(x.tag)}">Source: ${esc(x.tag)}</span>`).join("")}</div><dl><dt>Next move</dt><dd><b>${esc(v.owes)}</b></dd><dt>Fit</dt><dd><span class="fit f-${v.fit}">${esc(v.fit)}</span></dd>
  <dt>States</dt><dd>${esc(v.states)}</dd><dt>Contact</dt><dd>${esc(v.contact)}</dd><dt>Next step</dt><dd>${esc(v.next)}</dd><dt>Updated</dt><dd>${esc(v.updated)}</dd></dl>
- <div class="more"><div><b>Status:</b> ${esc(v.statusNote)}</div><div><b>Fit notes:</b> ${esc(v.fitNote)}</div>${v.path?`<div><b>Part of Path ${v.path}</b></div>`:""}
+ <div class="more"><div><b>Status:</b> ${esc(v.statusNote)}</div><div><b>Fit notes:</b> ${esc(v.fitNote)}</div><div style="margin-top:8px"><b>Why it's here</b><ul class="flags src" style="list-style:disc">${v.sources.map(x=>`<li style="color:inherit">${esc(x.tag)}: ${esc(x.note)}${x.url?` · <a href="${esc(x.url)}" target="_blank" rel="noopener">evidence</a>`:""}</li>`).join("")}</ul></div>${v.path?`<div><b>Part of Path ${v.path}</b></div>`:""}
  ${v.flags.length?`<div style="margin-top:8px"><b>Red flags &amp; diligence</b><ul class="flags">${v.flags.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`:"<div>No red flags noted.</div>"}</div>
  <div class="hint">${serious?"⚑ Red flag · ":""}Tap for details</div></article>`}
 </script></body></html>
