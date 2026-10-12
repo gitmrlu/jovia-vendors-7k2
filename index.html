@@ -31,6 +31,8 @@ input,select{font:inherit;border:1px solid var(--line);background:#fff;border-ra
 .pill{font-size:13.5px;padding:6px 14px;letter-spacing:.02em;box-shadow:0 1px 0 rgba(0,0,0,.05)}
 .s-us{background:#F2A900;color:#3d2a00}.s-active{background:#2E8B57;color:#fff}.s-them{background:#2F6FD1;color:#fff}.s-hold{background:#8A8F98;color:#fff}.s-declined{background:#C0392B;color:#fff}.s-skip{background:#EEE9E0;color:#8b857a}
 .card.st-us{border-top:5px solid #F2A900}.card.st-active{border-top:5px solid #2E8B57}.card.st-them{border-top:5px solid #2F6FD1}.card.st-hold{border-top:5px solid #8A8F98}.card.st-declined{border-top:5px solid #C0392B}.card.st-skip{border-top:5px solid #EEE9E0;opacity:.8}
+.ball{white-space:nowrap;font-size:12.5px;font-weight:700;border-radius:6px;padding:5px 10px;border:2px solid}.b-Max{color:#7a5200;border-color:#F2A900;background:#FFF6DA}.b-Vendor{color:#1d4f9e;border-color:#2F6FD1;background:#E8F0FD}.pills{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end}
+.courts{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:22px}.court{border-radius:14px;padding:14px 18px;color:#23221F}.court b{font:400 30px var(--serif);margin-right:8px}.court.c-Max{background:#F2A900}.court.c-Vendor{background:#2F6FD1;color:#fff}.court small{display:block;font-size:13px;margin-top:4px}
 .stat i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px}.stat small{display:block;font-size:11.5px;color:var(--sage);margin-top:4px;line-height:1.3}.stat.on small{color:var(--forest2)}
 .stat.k-us{border:2px solid #F2A900;background:rgba(242,169,0,.18)}
 dl{display:grid;grid-template-columns:96px 1fr;gap:4px 10px;margin:0;font-size:13.5px}dt{color:var(--mute)}dd{margin:0}
@@ -43,10 +45,10 @@ dl{display:grid;grid-template-columns:96px 1fr;gap:4px 10px;margin:0;font-size:1
 .tl li{position:relative;padding:0 0 14px 22px}.tl li:before{content:"";position:absolute;left:-7px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--forest)}
 .tl li.up:before{background:#fff;border:2px solid var(--clay)}.tl time{font-weight:600;color:var(--forest);margin-right:8px}
 footer{color:var(--mute);font-size:13px;padding:30px 0 40px}
-@media(max-width:900px){.stats{grid-template-columns:repeat(3,1fr)}}@media(max-width:700px){.stats{grid-template-columns:1fr 1fr}.paths{grid-template-columns:1fr}.grid{grid-template-columns:1fr}}
+@media(max-width:900px){.stats{grid-template-columns:repeat(3,1fr)}}@media(max-width:700px){.courts{grid-template-columns:1fr}.stats{grid-template-columns:1fr 1fr}.paths{grid-template-columns:1fr}.grid{grid-template-columns:1fr}}
 </style></head><body>
 <header><div class="wrap"><div class="brand">Jovia Health</div><h1>Partner &amp; vendor dashboard</h1>
-<div class="sub" id="meta"></div><div class="stats" id="stats"></div></div></header>
+<div class="sub" id="meta"></div><div class="courts" id="courts"></div><div class="stats" id="stats"></div></div></header>
 <main class="wrap"><div style="height:36px"></div><div class="paths" id="paths"></div>
 <h2>Vendors</h2>
 <div class="controls"><input id="q" placeholder="Search vendors, contacts, notes…">
@@ -58,6 +60,7 @@ footer{color:var(--mute);font-size:13px;padding:30px 0 40px}
 <script>
 const G={"Waiting on us":"us","Active talks":"active","Waiting on vendor":"them","On hold":"hold","Declined":"declined","Skipped":"skip","Not contacted":"skip"};
 const BUCKETS=[["us","Needs Max"],["active","Active talks"],["them","Waiting on vendor"],["hold","On hold"],["declined","Declined"],["skip","Skipped / not contacted"]];
+const BALL={"Waiting on us":"Max","Waiting on vendor":"Vendor","Active talks":"Vendor"};
 const ICON={us:"● ACTION",active:"●",them:"◷",hold:"❚❚",declined:"✕",skip:"–"};
 const ROLES=["Clinicians","Pharmacy 503A","Turnkey platform","On hold / Skipped"];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -75,6 +78,7 @@ function init(){
 }
 function render(){
  const q=document.getElementById("q").value.toLowerCase(),r=role.value,s=status.value,f=fit.value,rf=document.getElementById("rf").checked,sr=document.getElementById("src").value;
+ document.getElementById("courts").innerHTML=[["Max","Ball in your court"],["Vendor","Ball in their court"]].map(([k,l])=>{const vs=D.vendors.filter(v=>BALL[v.status]===k);return `<div class="court c-${k}"><b>${vs.length}</b>${l}<small>${esc(vs.map(v=>v.name).join(", ")||"—")}</small></div>`}).join("");
  const st=document.getElementById("stats");
  st.innerHTML=BUCKETS.map(([k,l])=>{const vs=D.vendors.filter(v=>G[v.status]===k);const col={us:"#F2A900",active:"#2E8B57",them:"#2F6FD1",hold:"#8A8F98",declined:"#C0392B",skip:"#EEE9E0"}[k];return `<button class="stat k-${k} ${bucket===k?"on":""}" data-k="${k}"><b>${vs.length}</b><span><i style="background:${col}"></i>${l}</span><small>${esc(vs.map(v=>v.name).join(", ")||"—")}</small></button>`}).join("");
  st.querySelectorAll("button").forEach(b=>b.onclick=()=>{bucket=bucket===b.dataset.k?"":b.dataset.k;render()});
@@ -85,7 +89,7 @@ function render(){
 }
 function chipc(t){return /Nolla/.test(t)?"c-nolla":/Medvi/.test(t)?"c-medvi":/Research/.test(t)?"c-research":""}
 function card(v){const serious=v.flags.some(x=>!/^No FDA|^No Arkansas|unverified; phone/i.test(x));
- return `<article class="card st-${G[v.status]} ${serious?"flag":""}"><div class="top"><h4>${esc(v.name)}</h4><span class="pill s-${G[v.status]}">${ICON[G[v.status]]} ${esc(v.status)}</span></div>
+ return `<article class="card st-${G[v.status]} ${serious?"flag":""}"><div class="top"><h4>${esc(v.name)}</h4><span class="pills">${BALL[v.status]?`<span class="ball b-${BALL[v.status]}">Ball: ${BALL[v.status]}</span>`:""}<span class="pill s-${G[v.status]}">${ICON[G[v.status]]} ${esc(v.status)}</span></span></div>
  <div class="type">${esc(v.type)}</div><div class="srcs">${[...new Map(v.sources.map(x=>[x.tag,x])).values()].map(x=>`<span class="chip ${chipc(x.tag)}">Source: ${esc(x.tag)}</span>`).join("")}</div><dl><dt>Next move</dt><dd><b>${esc(v.owes)}</b></dd><dt>Fit</dt><dd><span class="fit f-${v.fit}">${esc(v.fit)}</span></dd>
  <dt>States</dt><dd>${esc(v.states)}</dd><dt>Contact</dt><dd>${esc(v.contact)}</dd><dt>Next step</dt><dd>${esc(v.next)}</dd><dt>Updated</dt><dd>${esc(v.updated)}</dd></dl>
  <div class="more"><div><b>Status:</b> ${esc(v.statusNote)}</div><div><b>Fit notes:</b> ${esc(v.fitNote)}</div><div style="margin-top:8px"><b>Why it's here</b><ul class="flags src" style="list-style:disc">${v.sources.map(x=>`<li style="color:inherit">${esc(x.tag)}: ${esc(x.note)}${x.url?` · <a href="${esc(x.url)}" target="_blank" rel="noopener">evidence</a>`:""}</li>`).join("")}</ul></div>${v.path?`<div><b>Part of Path ${v.path}</b></div>`:""}
