@@ -1,13 +1,13 @@
 {
- "lastUpdated": "2026-10-12T18:40:00+02:00",
- "lastUpdatedLabel": "Oct 12, 2026, 18:40 CEST (Belgrade)",
+ "lastUpdated": "2026-10-12T19:03:00+02:00",
+ "lastUpdatedLabel": "Oct 12, 2026, 19:03 CEST (Belgrade)",
  "launch": "Compounded acne topicals (503A, patient-specific)",
  "paths": [
   {
    "id": "A",
    "name": "Direct",
    "vendors": "SteadyMD + Curexa",
-   "weeks": "8–14 weeks",
+   "weeks": "8\u201314 weeks",
    "note": "More control and better unit economics; we run more of the stack.",
    "recommended": true
   },
@@ -15,7 +15,7 @@
    "id": "B",
    "name": "Turnkey",
    "vendors": "MD Integrations",
-   "weeks": "3–8 weeks",
+   "weeks": "3\u20138 weeks",
    "note": "Fastest to first patients; less control, platform fees.",
    "recommended": false
   }
@@ -71,7 +71,15 @@
   },
   {
    "time": "18:07",
-   "text": "Precision (Britney Stella) sent intro call slots for Oct 13–16 ET; waiting on Max to pick one."
+   "text": "Precision (Britney Stella) sent intro call slots for Oct 13\u201316 ET; waiting on Max to pick one."
+  },
+  {
+   "time": "18:54",
+   "text": "RedRock (Lucho, CSR) replied: passed inquiry to marketing for clinic pricing/partnership; expect outreach in 1\u20132 business days."
+  },
+  {
+   "time": "18:49",
+   "text": "SteadyMD main line (+1-800-449-4280) called again; busy/declined (same as earlier attempt). Still no live connect."
   }
  ],
  "vendors": [
@@ -82,7 +90,7 @@
    "fit": "Strong",
    "fitNote": "Markets custom acne/rosacea formulas to virtual derm brands",
    "states": "All 50",
-   "contact": "Bianca Lin, Pharm.D. · blin@curexa.com · 855-927-0390",
+   "contact": "Bianca Lin, Pharm.D. \u00b7 blin@curexa.com \u00b7 855-927-0390",
    "status": "Active talks",
    "owes": "Curexa",
    "statusNote": "Discovery form submitted; Max replied open to a call",
@@ -90,7 +98,7 @@
    "updated": "Oct 12",
    "path": "A",
    "flags": [
-    "2023 FDA warning letter — ask what was remediated."
+    "2023 FDA warning letter \u2014 ask what was remediated."
    ],
    "sources": [
     {
@@ -109,13 +117,13 @@
    "states": "All 50",
    "contact": "partnerships@steadymd.com",
    "status": "Waiting on them",
-   "owes": "Us (place SteadyMD call) / SteadyMD",
-   "statusNote": "Email sent, no reply; planned call window 18:24 CEST — no SteadyMD outbound recorded in Inkbox by ~18:40 CEST",
-   "next": "Place partnerships call if not already in progress elsewhere; ask pricing, PC/MSO model, BAA",
+   "owes": "Us (retry SteadyMD call) / SteadyMD",
+   "statusNote": "Email sent, no reply; two Inkbox attempts to +1-800-449-4280 (14:53 & 18:49 CEST) both busy/declined \u2014 no live connect",
+   "next": "Retry partnerships line; ask pricing, PC/MSO model, BAA",
    "updated": "Oct 12",
    "path": "A",
    "flags": [
-    "Possibly now part of DocGo — confirm ownership and whether terms changed.",
+    "Possibly now part of DocGo \u2014 confirm ownership and whether terms changed.",
     "Requires patient choice of pharmacy."
    ],
    "sources": [
@@ -160,11 +168,11 @@
    "fit": "Good",
    "fitNote": "Lists skincare; telehealth integration; patient-direct shipping",
    "states": "49 (not AR)",
-   "contact": "compounding@redrockrx.com · 801-839-5080",
+   "contact": "compounding@redrockrx.com \u00b7 801-839-5080 (Lucho CSR \u2192 marketing)",
    "status": "Waiting on them",
-   "owes": "RedRock",
-   "statusNote": "Email sent Oct 12, 17:02",
-   "next": "Await reply; Curexa backup",
+   "owes": "RedRock (marketing)",
+   "statusNote": "Lucho (CSR) replied Oct 12 ~18:54 CEST: passed to marketing for clinic pricing & partnership options; expect outreach in 1\u20132 business days (Mon\u2013Fri 9\u20135 MST).",
+   "next": "Await marketing outreach (by ~Wed Oct 14); no reply needed now",
    "updated": "Oct 12",
    "flags": [
     "No FDA letters or lawsuits found.",
@@ -188,7 +196,7 @@
    "contact": "Britney Stella, Territory Sales Rep (britstella@mypcphealth.com, 516-833-6262); cc jordan.lund@precisionmeds.com",
    "status": "Waiting on us",
    "owes": "Us (pick call slot)",
-   "statusNote": "Britney Stella offered intro slots (ET): Tue Oct 13 10:30–11:00 AM or 4:00–4:30 PM; Wed Oct 14 10:00–10:30 AM; Thu Oct 15 10:00–10:30 AM or 2:00–2:30 PM; Fri Oct 16 2:00–2:30 PM. Catalog sent; pricing after call; $5k implementation deposit (credited).",
+   "statusNote": "Britney Stella offered intro slots (ET): Tue Oct 13 10:30\u201311:00 AM or 4:00\u20134:30 PM; Wed Oct 14 10:00\u201310:30 AM; Thu Oct 15 10:00\u201310:30 AM or 2:00\u20132:30 PM; Fri Oct 16 2:00\u20132:30 PM. Catalog sent; pricing after call; $5k implementation deposit (credited).",
    "next": "Max picks a slot; then confirm to Britney (britstella@mypcphealth.com). Deposit/pricing remain Max decisions.",
    "updated": "Oct 12",
    "flags": [
@@ -209,14 +217,14 @@
    "fit": "Medium",
    "fitNote": "OK via 503A arm only; core is hormones, acne TBC",
    "states": "503A: all 50",
-   "contact": "800-525-9473 · pharmacy@belmarpharmacy.com (confirmed by phone menu)",
+   "contact": "800-525-9473 \u00b7 pharmacy@belmarpharmacy.com (confirmed by phone menu)",
    "status": "Waiting on them",
    "owes": "Belmar",
    "statusNote": "Email sent Oct 12; 2 calls reached staff (Pam; Colorado rep) but both cut off before answers",
    "next": "Await reply; follow up if silent by Wed Oct 14",
    "updated": "Oct 12",
    "flags": [
-    "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
+    "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices \u2014 old, 503B only.",
     "pharmacy@belmarpharmacy.com confirmed via phone menu; outreach email sent Oct 12."
    ],
    "sources": [
@@ -239,7 +247,7 @@
    "fit": "Good",
    "fitNote": "Can staff board-certified dermatologists",
    "states": "All 50 (confirm)",
-   "contact": "Ramin Zacharia · Jim Flowers-Glotz, Director of Sales",
+   "contact": "Ramin Zacharia \u00b7 Jim Flowers-Glotz, Director of Sales",
    "status": "Active talks",
    "owes": "MD Integrations",
    "statusNote": "Jim to set up a call this week",
@@ -262,7 +270,7 @@
    "fit": "Medium",
    "fitNote": "Focus is GLP-1/HRT; derm not advertised",
    "states": "Claims all 50",
-   "contact": "support@carevalidate.com · 678-661-9377",
+   "contact": "support@carevalidate.com \u00b7 678-661-9377",
    "status": "Waiting on them",
    "owes": "CareValidate",
    "statusNote": "Email sent Oct 12, 17:02",
@@ -270,7 +278,7 @@
    "updated": "Oct 12",
    "flags": [
     "No FDA letters or lawsuits found.",
-    "Heavy GLP-1 client exposure — request pharmacy list and LegitScript certificate."
+    "Heavy GLP-1 client exposure \u2014 request pharmacy list and LegitScript certificate."
    ],
    "sources": [
     {
@@ -286,8 +294,8 @@
    "type": "Clinicians + ops/platform",
    "fit": "Medium",
    "fitNote": "Clinician side only",
-   "states": "—",
-   "contact": "—",
+   "states": "\u2014",
+   "contact": "\u2014",
    "status": "On hold",
    "owes": "Us",
    "statusNote": "On hold",
@@ -317,7 +325,7 @@
    "fit": "Low",
    "fitNote": "Some derm, small",
    "states": "Unclear",
-   "contact": "—",
+   "contact": "\u2014",
    "status": "Skip",
    "owes": "None",
    "statusNote": "Skipped",
@@ -342,7 +350,7 @@
    "fit": "Low",
    "fitNote": "Historically derm; now unclear",
    "states": "\"45+\" (unverified)",
-   "contact": "—",
+   "contact": "\u2014",
    "status": "Skip",
    "owes": "None",
    "statusNote": "Skipped",
@@ -365,8 +373,8 @@
    "type": "Considered alternatives",
    "fit": "Unrated",
    "fitNote": "Not yet evaluated in depth",
-   "states": "—",
-   "contact": "—",
+   "states": "\u2014",
+   "contact": "\u2014",
    "status": "Skip",
    "owes": "None",
    "statusNote": "Considered, not contacted",
