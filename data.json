@@ -1,6 +1,6 @@
 {
- "lastUpdated": "2026-10-13T01:20+02:00",
- "lastUpdatedLabel": "Oct 13, 2026, 01:20 CEST (Belgrade)",
+ "lastUpdated": "2026-10-13T01:25+02:00",
+ "lastUpdatedLabel": "Oct 13, 2026, 01:25 CEST (Belgrade)",
  "launch": "Compounded acne topicals (503A, patient-specific)",
  "paths": [
   {
@@ -149,7 +149,8 @@
      "url": "https://nollahealth.com/terms",
      "note": "Nolla terms: consults via 'SteadyMD and its affiliated medical practices'"
     }
-   ]
+   ],
+   "needFromMax": "Give monthly volume, launch states and go-live timing so we can reply to Lindsey"
   },
   {
    "name": "Beluga Health",
@@ -202,7 +203,8 @@
      "url": "https://home.medvi.org/communication",
      "note": "Listed on Medvi's own site"
     }
-   ]
+   ],
+   "needFromMax": "OK to fill out and submit the clinic enrollment form"
   },
   {
    "name": "Precision",
@@ -226,7 +228,8 @@
      "url": "",
      "note": "Internal partner research (Jovia partner report)"
     }
-   ]
+   ],
+   "needFromMax": "Pick an intro slot with Britney (Wed Oct 14 10 AM ET suggested; you fly Tue)"
   },
   {
    "name": "Belmar Pharma Solutions",
