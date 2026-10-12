@@ -1,0 +1,87 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Jovia Health · Vendor Dashboard</title>
+<style>
+:root{--forest:#1E4434;--forest2:#2C5C47;--clay:#C8693F;--clay2:#E08A5E;--cream:#FBF8F2;--sand:#F3ECE1;--line:#E9DFCF;--ink:#23221F;--mute:#9B958A;--sage:#BFD3BE;--peach:#F6DEC7;--red:#A23A1C;
+--serif:"Fraunces",Georgia,"Times New Roman",serif;--sans:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--cream);color:var(--ink);font:15px/1.5 var(--sans)}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+header{background:var(--forest);color:var(--cream);padding:36px 0 30px}
+.brand{font:600 14px var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--peach)}
+h1{font:400 clamp(28px,4vw,42px)/1.1 var(--serif);margin:8px 0 6px}h2{font:400 26px var(--serif);color:var(--forest);margin:34px 0 14px}
+.sub{color:var(--sage);font-size:14px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:24px}
+.stat{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:14px 16px;cursor:pointer;text-align:left;color:inherit;font:inherit}
+.stat b{display:block;font:400 34px var(--serif)}.stat span{font-size:13px;color:var(--sage)}
+.stat.on{background:var(--cream);color:var(--forest)}.stat.on span{color:var(--forest2)}
+.paths{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:-18px}
+.path{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px 20px;box-shadow:0 6px 20px rgba(30,68,52,.06)}
+.path.rec{border-color:var(--clay2);box-shadow:0 6px 24px rgba(200,105,63,.15)}
+.path h3{margin:0 0 4px;font:500 19px var(--serif);color:var(--forest)}.path .w{float:right;font-weight:600;color:var(--clay)}
+.tag{display:inline-block;font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;background:var(--clay);color:#fff;border-radius:99px;padding:2px 9px;margin-left:6px;vertical-align:middle}
+.path p{margin:4px 0 0;color:#555;font-size:14px}
+.controls{position:sticky;top:0;z-index:5;background:var(--cream);padding:14px 0;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+input,select{font:inherit;border:1px solid var(--line);background:#fff;border-radius:10px;padding:9px 12px;color:var(--ink)}input{flex:1;min-width:180px}
+.tog{display:flex;align-items:center;gap:6px;font-size:14px;cursor:pointer;user-select:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:16px 18px;cursor:pointer;transition:.15s}
+.card:hover{border-color:var(--sage);transform:translateY(-1px)}.card.flag{border-left:4px solid var(--red)}
+.top{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}.card h4{margin:0;font:500 19px var(--serif);color:var(--forest)}
+.type{color:var(--mute);font-size:13px;margin:2px 0 10px}
+.pill{white-space:nowrap;font-size:12px;font-weight:600;border-radius:99px;padding:3px 10px}
+.s-active{background:var(--sage);color:var(--forest)}.s-them{background:var(--peach);color:#7a3d1d}.s-us{background:var(--clay);color:#fff}.s-hold{background:var(--sand);color:#6b665c}
+dl{display:grid;grid-template-columns:96px 1fr;gap:4px 10px;margin:0;font-size:13.5px}dt{color:var(--mute)}dd{margin:0}
+.fit{font-weight:600}.f-Strong{color:var(--forest)}.f-Good{color:var(--forest2)}.f-Medium{color:var(--clay)}.f-Low,.f-Unrated{color:var(--mute)}
+.more{display:none;margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);font-size:13.5px}.card.open .more{display:block}
+.flags li{color:var(--red);margin:4px 0}.flags{padding-left:18px;margin:6px 0 0}.hint{font-size:12px;color:var(--mute);margin-top:10px}
+.empty{color:var(--mute);padding:20px 0}
+.tl{list-style:none;padding:0;margin:0;border-left:2px solid var(--sage);margin-left:8px}
+.tl li{position:relative;padding:0 0 14px 22px}.tl li:before{content:"";position:absolute;left:-7px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--forest)}
+.tl li.up:before{background:#fff;border:2px solid var(--clay)}.tl time{font-weight:600;color:var(--forest);margin-right:8px}
+footer{color:var(--mute);font-size:13px;padding:30px 0 40px}
+@media(max-width:700px){.stats{grid-template-columns:1fr 1fr}.paths{grid-template-columns:1fr}.grid{grid-template-columns:1fr}}
+</style></head><body>
+<header><div class="wrap"><div class="brand">Jovia Health</div><h1>Partner &amp; vendor dashboard</h1>
+<div class="sub" id="meta"></div><div class="stats" id="stats"></div></div></header>
+<main class="wrap"><div style="height:36px"></div><div class="paths" id="paths"></div>
+<h2>Vendors</h2>
+<div class="controls"><input id="q" placeholder="Search vendors, contacts, notes…">
+<select id="role"><option value="">All roles</option></select><select id="status"><option value="">All statuses</option></select>
+<select id="fit"><option value="">Any fit</option></select><label class="tog"><input type="checkbox" id="rf" style="min-width:0;flex:0"> Red flags only</label></div>
+<div id="groups"></div>
+<h2>Today</h2><ul class="tl" id="tl"></ul></main>
+<footer class="wrap" id="foot"></footer>
+<script>
+const G={"Active talks":"active","Waiting on them":"them","Waiting on us":"us","On hold":"hold","Skip":"hold"};
+const BUCKETS=[["active","Active talks"],["them","Waiting on them"],["us","Waiting on us"],["hold","On hold / skip"]];
+const ROLES=["Clinicians","Pharmacy 503A","Turnkey platform","On hold / Skipped"];
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let D,bucket="";
+fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{D=d;init()});
+function init(){
+ document.getElementById("meta").textContent="Launch: "+D.launch+" · Last updated "+D.lastUpdatedLabel;
+ document.getElementById("foot").textContent="Last updated "+D.lastUpdatedLabel+". Internal working document — statuses and vendor claims are unverified until confirmed on calls.";
+ document.getElementById("paths").innerHTML=D.paths.map(p=>`<div class="path ${p.recommended?"rec":""}"><span class="w">${esc(p.weeks)}</span><h3>Path ${p.id} · ${esc(p.name)}${p.recommended?'<span class="tag">Recommended</span>':""}</h3><div><b>${esc(p.vendors)}</b></div><p>${esc(p.note)}</p></div>`).join("");
+ const opt=(id,vals)=>document.getElementById(id).insertAdjacentHTML("beforeend",vals.map(v=>`<option>${esc(v)}</option>`).join(""));
+ opt("role",ROLES);opt("status",[...new Set(D.vendors.map(v=>v.status))]);opt("fit",["Strong","Good","Medium","Low","Unrated"]);
+ ["q","role","status","fit","rf"].forEach(i=>document.getElementById(i).addEventListener("input",render));
+ document.getElementById("tl").innerHTML=D.timeline.map(t=>`<li class="${t.upcoming?"up":""}"><time>${esc(t.time)}</time>${esc(t.text)}${t.upcoming?" <em>(upcoming)</em>":""}</li>`).join("");
+ render();
+}
+function render(){
+ const q=document.getElementById("q").value.toLowerCase(),r=role.value,s=status.value,f=fit.value,rf=document.getElementById("rf").checked;
+ const st=document.getElementById("stats");
+ st.innerHTML=BUCKETS.map(([k,l])=>`<button class="stat ${bucket===k?"on":""}" data-k="${k}"><b>${D.vendors.filter(v=>G[v.status]===k).length}</b><span>${l}</span></button>`).join("");
+ st.querySelectorAll("button").forEach(b=>b.onclick=()=>{bucket=bucket===b.dataset.k?"":b.dataset.k;render()});
+ const list=D.vendors.filter(v=>(!r||v.role===r)&&(!s||v.status===s)&&(!f||v.fit===f)&&(!rf||v.flags.some(x=>!/^No FDA|^No Arkansas|unverified; phone/i.test(x)))&&(!bucket||G[v.status]===bucket)&&(!q||JSON.stringify(v).toLowerCase().includes(q)));
+ document.getElementById("groups").innerHTML=ROLES.map(R=>{const vs=list.filter(v=>v.role===R);if(!vs.length)return"";
+  return `<h3 style="font:500 15px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin:22px 0 10px">${R} · ${vs.length}</h3><div class="grid">${vs.map(card).join("")}</div>`}).join("")||'<p class="empty">No vendors match these filters.</p>';
+ document.querySelectorAll(".card").forEach(c=>c.onclick=()=>c.classList.toggle("open"));
+}
+function card(v){const serious=v.flags.some(x=>!/^No FDA|^No Arkansas|unverified; phone/i.test(x));
+ return `<article class="card ${serious?"flag":""}"><div class="top"><h4>${esc(v.name)}</h4><span class="pill s-${G[v.status]}">${esc(v.status)}</span></div>
+ <div class="type">${esc(v.type)}</div><dl><dt>Next move</dt><dd><b>${esc(v.owes)}</b></dd><dt>Fit</dt><dd><span class="fit f-${v.fit}">${esc(v.fit)}</span></dd>
+ <dt>States</dt><dd>${esc(v.states)}</dd><dt>Contact</dt><dd>${esc(v.contact)}</dd><dt>Next step</dt><dd>${esc(v.next)}</dd><dt>Updated</dt><dd>${esc(v.updated)}</dd></dl>
+ <div class="more"><div><b>Status:</b> ${esc(v.statusNote)}</div><div><b>Fit notes:</b> ${esc(v.fitNote)}</div>${v.path?`<div><b>Part of Path ${v.path}</b></div>`:""}
+ ${v.flags.length?`<div style="margin-top:8px"><b>Red flags &amp; diligence</b><ul class="flags">${v.flags.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`:"<div>No red flags noted.</div>"}</div>
+ <div class="hint">${serious?"⚑ Red flag · ":""}Tap for details</div></article>`}
+</script></body></html>
