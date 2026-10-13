@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-13T16:10+02:00",
-  "lastUpdatedLabel": "Oct 13, 2026, 16:10 CEST (Belgrade)",
+  "lastUpdated": "2026-10-13T17:55+02:00",
+  "lastUpdatedLabel": "Oct 13, 2026, 17:55 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -112,6 +112,10 @@
     {
       "time": "15:52",
       "text": "MD Integrations intro call booked with Dominic Nassivera: Tue Oct 13, 1:00–1:30 PM ET (7:00–7:30 PM CEST) on Zoom."
+    },
+    {
+      "time": "17:38",
+      "text": "Precision (Jordan Lund) followed up after the intro call: API docs, catalog, implementation guides and contract draft; asks which products to put on the formulary for a pricing proposal. Waiting on Max."
     }
   ],
   "vendors": [
@@ -229,14 +233,15 @@
       "fit": "Medium",
       "fitNote": "Pharmacy side only; confirm derm formulary",
       "states": "Confirm",
-      "contact": "Britney Stella, Territory Sales Rep (britstella@mypcphealth.com, 516-833-6262); cc jordan.lund@precisionmeds.com",
-      "status": "Active talks",
-      "owes": "Vendor: intro call Tue Oct 13, 10:30 AM ET",
-      "statusNote": "Intro call booked: Tue Oct 13, 10:30–11:00 AM ET (16:30–17:00 CEST) with Britney Stella + Jordan Lund on Google Meet. Max confirmed Oct 13 ~02:35 CEST; Phil invited. Catalog sent; pricing 1–3 days after call; $5k implementation deposit (credited).",
-      "next": "Take the intro call; confirm derm formulary, state coverage and turnaround; pricing expected 1–3 days after. Deposit/pricing remain Max decisions.",
+      "contact": "Jordan Lund, Director of Business Development (jordan.lund@precisionmeds.com, 516-833-6262); Britney Stella, Territory Sales Rep (britstella@mypcphealth.com)",
+      "status": "Waiting on us",
+      "owes": "Us (pick formulary products)",
+      "statusNote": "Intro call held Tue Oct 13, 10:30 AM ET with Max + Phil. Jordan Lund followed up Oct 13 ~17:38 CEST with API docs, product catalog (PDF), dashboard guide, implementation scenarios and a contract draft. Asks which products Jovia wants on its formulary so he can build a pricing proposal.",
+      "next": "Max (and Phil) pick the acne products for the formulary and reply to Jordan; pricing proposal follows. Contract draft and $5k deposit are Max decisions; nothing signed or paid.",
       "updated": "Oct 13",
       "flags": [
-        "$5,000 implementation deposit required before API access (100% credited to future invoices)."
+        "$5,000 implementation deposit required before API access (100% credited to future invoices).",
+        "Contract draft received Oct 13; not reviewed or signed."
       ],
       "sources": [
         {
@@ -244,7 +249,8 @@
           "url": "",
           "note": "Internal partner research (Jovia partner report)"
         }
-      ]
+      ],
+      "needFromMax": "Reply to Jordan Lund with the products you want on your formulary (pricing proposal comes after); review the contract draft"
     },
     {
       "name": "Belmar Pharma Solutions",
