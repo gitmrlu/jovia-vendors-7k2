@@ -1,414 +1,421 @@
 {
- "lastUpdated": "2026-10-13T01:25+02:00",
- "lastUpdatedLabel": "Oct 13, 2026, 01:25 CEST (Belgrade)",
- "launch": "Compounded acne topicals (503A, patient-specific)",
- "paths": [
-  {
-   "id": "A",
-   "name": "Direct",
-   "vendors": "SteadyMD + 503A pharmacy (Curexa declined)",
-   "weeks": "8–14 weeks",
-   "note": "More control and better unit economics; we run more of the stack. Curexa declined on volume/LegitScript — need another 503A (RedRock/Precision/Belmar) with SteadyMD.",
-   "recommended": true
-  },
-  {
-   "id": "B",
-   "name": "Turnkey",
-   "vendors": "MD Integrations",
-   "weeks": "3–8 weeks",
-   "note": "Fastest to first patients; less control, platform fees.",
-   "recommended": false
-  }
- ],
- "timeline": [
-  {
-   "time": "14:36",
-   "text": "Called Curexa before opening; after-hours line, voicemail cut off."
-  },
-  {
-   "time": "15:07",
-   "text": "Business-hours retry to Curexa; reached main menu."
-  },
-  {
-   "time": "16:05",
-   "text": "Curexa (Bianca Lin) replied: licensed in all 50 states; asked for discovery form."
-  },
-  {
-   "time": "16:30",
-   "text": "Curexa discovery form submitted; Max replied open to a call."
-  },
-  {
-   "time": "16:45",
-   "text": "Additional vendors vetted; Triad Rx and Beaker skipped, OpenLoop put on hold."
-  },
-  {
-   "time": "17:02",
-   "text": "Outreach emailed to RedRock, CareValidate, Beluga and Precision."
-  },
-  {
-   "time": "17:05",
-   "text": "Belmar call started to find telehealth partnerships contact."
-  },
-  {
-   "time": "17:25",
-   "text": "Added source tags showing why each vendor is on the list."
-  },
-  {
-   "time": "17:26",
-   "text": "Belmar 2nd call (~3.5 min): live Colorado rep answered, hung up mid-intro. No named contact; callback not delivered. Menu confirmed pharmacy@belmarpharmacy.com."
-  },
-  {
-   "time": "18:24",
-   "text": "SteadyMD call window (planned); no SteadyMD Inkbox call logged by ~18:40 CEST."
-  },
-  {
-   "time": "17:26",
-   "text": "Belmar: emailed pharmacy@belmarpharmacy.com; 2nd call reached a Colorado rep then hung up mid-intro."
-  },
-  {
-   "time": "17:42",
-   "text": "Precision replied (Britney Stella): open to an intro call, sent catalog; pricing after call, $5k credited implementation deposit, ~30-day go-live. We asked for call times."
-  },
-  {
-   "time": "18:07",
-   "text": "Precision (Britney Stella) sent intro call slots for Oct 13–16 ET; waiting on Max to pick one."
-  },
-  {
-   "time": "18:54",
-   "text": "RedRock (Lucho, CSR) replied: passed inquiry to marketing for clinic pricing/partnership; expect outreach in 1–2 business days."
-  },
-  {
-   "time": "18:49",
-   "text": "SteadyMD main line (+1-800-449-4280) called again; busy/declined (same as earlier attempt). Still no live connect."
-  },
-  {
-   "time": "19:13",
-   "text": "Curexa (Bianca Lin) declined: needs 500–1,000+ Rx/month + LegitScript; volume projections below minimum. On hold; reconnect later."
-  },
-  {
-   "time": "22:49",
-   "text": "SteadyMD (Lindsey Anderson, VP Enterprise Sales) replied: wants clinical scope, patient population, scale/volume, state coverage and timing before next step. Waiting on Max."
-  },
-  {
-   "time": "00:16",
-   "text": "RedRock (Relinda Pedrus, Onboarding) replied: sent drug catalog + Clinic Enrollment form; pricing after completed verification form; no Arkansas. Waiting on Max."
-  },
-  {
-   "time": "01:20",
-   "text": "Dashboard: status pills + summary strip added; Curexa marked Declined (open to reconnect later)."
-  }
- ],
- "vendors": [
-  {
-   "name": "Curexa",
-   "role": "Pharmacy 503A",
-   "type": "503A compounding pharmacy (PCAB, LegitScript)",
-   "fit": "Low",
-   "fitNote": "Strong ops fit, but minimum volume (500–1k+ Rx/mo) + LegitScript bar out for pre-launch",
-   "states": "All 50",
-   "contact": "Bianca Lin, Pharm.D. · blin@curexa.com · 855-927-0390",
-   "status": "Declined",
-   "owes": "Declined for now; open to reconnect later",
-   "statusNote": "Bianca Lin declined Oct 12 ~19:13 CEST: need consistent 500–1,000+ Rx/month + LegitScript; current volume projections below minimum. Door open to reconnect later.",
-   "next": "Path A pharmacy: prioritize RedRock / Precision / Belmar. Revisit Curexa only after LegitScript + volume plan. No reply sent yet (Max decides).",
-   "updated": "Oct 12",
-   "path": "A",
-   "flags": [
-    "Declined for launch: 500–1,000+ Rx/mo minimum + LegitScript required.",
-    "2023 FDA warning letter — ask what was remediated."
-   ],
-   "sources": [
+  "lastUpdated": "2026-10-13T14:10+02:00",
+  "lastUpdatedLabel": "Oct 13, 2026, 14:10 CEST (Belgrade)",
+  "launch": "Compounded acne topicals (503A, patient-specific)",
+  "paths": [
     {
-     "tag": "Used by Nolla Health",
-     "url": "https://nollahealth.com/privacy-policy",
-     "note": "Nolla privacy policy names Curexa as its pharmacy"
-    }
-   ]
-  },
-  {
-   "name": "SteadyMD",
-   "role": "Clinicians",
-   "type": "Clinician network (B2B telehealth, partner API)",
-   "fit": "Good",
-   "fitNote": "Derm via condition-specific care; confirm compounded Rx support",
-   "states": "All 50",
-   "contact": "Lindsey Anderson, lindsey@steadymd.com (partnerships@steadymd.com)",
-   "status": "Waiting on us",
-   "owes": "Us (Max to answer Lindsey)",
-   "statusNote": "Lindsey Anderson (VP, Enterprise Sales) replied Oct 12 ~22:49 CEST: open to partnering; asks for clinical scope/conditions, new vs existing patients, expected scale/volume, state coverage and timing. Notes they typically work with programs with clear demand and defined patient volume.",
-   "next": "Max to reply to Lindsey (lindsey@steadymd.com) with scope (acne topicals), launch states, timing and volume estimate; then ask for an intro call, pricing, PC/MSO model, BAA.",
-   "updated": "Oct 12",
-   "path": "A",
-   "flags": [
-    "Possibly now part of DocGo — confirm ownership and whether terms changed.",
-    "Requires patient choice of pharmacy."
-   ],
-   "sources": [
-    {
-     "tag": "Used by Nolla Health",
-     "url": "https://nollahealth.com/terms",
-     "note": "Nolla terms: consults via 'SteadyMD and its affiliated medical practices'"
-    }
-   ],
-   "needFromMax": "Give monthly volume, launch states and go-live timing so we can reply to Lindsey"
-  },
-  {
-   "name": "Beluga Health",
-   "role": "Clinicians",
-   "type": "Clinicians only (async / video)",
-   "fit": "Medium",
-   "fitNote": "Clinician side only; pair with a pharmacy",
-   "states": "Confirm",
-   "contact": "gordon@belugahealth.com",
-   "status": "Waiting on vendor",
-   "owes": "Vendor: Beluga to reply",
-   "statusNote": "Email sent Oct 12, 17:02",
-   "next": "Await reply",
-   "updated": "Oct 12",
-   "flags": [],
-   "sources": [
-    {
-     "tag": "Research of alternatives",
-     "url": "",
-     "note": "Internal partner research (Jovia partner report)"
+      "id": "A",
+      "name": "Direct",
+      "vendors": "SteadyMD + 503A pharmacy (Curexa declined)",
+      "weeks": "8–14 weeks",
+      "note": "More control and better unit economics; we run more of the stack. Curexa declined on volume/LegitScript — need another 503A (RedRock/Precision/Belmar) with SteadyMD.",
+      "recommended": true
     },
     {
-     "tag": "Used by Medvi (reported)",
-     "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
-     "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
+      "id": "B",
+      "name": "Turnkey",
+      "vendors": "MD Integrations",
+      "weeks": "3–8 weeks",
+      "note": "Fastest to first patients; less control, platform fees.",
+      "recommended": false
     }
-   ]
-  },
-  {
-   "name": "RedRock Pharmacy",
-   "role": "Pharmacy 503A",
-   "type": "503A pharmacy (sterile + non-sterile), St. George / Springville, UT",
-   "fit": "Good",
-   "fitNote": "Lists skincare; telehealth integration; patient-direct shipping",
-   "states": "49 (not AR)",
-   "contact": "Relinda Pedrus, Onboarding Specialist · onboarding@redrockrx.com · 801-500-1720 (also compounding@redrockrx.com · 801-839-5080)",
-   "status": "Waiting on us",
-   "owes": "Us (verification form)",
-   "statusNote": "Relinda Pedrus (Onboarding) emailed Oct 13 ~00:08 CEST: sent drug catalog + Clinic Enrollment & Documentation Form. Pricing/partnership details only after completed verification form; then API specialist for e-prescribing/integration/turnaround. Confirms no Arkansas.",
-   "next": "Max reviews catalog + decides whether to complete verification/enrollment form (onboarding@redrockrx.com). Do not fill or submit without Max. Marketing also reaching out with clinic pricing in 1-2 business days. Cannot ship to Arkansas.",
-   "updated": "Oct 13",
-   "flags": [
-    "No FDA letters or lawsuits found.",
-    "No Arkansas coverage.",
-    "Verification/enrollment form required before pricing (Relinda Pedrus, Oct 13)."
-   ],
-   "sources": [
+  ],
+  "timeline": [
     {
-     "tag": "Used by Medvi",
-     "url": "https://home.medvi.org/communication",
-     "note": "Listed on Medvi's own site"
-    }
-   ],
-   "needFromMax": "OK to fill out and submit the clinic enrollment form"
-  },
-  {
-   "name": "Precision",
-   "role": "Pharmacy 503A",
-   "type": "Compounding pharmacy",
-   "fit": "Medium",
-   "fitNote": "Pharmacy side only; confirm derm formulary",
-   "states": "Confirm",
-   "contact": "Britney Stella, Territory Sales Rep (britstella@mypcphealth.com, 516-833-6262); cc jordan.lund@precisionmeds.com",
-   "status": "Waiting on us",
-   "owes": "Us (pick call slot)",
-   "statusNote": "Britney Stella offered intro slots (ET): Tue Oct 13 10:30–11:00 AM or 4:00–4:30 PM; Wed Oct 14 10:00–10:30 AM; Thu Oct 15 10:00–10:30 AM or 2:00–2:30 PM; Fri Oct 16 2:00–2:30 PM. Catalog sent; pricing after call; $5k implementation deposit (credited).",
-   "next": "Max picks a slot (Wed Oct 14 10:00 ET suggested; Max flies Tue Oct 13); then confirm to Britney (britstella@mypcphealth.com). Deposit/pricing remain Max decisions.",
-   "updated": "Oct 12",
-   "flags": [
-    "$5,000 implementation deposit required before API access (100% credited to future invoices)."
-   ],
-   "sources": [
-    {
-     "tag": "Research of alternatives",
-     "url": "",
-     "note": "Internal partner research (Jovia partner report)"
-    }
-   ],
-   "needFromMax": "Pick an intro slot with Britney (Wed Oct 14 10 AM ET suggested; you fly Tue)"
-  },
-  {
-   "name": "Belmar Pharma Solutions",
-   "role": "Pharmacy 503A",
-   "type": "Six 503A pharmacies + two 503B (CO)",
-   "fit": "Medium",
-   "fitNote": "OK via 503A arm only; core is hormones, acne TBC",
-   "states": "503A: all 50",
-   "contact": "800-525-9473 · pharmacy@belmarpharmacy.com (confirmed by phone menu)",
-   "status": "Waiting on vendor",
-   "owes": "Vendor: Belmar to reply",
-   "statusNote": "Email sent Oct 12; 2 calls reached staff (Pam; Colorado rep) but both cut off before answers",
-   "next": "Await reply; follow up if silent by Wed Oct 14",
-   "updated": "Oct 12",
-   "flags": [
-    "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
-    "pharmacy@belmarpharmacy.com confirmed via phone menu; outreach email sent Oct 12."
-   ],
-   "sources": [
-    {
-     "tag": "Used by Medvi (reported)",
-     "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
-     "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
+      "time": "14:36",
+      "text": "Called Curexa before opening; after-hours line, voicemail cut off."
     },
     {
-     "tag": "Used by Medvi (reported)",
-     "url": "https://medvi.io/safety-standards-503b-pharmacy-partner/",
-     "note": "medvi.io page calls Belmar a 'verified partner' (medvi.io is not Medvi's main home.medvi.org domain)"
-    }
-   ]
-  },
-  {
-   "name": "MD Integrations",
-   "role": "Turnkey platform",
-   "type": "Clinicians + pharmacy routing + platform",
-   "fit": "Good",
-   "fitNote": "Can staff board-certified dermatologists",
-   "states": "All 50 (confirm)",
-   "contact": "Ramin Zacharia · Jim Flowers-Glotz, Director of Sales",
-   "status": "Active talks",
-   "owes": "Vendor: Jim owes call times",
-   "statusNote": "Jim to set up a call this week",
-   "next": "Await Jim Flowers-Glotz's intro-call times; then take call, get pricing and timeline",
-   "updated": "Oct 12",
-   "path": "B",
-   "flags": [],
-   "sources": [
-    {
-     "tag": "Research of alternatives",
-     "url": "",
-     "note": "Internal partner research (Jovia partner report)"
-    }
-   ]
-  },
-  {
-   "name": "CareValidate",
-   "role": "Turnkey platform",
-   "type": "Platform + provider network + 503A/503B routing",
-   "fit": "Medium",
-   "fitNote": "Focus is GLP-1/HRT; derm not advertised",
-   "states": "Claims all 50",
-   "contact": "support@carevalidate.com · 678-661-9377",
-   "status": "Waiting on vendor",
-   "owes": "Vendor: CareValidate to reply",
-   "statusNote": "Email sent Oct 12, 17:02",
-   "next": "Await reply; ask which 503A pharmacy compounds derm, LegitScript cert",
-   "updated": "Oct 12",
-   "flags": [
-    "No FDA letters or lawsuits found.",
-    "Heavy GLP-1 client exposure — request pharmacy list and LegitScript certificate."
-   ],
-   "sources": [
-    {
-     "tag": "Used by Medvi (reported)",
-     "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
-     "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
-    }
-   ]
-  },
-  {
-   "name": "OpenLoop",
-   "role": "On hold / Skipped",
-   "type": "Clinicians + ops/platform",
-   "fit": "Medium",
-   "fitNote": "Clinician side only",
-   "states": "—",
-   "contact": "—",
-   "status": "On hold",
-   "owes": "On hold: lawsuit (RICO) risk review",
-   "statusNote": "On hold",
-   "next": "Hold pending lawsuit risk review",
-   "updated": "Oct 12",
-   "flags": [
-    "Defendant in Day v. OpenLoop Health, RICO class action (D. Del. No. 1:25-cv-01418) over compounded oral tirzepatide. Allegations only, but reputational / LegitScript risk.",
-    "Related: Novo Nordisk v. Link Pharmacy (N.D. Tex. No. 3:25-cv-02061); Link reportedly shares holding companies with OpenLoop (unverified)."
-   ],
-   "sources": [
-    {
-     "tag": "Used by Medvi",
-     "url": "https://home.medvi.org/communication",
-     "note": "Listed on Medvi's own site"
+      "time": "15:07",
+      "text": "Business-hours retry to Curexa; reached main menu."
     },
     {
-     "tag": "Research of alternatives",
-     "url": "",
-     "note": "Internal partner research (Jovia partner report)"
-    }
-   ]
-  },
-  {
-   "name": "Triad Rx",
-   "role": "On hold / Skipped",
-   "type": "Small 503A pharmacy (Daphne, AL)",
-   "fit": "Low",
-   "fitNote": "Some derm, small",
-   "states": "Unclear",
-   "contact": "—",
-   "status": "Skipped",
-   "owes": "None",
-   "statusNote": "Skipped",
-   "next": "None",
-   "updated": "Oct 12",
-   "flags": [
-    "Co-defendant in Day v. OpenLoop Health (D. Del. No. 1:25-cv-01418).",
-    "Reportedly owned by OpenLoop's founders (allegation backed by state records)."
-   ],
-   "sources": [
+      "time": "16:05",
+      "text": "Curexa (Bianca Lin) replied: licensed in all 50 states; asked for discovery form."
+    },
     {
-     "tag": "Used by Medvi",
-     "url": "https://home.medvi.org/communication",
-     "note": "Listed on Medvi's own site"
-    }
-   ]
-  },
-  {
-   "name": "Beaker Pharmacy",
-   "role": "On hold / Skipped",
-   "type": "503A pharmacy (McKinney, TX)",
-   "fit": "Low",
-   "fitNote": "Historically derm; now unclear",
-   "states": "\"45+\" (unverified)",
-   "contact": "—",
-   "status": "Skipped",
-   "owes": "None",
-   "statusNote": "Skipped",
-   "next": "None",
-   "updated": "Oct 12",
-   "flags": [
-    "Retail reportedly closed Feb 2026 after acquisition; new licensee (APTEEK RX, LLC); ownership unclear."
-   ],
-   "sources": [
+      "time": "16:30",
+      "text": "Curexa discovery form submitted; Max replied open to a call."
+    },
     {
-     "tag": "Used by Medvi",
-     "url": "https://home.medvi.org/communication",
-     "note": "Listed on Medvi's own site"
-    }
-   ]
-  },
-  {
-   "name": "Wheel, Strive, Foothills",
-   "role": "On hold / Skipped",
-   "type": "Considered alternatives",
-   "fit": "Unrated",
-   "fitNote": "Not yet evaluated in depth",
-   "states": "—",
-   "contact": "—",
-   "status": "Not contacted",
-   "owes": "None",
-   "statusNote": "Considered, not contacted",
-   "next": "Revisit if primaries stall",
-   "updated": "Oct 12",
-   "flags": [],
-   "sources": [
+      "time": "16:45",
+      "text": "Additional vendors vetted; Triad Rx and Beaker skipped, OpenLoop put on hold."
+    },
     {
-     "tag": "Research of alternatives",
-     "url": "",
-     "note": "Internal partner research (Jovia partner report)"
+      "time": "17:02",
+      "text": "Outreach emailed to RedRock, CareValidate, Beluga and Precision."
+    },
+    {
+      "time": "17:05",
+      "text": "Belmar call started to find telehealth partnerships contact."
+    },
+    {
+      "time": "17:25",
+      "text": "Added source tags showing why each vendor is on the list."
+    },
+    {
+      "time": "17:26",
+      "text": "Belmar 2nd call (~3.5 min): live Colorado rep answered, hung up mid-intro. No named contact; callback not delivered. Menu confirmed pharmacy@belmarpharmacy.com."
+    },
+    {
+      "time": "18:24",
+      "text": "SteadyMD call window (planned); no SteadyMD Inkbox call logged by ~18:40 CEST."
+    },
+    {
+      "time": "17:26",
+      "text": "Belmar: emailed pharmacy@belmarpharmacy.com; 2nd call reached a Colorado rep then hung up mid-intro."
+    },
+    {
+      "time": "17:42",
+      "text": "Precision replied (Britney Stella): open to an intro call, sent catalog; pricing after call, $5k credited implementation deposit, ~30-day go-live. We asked for call times."
+    },
+    {
+      "time": "18:07",
+      "text": "Precision (Britney Stella) sent intro call slots for Oct 13–16 ET; waiting on Max to pick one."
+    },
+    {
+      "time": "18:54",
+      "text": "RedRock (Lucho, CSR) replied: passed inquiry to marketing for clinic pricing/partnership; expect outreach in 1–2 business days."
+    },
+    {
+      "time": "18:49",
+      "text": "SteadyMD main line (+1-800-449-4280) called again; busy/declined (same as earlier attempt). Still no live connect."
+    },
+    {
+      "time": "19:13",
+      "text": "Curexa (Bianca Lin) declined: needs 500–1,000+ Rx/month + LegitScript; volume projections below minimum. On hold; reconnect later."
+    },
+    {
+      "time": "22:49",
+      "text": "SteadyMD (Lindsey Anderson, VP Enterprise Sales) replied: wants clinical scope, patient population, scale/volume, state coverage and timing before next step. Waiting on Max."
+    },
+    {
+      "time": "00:16",
+      "text": "RedRock (Relinda Pedrus, Onboarding) replied: sent drug catalog + Clinic Enrollment form; pricing after completed verification form; no Arkansas. Waiting on Max."
+    },
+    {
+      "time": "01:20",
+      "text": "Dashboard: status pills + summary strip added; Curexa marked Declined (open to reconnect later)."
+    },
+    {
+      "time": "02:35",
+      "text": "Precision: intro call booked for Tue Oct 13, 10:30 AM ET (16:30 CEST) with Britney Stella + Jordan Lund; Phil invited."
+    },
+    {
+      "time": "14:00",
+      "text": "MD Integrations (Jim Flowers-Glotz) looped in Dominic Nassivera to schedule a call with Max this week."
     }
-   ]
-  }
- ]
+  ],
+  "vendors": [
+    {
+      "name": "Curexa",
+      "role": "Pharmacy 503A",
+      "type": "503A compounding pharmacy (PCAB, LegitScript)",
+      "fit": "Low",
+      "fitNote": "Strong ops fit, but minimum volume (500–1k+ Rx/mo) + LegitScript bar out for pre-launch",
+      "states": "All 50",
+      "contact": "Bianca Lin, Pharm.D. · blin@curexa.com · 855-927-0390",
+      "status": "Declined",
+      "owes": "Declined for now; open to reconnect later",
+      "statusNote": "Bianca Lin declined Oct 12 ~19:13 CEST: need consistent 500–1,000+ Rx/month + LegitScript; current volume projections below minimum. Door open to reconnect later.",
+      "next": "Path A pharmacy: prioritize RedRock / Precision / Belmar. Revisit Curexa only after LegitScript + volume plan. No reply sent yet (Max decides).",
+      "updated": "Oct 12",
+      "path": "A",
+      "flags": [
+        "Declined for launch: 500–1,000+ Rx/mo minimum + LegitScript required.",
+        "2023 FDA warning letter — ask what was remediated."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Nolla Health",
+          "url": "https://nollahealth.com/privacy-policy",
+          "note": "Nolla privacy policy names Curexa as its pharmacy"
+        }
+      ]
+    },
+    {
+      "name": "SteadyMD",
+      "role": "Clinicians",
+      "type": "Clinician network (B2B telehealth, partner API)",
+      "fit": "Good",
+      "fitNote": "Derm via condition-specific care; confirm compounded Rx support",
+      "states": "All 50",
+      "contact": "Lindsey Anderson, lindsey@steadymd.com (partnerships@steadymd.com)",
+      "status": "Waiting on us",
+      "owes": "Us (Max to answer Lindsey)",
+      "statusNote": "Lindsey Anderson (VP, Enterprise Sales) replied Oct 12 ~22:49 CEST: open to partnering; asks for clinical scope/conditions, new vs existing patients, expected scale/volume, state coverage and timing. Notes they typically work with programs with clear demand and defined patient volume.",
+      "next": "Max to reply to Lindsey (lindsey@steadymd.com) with scope (acne topicals), launch states, timing and volume estimate; then ask for an intro call, pricing, PC/MSO model, BAA.",
+      "updated": "Oct 12",
+      "path": "A",
+      "flags": [
+        "Possibly now part of DocGo — confirm ownership and whether terms changed.",
+        "Requires patient choice of pharmacy."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Nolla Health",
+          "url": "https://nollahealth.com/terms",
+          "note": "Nolla terms: consults via 'SteadyMD and its affiliated medical practices'"
+        }
+      ],
+      "needFromMax": "Give monthly volume, launch states and go-live timing so we can reply to Lindsey"
+    },
+    {
+      "name": "Beluga Health",
+      "role": "Clinicians",
+      "type": "Clinicians only (async / video)",
+      "fit": "Medium",
+      "fitNote": "Clinician side only; pair with a pharmacy",
+      "states": "Confirm",
+      "contact": "gordon@belugahealth.com",
+      "status": "Waiting on vendor",
+      "owes": "Vendor: Beluga to reply",
+      "statusNote": "Email sent Oct 12, 17:02",
+      "next": "Await reply",
+      "updated": "Oct 12",
+      "flags": [],
+      "sources": [
+        {
+          "tag": "Research of alternatives",
+          "url": "",
+          "note": "Internal partner research (Jovia partner report)"
+        },
+        {
+          "tag": "Used by Medvi (reported)",
+          "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
+          "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
+        }
+      ]
+    },
+    {
+      "name": "RedRock Pharmacy",
+      "role": "Pharmacy 503A",
+      "type": "503A pharmacy (sterile + non-sterile), St. George / Springville, UT",
+      "fit": "Good",
+      "fitNote": "Lists skincare; telehealth integration; patient-direct shipping",
+      "states": "49 (not AR)",
+      "contact": "Relinda Pedrus, Onboarding Specialist · onboarding@redrockrx.com · 801-500-1720 (also compounding@redrockrx.com · 801-839-5080)",
+      "status": "Waiting on us",
+      "owes": "Us (verification form)",
+      "statusNote": "Relinda Pedrus (Onboarding) emailed Oct 13 ~00:08 CEST: sent drug catalog + Clinic Enrollment & Documentation Form. Pricing/partnership details only after completed verification form; then API specialist for e-prescribing/integration/turnaround. Confirms no Arkansas.",
+      "next": "Max reviews catalog + decides whether to complete verification/enrollment form (onboarding@redrockrx.com). Do not fill or submit without Max. Marketing also reaching out with clinic pricing in 1-2 business days. Cannot ship to Arkansas.",
+      "updated": "Oct 13",
+      "flags": [
+        "No FDA letters or lawsuits found.",
+        "No Arkansas coverage.",
+        "Verification/enrollment form required before pricing (Relinda Pedrus, Oct 13)."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi",
+          "url": "https://home.medvi.org/communication",
+          "note": "Listed on Medvi's own site"
+        }
+      ],
+      "needFromMax": "OK to fill out and submit the clinic enrollment form"
+    },
+    {
+      "name": "Precision",
+      "role": "Pharmacy 503A",
+      "type": "Compounding pharmacy",
+      "fit": "Medium",
+      "fitNote": "Pharmacy side only; confirm derm formulary",
+      "states": "Confirm",
+      "contact": "Britney Stella, Territory Sales Rep (britstella@mypcphealth.com, 516-833-6262); cc jordan.lund@precisionmeds.com",
+      "status": "Active talks",
+      "owes": "Vendor: intro call Tue Oct 13, 10:30 AM ET",
+      "statusNote": "Intro call booked: Tue Oct 13, 10:30–11:00 AM ET (16:30–17:00 CEST) with Britney Stella + Jordan Lund on Google Meet. Max confirmed Oct 13 ~02:35 CEST; Phil invited. Catalog sent; pricing 1–3 days after call; $5k implementation deposit (credited).",
+      "next": "Take the intro call; confirm derm formulary, state coverage and turnaround; pricing expected 1–3 days after. Deposit/pricing remain Max decisions.",
+      "updated": "Oct 13",
+      "flags": [
+        "$5,000 implementation deposit required before API access (100% credited to future invoices)."
+      ],
+      "sources": [
+        {
+          "tag": "Research of alternatives",
+          "url": "",
+          "note": "Internal partner research (Jovia partner report)"
+        }
+      ]
+    },
+    {
+      "name": "Belmar Pharma Solutions",
+      "role": "Pharmacy 503A",
+      "type": "Six 503A pharmacies + two 503B (CO)",
+      "fit": "Medium",
+      "fitNote": "OK via 503A arm only; core is hormones, acne TBC",
+      "states": "503A: all 50",
+      "contact": "800-525-9473 · pharmacy@belmarpharmacy.com (confirmed by phone menu)",
+      "status": "Waiting on vendor",
+      "owes": "Vendor: Belmar to reply",
+      "statusNote": "Email sent Oct 12; 2 calls reached staff (Pam; Colorado rep) but both cut off before answers",
+      "next": "Await reply; follow up if silent by Wed Oct 14",
+      "updated": "Oct 12",
+      "flags": [
+        "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
+        "pharmacy@belmarpharmacy.com confirmed via phone menu; outreach email sent Oct 12."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi (reported)",
+          "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
+          "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
+        },
+        {
+          "tag": "Used by Medvi (reported)",
+          "url": "https://medvi.io/safety-standards-503b-pharmacy-partner/",
+          "note": "medvi.io page calls Belmar a 'verified partner' (medvi.io is not Medvi's main home.medvi.org domain)"
+        }
+      ]
+    },
+    {
+      "name": "MD Integrations",
+      "role": "Turnkey platform",
+      "type": "Clinicians + pharmacy routing + platform",
+      "fit": "Good",
+      "fitNote": "Can staff board-certified dermatologists",
+      "states": "All 50 (confirm)",
+      "contact": "Ramin Zacharia · Jim Flowers-Glotz, Director of Sales · Dominic Nassivera (scheduling)",
+      "status": "Active talks",
+      "owes": "Vendor: Dominic to propose call times",
+      "statusNote": "Jim Flowers-Glotz replied Oct 13 ~14:00 CEST, asking Dominic Nassivera (dominic.nassivera@mdintegrations.com) to find a time this week to meet Max; Jim may join.",
+      "next": "Await Dominic Nassivera's call times; then take call, get pricing and timeline.",
+      "updated": "Oct 13",
+      "path": "B",
+      "flags": [],
+      "sources": [
+        {
+          "tag": "Research of alternatives",
+          "url": "",
+          "note": "Internal partner research (Jovia partner report)"
+        }
+      ]
+    },
+    {
+      "name": "CareValidate",
+      "role": "Turnkey platform",
+      "type": "Platform + provider network + 503A/503B routing",
+      "fit": "Medium",
+      "fitNote": "Focus is GLP-1/HRT; derm not advertised",
+      "states": "Claims all 50",
+      "contact": "support@carevalidate.com · 678-661-9377",
+      "status": "Waiting on vendor",
+      "owes": "Vendor: CareValidate to reply",
+      "statusNote": "Email sent Oct 12, 17:02",
+      "next": "Await reply; ask which 503A pharmacy compounds derm, LegitScript cert",
+      "updated": "Oct 12",
+      "flags": [
+        "No FDA letters or lawsuits found.",
+        "Heavy GLP-1 client exposure — request pharmacy list and LegitScript certificate."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi (reported)",
+          "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
+          "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
+        }
+      ]
+    },
+    {
+      "name": "OpenLoop",
+      "role": "On hold / Skipped",
+      "type": "Clinicians + ops/platform",
+      "fit": "Medium",
+      "fitNote": "Clinician side only",
+      "states": "—",
+      "contact": "—",
+      "status": "On hold",
+      "owes": "On hold: lawsuit (RICO) risk review",
+      "statusNote": "On hold",
+      "next": "Hold pending lawsuit risk review",
+      "updated": "Oct 12",
+      "flags": [
+        "Defendant in Day v. OpenLoop Health, RICO class action (D. Del. No. 1:25-cv-01418) over compounded oral tirzepatide. Allegations only, but reputational / LegitScript risk.",
+        "Related: Novo Nordisk v. Link Pharmacy (N.D. Tex. No. 3:25-cv-02061); Link reportedly shares holding companies with OpenLoop (unverified)."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi",
+          "url": "https://home.medvi.org/communication",
+          "note": "Listed on Medvi's own site"
+        },
+        {
+          "tag": "Research of alternatives",
+          "url": "",
+          "note": "Internal partner research (Jovia partner report)"
+        }
+      ]
+    },
+    {
+      "name": "Triad Rx",
+      "role": "On hold / Skipped",
+      "type": "Small 503A pharmacy (Daphne, AL)",
+      "fit": "Low",
+      "fitNote": "Some derm, small",
+      "states": "Unclear",
+      "contact": "—",
+      "status": "Skipped",
+      "owes": "None",
+      "statusNote": "Skipped",
+      "next": "None",
+      "updated": "Oct 12",
+      "flags": [
+        "Co-defendant in Day v. OpenLoop Health (D. Del. No. 1:25-cv-01418).",
+        "Reportedly owned by OpenLoop's founders (allegation backed by state records)."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi",
+          "url": "https://home.medvi.org/communication",
+          "note": "Listed on Medvi's own site"
+        }
+      ]
+    },
+    {
+      "name": "Beaker Pharmacy",
+      "role": "On hold / Skipped",
+      "type": "503A pharmacy (McKinney, TX)",
+      "fit": "Low",
+      "fitNote": "Historically derm; now unclear",
+      "states": "\"45+\" (unverified)",
+      "contact": "—",
+      "status": "Skipped",
+      "owes": "None",
+      "statusNote": "Skipped",
+      "next": "None",
+      "updated": "Oct 12",
+      "flags": [
+        "Retail reportedly closed Feb 2026 after acquisition; new licensee (APTEEK RX, LLC); ownership unclear."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi",
+          "url": "https://home.medvi.org/communication",
+          "note": "Listed on Medvi's own site"
+        }
+      ]
+    },
+    {
+      "name": "Wheel, Strive, Foothills",
+      "role": "On hold / Skipped",
+      "type": "Considered alternatives",
+      "fit": "Unrated",
+      "fitNote": "Not yet evaluated in depth",
+      "states": "—",
+      "contact": "—",
+      "status": "Not contacted",
+      "owes": "None",
+      "statusNote": "Considered, not contacted",
+      "next": "Revisit if primaries stall",
+      "updated": "Oct 12",
+      "flags": [],
+      "sources": [
+        {
+          "tag": "Research of alternatives",
+          "url": "",
+          "note": "Internal partner research (Jovia partner report)"
+        }
+      ]
+    }
+  ]
 }
