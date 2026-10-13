@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-13T17:55+02:00",
-  "lastUpdatedLabel": "Oct 13, 2026, 17:55 CEST (Belgrade)",
+  "lastUpdated": "2026-10-13T19:35+02:00",
+  "lastUpdatedLabel": "Oct 13, 2026, 19:35 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -116,6 +116,10 @@
     {
       "time": "17:38",
       "text": "Precision (Jordan Lund) followed up after the intro call: API docs, catalog, implementation guides and contract draft; asks which products to put on the formulary for a pricing proposal. Waiting on Max."
+    },
+    {
+      "time": "19:31",
+      "text": "MD Integrations: intro held; reconnect booked Fri Oct 16, 7:00–7:30 PM CEST (Google Meet) with Dominic Nassivera; Phil invited."
     }
   ],
   "vendors": [
@@ -291,9 +295,9 @@
       "states": "All 50 (confirm)",
       "contact": "Dominic Nassivera (dominic.nassivera@mdintegrations.com) · Jim Flowers-Glotz, Sales Director",
       "status": "Active talks",
-      "owes": "Vendor: intro call Tue Oct 13, 1:00 PM ET",
-      "statusNote": "Intro call booked: Tue Oct 13, 1:00–1:30 PM ET (7:00–7:30 PM CEST) with Dominic Nassivera on Zoom. Jim Flowers-Glotz may join. Calendar invite + HubSpot booking confirmation received ~15:52 CEST.",
-      "next": "Take the Zoom intro call; cover pricing, pharmacy routing, LegitScript, timeline. Pricing/contracts remain Max decisions.",
+      "owes": "Both: reconnect Fri Oct 16, 7:00 PM CEST",
+      "statusNote": "Intro call held Tue Oct 13 ~7:00 PM CEST with Dominic Nassivera. Follow-up \"MDI Reconnect\" booked Fri Oct 16, 7:00–7:30 PM CEST (Belgrade) on Google Meet (meet.google.com/sjy-iief-bkt). Phil Shen also invited. Invite arrived ~19:31 CEST.",
+      "next": "Take the Fri Oct 16 reconnect; cover pricing, pharmacy routing, LegitScript, timeline. Pricing/contracts remain Max decisions.",
       "updated": "Oct 13",
       "path": "B",
       "flags": [],
