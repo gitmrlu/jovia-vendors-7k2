@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-10-14T14:21+02:00",
-  "lastUpdatedLabel": "Oct 14, 2026, 14:21 CEST (Belgrade)",
+  "lastUpdated": "2026-10-14T15:10+02:00",
+  "lastUpdatedLabel": "Oct 14, 2026, 15:10 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
       "id": "A",
       "name": "Direct",
       "vendors": "SteadyMD + 503A pharmacy (Curexa declined)",
-      "weeks": "8\u201314 weeks",
-      "note": "More control and better unit economics; we run more of the stack. Curexa declined on volume/LegitScript \u2014 need another 503A (RedRock/Precision/Belmar) with SteadyMD.",
+      "weeks": "8–14 weeks",
+      "note": "More control and better unit economics; we run more of the stack. Curexa declined on volume/LegitScript — need another 503A (RedRock/Precision/Belmar) with SteadyMD.",
       "recommended": true
     },
     {
       "id": "B",
       "name": "Turnkey",
       "vendors": "MD Integrations",
-      "weeks": "3\u20138 weeks",
+      "weeks": "3–8 weeks",
       "note": "Fastest to first patients; less control, platform fees.",
       "recommended": false
     }
@@ -71,11 +71,11 @@
     },
     {
       "time": "18:07",
-      "text": "Precision (Britney Stella) sent intro call slots for Oct 13\u201316 ET; waiting on Max to pick one."
+      "text": "Precision (Britney Stella) sent intro call slots for Oct 13–16 ET; waiting on Max to pick one."
     },
     {
       "time": "18:54",
-      "text": "RedRock (Lucho, CSR) replied: passed inquiry to marketing for clinic pricing/partnership; expect outreach in 1\u20132 business days."
+      "text": "RedRock (Lucho, CSR) replied: passed inquiry to marketing for clinic pricing/partnership; expect outreach in 1–2 business days."
     },
     {
       "time": "18:49",
@@ -83,7 +83,7 @@
     },
     {
       "time": "19:13",
-      "text": "Curexa (Bianca Lin) declined: needs 500\u20131,000+ Rx/month + LegitScript; volume projections below minimum. On hold; reconnect later."
+      "text": "Curexa (Bianca Lin) declined: needs 500–1,000+ Rx/month + LegitScript; volume projections below minimum. On hold; reconnect later."
     },
     {
       "time": "22:49",
@@ -111,7 +111,7 @@
     },
     {
       "time": "15:52",
-      "text": "MD Integrations intro call booked with Dominic Nassivera: Tue Oct 13, 1:00\u20131:30 PM ET (7:00\u20137:30 PM CEST) on Zoom."
+      "text": "MD Integrations intro call booked with Dominic Nassivera: Tue Oct 13, 1:00–1:30 PM ET (7:00–7:30 PM CEST) on Zoom."
     },
     {
       "time": "17:38",
@@ -119,7 +119,7 @@
     },
     {
       "time": "19:31",
-      "text": "MD Integrations: intro held; reconnect booked Fri Oct 16, 7:00\u20137:30 PM CEST (Google Meet) with Dominic Nassivera; Phil invited."
+      "text": "MD Integrations: intro held; reconnect booked Fri Oct 16, 7:00–7:30 PM CEST (Google Meet) with Dominic Nassivera; Phil invited."
     },
     {
       "time": "22:05",
@@ -128,6 +128,10 @@
     {
       "time": "14:21",
       "text": "Polite email follow-ups sent (Wed Oct 14 US morning) to Belmar (pharmacy@belmarpharmacy.com), Beluga (gordon@belugahealth.com), and CareValidate (support@carevalidate.com) after no reply since Oct 12 outreach."
+    },
+    {
+      "time": "15:01",
+      "text": "Beluga replied: CRO Gordon Tobin looped in Alexandra Hajaj, who sent a calendar link for a 20-min intro call."
     }
   ],
   "vendors": [
@@ -136,18 +140,18 @@
       "role": "Pharmacy 503A",
       "type": "503A compounding pharmacy (PCAB, LegitScript)",
       "fit": "Low",
-      "fitNote": "Strong ops fit, but minimum volume (500\u20131k+ Rx/mo) + LegitScript bar out for pre-launch",
+      "fitNote": "Strong ops fit, but minimum volume (500–1k+ Rx/mo) + LegitScript bar out for pre-launch",
       "states": "All 50",
-      "contact": "Bianca Lin, Pharm.D. \u00b7 blin@curexa.com \u00b7 855-927-0390",
+      "contact": "Bianca Lin, Pharm.D. · blin@curexa.com · 855-927-0390",
       "status": "Declined",
       "owes": "Declined for now; open to reconnect later",
-      "statusNote": "Bianca Lin declined Oct 12 ~19:13 CEST: need consistent 500\u20131,000+ Rx/month + LegitScript; current volume projections below minimum. Door open to reconnect later.",
+      "statusNote": "Bianca Lin declined Oct 12 ~19:13 CEST: need consistent 500–1,000+ Rx/month + LegitScript; current volume projections below minimum. Door open to reconnect later.",
       "next": "Path A pharmacy: prioritize RedRock / Precision / Belmar. Revisit Curexa only after LegitScript + volume plan. No reply sent yet (Max decides).",
       "updated": "Oct 12",
       "path": "A",
       "flags": [
-        "Declined for launch: 500\u20131,000+ Rx/mo minimum + LegitScript required.",
-        "2023 FDA warning letter \u2014 ask what was remediated."
+        "Declined for launch: 500–1,000+ Rx/mo minimum + LegitScript required.",
+        "2023 FDA warning letter — ask what was remediated."
       ],
       "sources": [
         {
@@ -172,7 +176,7 @@
       "updated": "Oct 12",
       "path": "A",
       "flags": [
-        "Possibly now part of DocGo \u2014 confirm ownership and whether terms changed.",
+        "Possibly now part of DocGo — confirm ownership and whether terms changed.",
         "Requires patient choice of pharmacy."
       ],
       "sources": [
@@ -191,11 +195,11 @@
       "fit": "Medium",
       "fitNote": "Clinician side only; pair with a pharmacy",
       "states": "Confirm",
-      "contact": "gordon@belugahealth.com",
-      "status": "Waiting on vendor",
-      "owes": "Vendor: Beluga to reply",
-      "statusNote": "Email follow-up sent Oct 14 ~14:21 CEST on Oct 12 outreach thread to gordon@belugahealth.com. Still no reply.",
-      "next": "Await reply to Wed follow-up.",
+      "contact": "gordon@belugahealth.com (Gordon Tobin, CRO); alexandra@belugahealth.com (Alexandra Hajaj, scheduling)",
+      "status": "Waiting on us",
+      "owes": "Us (book intro call)",
+      "statusNote": "Replied Oct 14 ~15:00 CEST: Gordon Tobin (CRO) said they would love to learn more about the DTC acne/derm program and looped in Alexandra Hajaj, who sent a calendar link for a 20-min intro call.",
+      "next": "Max picks a slot on Alex's calendar (https://beluga-health.cal.com/alexandra/20-min-with-alex).",
       "updated": "Oct 14",
       "flags": [],
       "sources": [
@@ -209,7 +213,8 @@
           "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
           "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
         }
-      ]
+      ],
+      "needFromMax": "Book a 20-min intro call with Alexandra at Beluga using her calendar link (https://beluga-health.cal.com/alexandra/20-min-with-alex), or tell me a time and I'll book it."
     },
     {
       "name": "RedRock Pharmacy",
@@ -218,7 +223,7 @@
       "fit": "Good",
       "fitNote": "Lists skincare; telehealth integration; patient-direct shipping",
       "states": "49 (not AR)",
-      "contact": "Relinda Pedrus, Onboarding Specialist \u00b7 onboarding@redrockrx.com \u00b7 801-500-1720 (also compounding@redrockrx.com \u00b7 801-839-5080)",
+      "contact": "Relinda Pedrus, Onboarding Specialist · onboarding@redrockrx.com · 801-500-1720 (also compounding@redrockrx.com · 801-839-5080)",
       "status": "Waiting on us",
       "owes": "Us (verification form)",
       "statusNote": "Relinda Pedrus (Onboarding) emailed Oct 13 ~00:08 CEST: sent drug catalog + Clinic Enrollment & Documentation Form. Pricing/partnership details only after completed verification form; then API specialist for e-prescribing/integration/turnaround. Confirms no Arkansas.",
@@ -271,14 +276,14 @@
       "fit": "Medium",
       "fitNote": "OK via 503A arm only; core is hormones, acne TBC",
       "states": "503A: all 50",
-      "contact": "800-525-9473 \u00b7 pharmacy@belmarpharmacy.com (confirmed by phone menu)",
+      "contact": "800-525-9473 · pharmacy@belmarpharmacy.com (confirmed by phone menu)",
       "status": "Waiting on vendor",
       "owes": "Vendor: Belmar to reply",
       "statusNote": "Email follow-up sent Oct 14 ~14:21 CEST (US morning) on Oct 12 thread to pharmacy@belmarpharmacy.com. Still no reply; prior calls reached staff (Pam; Colorado rep) but cut off before answers.",
       "next": "Await reply to Wed follow-up; if silent through Fri Oct 16, retry call for partnerships contact.",
       "updated": "Oct 14",
       "flags": [
-        "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices \u2014 old, 503B only.",
+        "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
         "pharmacy@belmarpharmacy.com confirmed via phone menu; outreach email sent Oct 12."
       ],
       "sources": [
@@ -301,10 +306,10 @@
       "fit": "Good",
       "fitNote": "Can staff board-certified dermatologists",
       "states": "All 50 (confirm)",
-      "contact": "Dominic Nassivera (dominic.nassivera@mdintegrations.com, 518-796-0559) \u00b7 Jim Flowers-Glotz, Sales Director",
+      "contact": "Dominic Nassivera (dominic.nassivera@mdintegrations.com, 518-796-0559) · Jim Flowers-Glotz, Sales Director",
       "status": "Waiting on us",
       "owes": "Us (intake form + proposed offerings sheet; then Fri reconnect)",
-      "statusNote": "Post-intro follow-up from Dominic Nassivera (Oct 13 ~22:05 CEST) to Max + Phil: MDI overview/API/patient journey, sales deck, Shopify & WooCommerce plugins. Pricing quoted: $5,000 one-time setup (due 14 days after Effective Date); $3k/mo consult minimum (~150 consults, all therapies total, starts 60 days after first patient consult); async/follow-up $20; extended/sync $30. Attachments: MDI Intake Form.docx, proposed_offerings_for_mdi_review.xlsx, Telehealth_Readiness_Guide.pdf, MDI_Overview.pptx. Next from MDI once forms returned: draft proposal + clinical med review. Reconnect still Fri Oct 16, 7:00\u20137:30 PM CEST (Google Meet). Dominic cell 518-796-0559.",
+      "statusNote": "Post-intro follow-up from Dominic Nassivera (Oct 13 ~22:05 CEST) to Max + Phil: MDI overview/API/patient journey, sales deck, Shopify & WooCommerce plugins. Pricing quoted: $5,000 one-time setup (due 14 days after Effective Date); $3k/mo consult minimum (~150 consults, all therapies total, starts 60 days after first patient consult); async/follow-up $20; extended/sync $30. Attachments: MDI Intake Form.docx, proposed_offerings_for_mdi_review.xlsx, Telehealth_Readiness_Guide.pdf, MDI_Overview.pptx. Next from MDI once forms returned: draft proposal + clinical med review. Reconnect still Fri Oct 16, 7:00–7:30 PM CEST (Google Meet). Dominic cell 518-796-0559.",
       "next": "Max: fill intake + offerings forms (or decide what to send); keep Fri reconnect. Do not agree to pricing/contracts without Max.",
       "updated": "Oct 13",
       "path": "B",
@@ -325,7 +330,7 @@
       "fit": "Medium",
       "fitNote": "Focus is GLP-1/HRT; derm not advertised",
       "states": "Claims all 50",
-      "contact": "support@carevalidate.com \u00b7 678-661-9377",
+      "contact": "support@carevalidate.com · 678-661-9377",
       "status": "Waiting on vendor",
       "owes": "Vendor: CareValidate to reply",
       "statusNote": "Email follow-up sent Oct 14 ~14:21 CEST on Oct 12 outreach thread to support@carevalidate.com. Still no reply.",
@@ -333,7 +338,7 @@
       "updated": "Oct 14",
       "flags": [
         "No FDA letters or lawsuits found.",
-        "Heavy GLP-1 client exposure \u2014 request pharmacy list and LegitScript certificate."
+        "Heavy GLP-1 client exposure — request pharmacy list and LegitScript certificate."
       ],
       "sources": [
         {
@@ -349,8 +354,8 @@
       "type": "Clinicians + ops/platform",
       "fit": "Medium",
       "fitNote": "Clinician side only",
-      "states": "\u2014",
-      "contact": "\u2014",
+      "states": "—",
+      "contact": "—",
       "status": "On hold",
       "owes": "On hold: lawsuit (RICO) risk review",
       "statusNote": "On hold",
@@ -380,7 +385,7 @@
       "fit": "Low",
       "fitNote": "Some derm, small",
       "states": "Unclear",
-      "contact": "\u2014",
+      "contact": "—",
       "status": "Skipped",
       "owes": "None",
       "statusNote": "Skipped",
@@ -405,7 +410,7 @@
       "fit": "Low",
       "fitNote": "Historically derm; now unclear",
       "states": "\"45+\" (unverified)",
-      "contact": "\u2014",
+      "contact": "—",
       "status": "Skipped",
       "owes": "None",
       "statusNote": "Skipped",
@@ -428,8 +433,8 @@
       "type": "Considered alternatives",
       "fit": "Unrated",
       "fitNote": "Not yet evaluated in depth",
-      "states": "\u2014",
-      "contact": "\u2014",
+      "states": "—",
+      "contact": "—",
       "status": "Not contacted",
       "owes": "None",
       "statusNote": "Considered, not contacted",
