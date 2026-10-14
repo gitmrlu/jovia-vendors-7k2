@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-13T22:11+02:00",
-  "lastUpdatedLabel": "Oct 13, 2026, 22:11 CEST (Belgrade)",
+  "lastUpdated": "2026-10-14T14:21+02:00",
+  "lastUpdatedLabel": "Oct 14, 2026, 14:21 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -124,6 +124,10 @@
     {
       "time": "22:05",
       "text": "MD Integrations (Dominic Nassivera) post-call follow-up: pricing ($5k setup, $3k/mo min, $20/$30 consults), intake form + proposed offerings sheet attached; waiting on Max to return forms before draft proposal. Fri Oct 16 reconnect still on."
+    },
+    {
+      "time": "14:21",
+      "text": "Polite email follow-ups sent (Wed Oct 14 US morning) to Belmar (pharmacy@belmarpharmacy.com), Beluga (gordon@belugahealth.com), and CareValidate (support@carevalidate.com) after no reply since Oct 12 outreach."
     }
   ],
   "vendors": [
@@ -190,9 +194,9 @@
       "contact": "gordon@belugahealth.com",
       "status": "Waiting on vendor",
       "owes": "Vendor: Beluga to reply",
-      "statusNote": "Email sent Oct 12, 17:02",
-      "next": "Await reply",
-      "updated": "Oct 12",
+      "statusNote": "Email follow-up sent Oct 14 ~14:21 CEST on Oct 12 outreach thread to gordon@belugahealth.com. Still no reply.",
+      "next": "Await reply to Wed follow-up.",
+      "updated": "Oct 14",
       "flags": [],
       "sources": [
         {
@@ -270,9 +274,9 @@
       "contact": "800-525-9473 \u00b7 pharmacy@belmarpharmacy.com (confirmed by phone menu)",
       "status": "Waiting on vendor",
       "owes": "Vendor: Belmar to reply",
-      "statusNote": "Email sent Oct 12; 2 calls reached staff (Pam; Colorado rep) but both cut off before answers",
-      "next": "Await reply; follow up if silent by Wed Oct 14",
-      "updated": "Oct 12",
+      "statusNote": "Email follow-up sent Oct 14 ~14:21 CEST (US morning) on Oct 12 thread to pharmacy@belmarpharmacy.com. Still no reply; prior calls reached staff (Pam; Colorado rep) but cut off before answers.",
+      "next": "Await reply to Wed follow-up; if silent through Fri Oct 16, retry call for partnerships contact.",
+      "updated": "Oct 14",
       "flags": [
         "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices \u2014 old, 503B only.",
         "pharmacy@belmarpharmacy.com confirmed via phone menu; outreach email sent Oct 12."
@@ -324,9 +328,9 @@
       "contact": "support@carevalidate.com \u00b7 678-661-9377",
       "status": "Waiting on vendor",
       "owes": "Vendor: CareValidate to reply",
-      "statusNote": "Email sent Oct 12, 17:02",
-      "next": "Await reply; ask which 503A pharmacy compounds derm, LegitScript cert",
-      "updated": "Oct 12",
+      "statusNote": "Email follow-up sent Oct 14 ~14:21 CEST on Oct 12 outreach thread to support@carevalidate.com. Still no reply.",
+      "next": "Await reply to Wed follow-up; ask which 503A pharmacy compounds derm, LegitScript cert.",
+      "updated": "Oct 14",
       "flags": [
         "No FDA letters or lawsuits found.",
         "Heavy GLP-1 client exposure \u2014 request pharmacy list and LegitScript certificate."
