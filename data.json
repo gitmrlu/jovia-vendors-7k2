@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T19:42+02:00",
-  "lastUpdatedLabel": "Oct 15, 2026, 19:42 CEST (Belgrade)",
+  "lastUpdated": "2026-10-15T22:08+02:00",
+  "lastUpdatedLabel": "Oct 15, 2026, 22:08 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -172,6 +172,10 @@
     {
       "time": "19:42",
       "text": "Precision: Jordan Lund emailed that their team is putting the pricing proposal together (reply to Phil's Oct 14 formulary picks). Stay tuned \u2014 still waiting on vendor for the quote."
+    },
+    {
+      "time": "22:01",
+      "text": "MD Integrations (Dominic Nassivera, CC Judd Bobin, Solutions Engineer) answered Max's testing questions: no fixed test-case list but detailed guides; White Label testing mostly handled by MDI, Full API needs technical + medical review of intake forms; ~24h technical turnaround, clinical a bit longer; using MDI intake questionnaires 1:1 cuts iterations. Waiting on Max's thoughts."
     }
   ],
   "vendors": [
@@ -343,12 +347,12 @@
       "fit": "Good",
       "fitNote": "Can staff board-certified dermatologists",
       "states": "All 50 (confirm)",
-      "contact": "Dominic Nassivera (dominic.nassivera@mdintegrations.com, 518-796-0559) \u00b7 Jim Flowers-Glotz, Sales Director",
+      "contact": "Dominic Nassivera (dominic.nassivera@mdintegrations.com, 518-796-0559) \u00b7 Judd Bobin, Solutions Engineer (judd.bobin@mdintegrations.com) \u00b7 Jim Flowers-Glotz, Sales Director",
       "status": "Waiting on us",
-      "owes": "Us (intake form + proposed offerings sheet; then Fri reconnect)",
-      "statusNote": "Post-intro follow-up from Dominic Nassivera (Oct 13 ~22:05 CEST) to Max + Phil: MDI overview/API/patient journey, sales deck, Shopify & WooCommerce plugins. Pricing quoted: $5,000 one-time setup (due 14 days after Effective Date); $3k/mo consult minimum (~150 consults, all therapies total, starts 60 days after first patient consult); async/follow-up $20; extended/sync $30. Attachments: MDI Intake Form.docx, proposed_offerings_for_mdi_review.xlsx, Telehealth_Readiness_Guide.pdf, MDI_Overview.pptx. Next from MDI once forms returned: draft proposal + clinical med review. Reconnect still Fri Oct 16, 7:00\u20137:30 PM CEST (Google Meet). Dominic cell 518-796-0559.",
-      "next": "Max: fill intake + offerings forms (or decide what to send); keep Fri reconnect. Do not agree to pricing/contracts without Max.",
-      "updated": "Oct 13",
+      "owes": "Us (reply on testing answers; intake form + offerings sheet; Fri reconnect)",
+      "statusNote": "Oct 15 ~22:01 CEST: Dominic replied to Max's testing-process questions and CC'd Judd Bobin (Solutions Engineer, judd.bobin@mdintegrations.com). No rigid test-case list, but comprehensive guides for patient creation, case setup and intake-form references. White Label testing is mostly handled by MDI; Full API needs both a technical and a medical review of custom intake forms. Technical mapping review usually within 24h once info is provided; clinical review takes a bit longer. Iterations vary with treatment count/complexity; using MDI's White Label intake questionnaires 1:1 cuts both technical and clinical cycles. Asked for Max's thoughts. Earlier (Oct 13): post-intro follow-up to Max + Phil: MDI overview/API/patient journey, sales deck, Shopify & WooCommerce plugins. Pricing quoted: $5,000 one-time setup (due 14 days after Effective Date); $3k/mo consult minimum (~150 consults, all therapies total, starts 60 days after first patient consult); async/follow-up $20; extended/sync $30. Attachments: MDI Intake Form.docx, proposed_offerings_for_mdi_review.xlsx, Telehealth_Readiness_Guide.pdf, MDI_Overview.pptx. Next from MDI once forms returned: draft proposal + clinical med review. Reconnect still Fri Oct 16, 7:00\u20137:30 PM CEST (Google Meet). Dominic cell 518-796-0559.",
+      "next": "Max: reply to Dominic/Judd on testing approach (White Label vs Full API; reuse MDI intake questionnaires 1:1?); fill intake + offerings forms; keep Fri Oct 16 7:00 PM CEST reconnect. Do not agree to pricing/contracts without Max.",
+      "updated": "Oct 15",
       "path": "B",
       "flags": [],
       "sources": [
@@ -358,7 +362,7 @@
           "note": "Internal partner research (Jovia partner report)"
         }
       ],
-      "needFromMax": "Complete & return MDI Intake Form + Proposed Offerings sheet (attached to Dominic's Oct 13 ~10:05 PM CEST email) so they can draft a proposal and start clinical review. Pricing/contracts stay Max decisions. Fri Oct 16 7:00 PM CEST reconnect still on."
+      "needFromMax": "Reply to Dominic's Oct 15 testing answers (decide White Label vs Full API, and whether to reuse MDI's intake questionnaires 1:1), and return the MDI Intake Form + Proposed Offerings sheet from the Oct 13 email. Fri Oct 16 7:00 PM CEST reconnect still on."
     },
     {
       "name": "CareValidate",
