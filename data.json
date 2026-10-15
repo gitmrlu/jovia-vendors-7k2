@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-10-15T18:20+02:00",
-  "lastUpdatedLabel": "Oct 15, 2026, 18:20 CEST (Belgrade)",
+  "lastUpdated": "2026-10-15T19:42+02:00",
+  "lastUpdatedLabel": "Oct 15, 2026, 19:42 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
       "id": "A",
       "name": "Direct",
       "vendors": "SteadyMD + 503A pharmacy (Curexa declined)",
-      "weeks": "8–14 weeks",
-      "note": "More control and better unit economics; we run more of the stack. Curexa declined on volume/LegitScript — need another 503A (RedRock/Precision/Belmar) with SteadyMD.",
+      "weeks": "8\u201314 weeks",
+      "note": "More control and better unit economics; we run more of the stack. Curexa declined on volume/LegitScript \u2014 need another 503A (RedRock/Precision/Belmar) with SteadyMD.",
       "recommended": true
     },
     {
       "id": "B",
       "name": "Turnkey",
       "vendors": "MD Integrations",
-      "weeks": "3–8 weeks",
+      "weeks": "3\u20138 weeks",
       "note": "Fastest to first patients; less control, platform fees.",
       "recommended": false
     }
@@ -71,11 +71,11 @@
     },
     {
       "time": "18:07",
-      "text": "Precision (Britney Stella) sent intro call slots for Oct 13–16 ET; waiting on Max to pick one."
+      "text": "Precision (Britney Stella) sent intro call slots for Oct 13\u201316 ET; waiting on Max to pick one."
     },
     {
       "time": "18:54",
-      "text": "RedRock (Lucho, CSR) replied: passed inquiry to marketing for clinic pricing/partnership; expect outreach in 1–2 business days."
+      "text": "RedRock (Lucho, CSR) replied: passed inquiry to marketing for clinic pricing/partnership; expect outreach in 1\u20132 business days."
     },
     {
       "time": "18:49",
@@ -83,7 +83,7 @@
     },
     {
       "time": "19:13",
-      "text": "Curexa (Bianca Lin) declined: needs 500–1,000+ Rx/month + LegitScript; volume projections below minimum. On hold; reconnect later."
+      "text": "Curexa (Bianca Lin) declined: needs 500\u20131,000+ Rx/month + LegitScript; volume projections below minimum. On hold; reconnect later."
     },
     {
       "time": "22:49",
@@ -111,7 +111,7 @@
     },
     {
       "time": "15:52",
-      "text": "MD Integrations intro call booked with Dominic Nassivera: Tue Oct 13, 1:00–1:30 PM ET (7:00–7:30 PM CEST) on Zoom."
+      "text": "MD Integrations intro call booked with Dominic Nassivera: Tue Oct 13, 1:00\u20131:30 PM ET (7:00\u20137:30 PM CEST) on Zoom."
     },
     {
       "time": "17:38",
@@ -119,7 +119,7 @@
     },
     {
       "time": "19:31",
-      "text": "MD Integrations: intro held; reconnect booked Fri Oct 16, 7:00–7:30 PM CEST (Google Meet) with Dominic Nassivera; Phil invited."
+      "text": "MD Integrations: intro held; reconnect booked Fri Oct 16, 7:00\u20137:30 PM CEST (Google Meet) with Dominic Nassivera; Phil invited."
     },
     {
       "time": "22:05",
@@ -135,7 +135,7 @@
     },
     {
       "time": "16:55",
-      "text": "Beluga: 20-min intro call booked with Alexandra Hajaj for Thu Oct 15, 17:20–17:40 CEST (Google Meet)."
+      "text": "Beluga: 20-min intro call booked with Alexandra Hajaj for Thu Oct 15, 17:20\u201317:40 CEST (Google Meet)."
     },
     {
       "time": "18:41",
@@ -143,11 +143,11 @@
     },
     {
       "time": "19:45",
-      "text": "SteadyMD (Lindsey Anderson) asked for a call; offered Tue–Thu Oct 20–22 slots."
+      "text": "SteadyMD (Lindsey Anderson) asked for a call; offered Tue\u2013Thu Oct 20\u201322 slots."
     },
     {
       "time": "20:05",
-      "text": "Precision (Jordan Lund) explained testing: real-quantity test orders per SKU, then 5–6 warning flags from their implementation manager; same-day turnaround."
+      "text": "Precision (Jordan Lund) explained testing: real-quantity test orders per SKU, then 5\u20136 warning flags from their implementation manager; same-day turnaround."
     },
     {
       "time": "22:04",
@@ -155,7 +155,7 @@
     },
     {
       "time": "23:26",
-      "text": "SteadyMD: Lindsey Anderson sent calendar invite for Tue Oct 20, 8:00–8:25 PM CEST (11:00–11:25 AM PT); Google Meet meet.google.com/dwm-stbg-npy. Guests so far: Lindsey + max@getpilot.ai only (Phil not yet on invite)."
+      "text": "SteadyMD: Lindsey Anderson sent calendar invite for Tue Oct 20, 8:00\u20138:25 PM CEST (11:00\u201311:25 AM PT); Google Meet meet.google.com/dwm-stbg-npy. Guests so far: Lindsey + max@getpilot.ai only (Phil not yet on invite)."
     },
     {
       "time": "23:39",
@@ -163,11 +163,15 @@
     },
     {
       "time": "18:02",
-      "text": "Beluga intro window (17:20–17:40 CEST) passed; no post-call email from Alexandra yet. Tracker next-step updated to await follow-up."
+      "text": "Beluga intro window (17:20\u201317:40 CEST) passed; no post-call email from Alexandra yet. Tracker next-step updated to await follow-up."
     },
     {
       "time": "18:20",
       "text": "Beluga: Alexandra sent post-call follow-up. Not partnering until Jovia is live and sending visits; shared pricing, API/platform-partner options and docs. Moved to On hold."
+    },
+    {
+      "time": "19:42",
+      "text": "Precision: Jordan Lund emailed that their team is putting the pricing proposal together (reply to Phil's Oct 14 formulary picks). Stay tuned \u2014 still waiting on vendor for the quote."
     }
   ],
   "vendors": [
@@ -176,18 +180,18 @@
       "role": "Pharmacy 503A",
       "type": "503A compounding pharmacy (PCAB, LegitScript)",
       "fit": "Low",
-      "fitNote": "Strong ops fit, but minimum volume (500–1k+ Rx/mo) + LegitScript bar out for pre-launch",
+      "fitNote": "Strong ops fit, but minimum volume (500\u20131k+ Rx/mo) + LegitScript bar out for pre-launch",
       "states": "All 50",
-      "contact": "Bianca Lin, Pharm.D. · blin@curexa.com · 855-927-0390",
+      "contact": "Bianca Lin, Pharm.D. \u00b7 blin@curexa.com \u00b7 855-927-0390",
       "status": "Declined",
       "owes": "Declined for now; open to reconnect later",
-      "statusNote": "Bianca Lin declined Oct 12 ~19:13 CEST: need consistent 500–1,000+ Rx/month + LegitScript; current volume projections below minimum. Door open to reconnect later.",
+      "statusNote": "Bianca Lin declined Oct 12 ~19:13 CEST: need consistent 500\u20131,000+ Rx/month + LegitScript; current volume projections below minimum. Door open to reconnect later.",
       "next": "Path A pharmacy: prioritize RedRock / Precision / Belmar. Revisit Curexa only after LegitScript + volume plan. No reply sent yet (Max decides).",
       "updated": "Oct 12",
       "path": "A",
       "flags": [
-        "Declined for launch: 500–1,000+ Rx/mo minimum + LegitScript required.",
-        "2023 FDA warning letter — ask what was remediated."
+        "Declined for launch: 500\u20131,000+ Rx/mo minimum + LegitScript required.",
+        "2023 FDA warning letter \u2014 ask what was remediated."
       ],
       "sources": [
         {
@@ -207,12 +211,12 @@
       "contact": "Lindsey Anderson, lindsey@steadymd.com (partnerships@steadymd.com)",
       "status": "Active talks",
       "owes": "Both: call booked Tue Oct 20 (Phil has Meet link)",
-      "statusNote": "Lindsey Anderson (VP, Enterprise Sales) sent the calendar invite Oct 14 ~23:26 CEST: 'SteadyMD & Getpilot.ai brief intro call' Tue Oct 20, 2026, 8:00–8:25 PM CEST (11:00–11:25 AM PT). Google Meet meet.google.com/dwm-stbg-npy. Confirmed by email ('Thanks Max, the invite's been sent!'). Guests on the invite: Lindsey + max@getpilot.ai only. Max forwarded the invite to Phil (philipshen13@gmail.com) Oct 14 ~23:39 CEST with the Meet link. Earlier: Max replied with scope Oct 14 ~18:00 CEST; Lindsey offered Oct 20–22 slots; Max picked Tue 11:00 AM PT.",
-      "next": "Join Tue Oct 20, 8:00–8:25 PM CEST (meet.google.com/dwm-stbg-npy). Phil has the Meet link via Max's forward (not yet on calendar guest list). On the call: pricing, PC/MSO model, BAA, compounded Rx support (pricing/contracts are Max's call).",
+      "statusNote": "Lindsey Anderson (VP, Enterprise Sales) sent the calendar invite Oct 14 ~23:26 CEST: 'SteadyMD & Getpilot.ai brief intro call' Tue Oct 20, 2026, 8:00\u20138:25 PM CEST (11:00\u201311:25 AM PT). Google Meet meet.google.com/dwm-stbg-npy. Confirmed by email ('Thanks Max, the invite's been sent!'). Guests on the invite: Lindsey + max@getpilot.ai only. Max forwarded the invite to Phil (philipshen13@gmail.com) Oct 14 ~23:39 CEST with the Meet link. Earlier: Max replied with scope Oct 14 ~18:00 CEST; Lindsey offered Oct 20\u201322 slots; Max picked Tue 11:00 AM PT.",
+      "next": "Join Tue Oct 20, 8:00\u20138:25 PM CEST (meet.google.com/dwm-stbg-npy). Phil has the Meet link via Max's forward (not yet on calendar guest list). On the call: pricing, PC/MSO model, BAA, compounded Rx support (pricing/contracts are Max's call).",
       "updated": "Oct 15",
       "path": "A",
       "flags": [
-        "Possibly now part of DocGo — confirm ownership and whether terms changed.",
+        "Possibly now part of DocGo \u2014 confirm ownership and whether terms changed.",
         "Requires patient choice of pharmacy."
       ],
       "sources": [
@@ -257,7 +261,7 @@
       "fit": "Good",
       "fitNote": "Lists skincare; telehealth integration; patient-direct shipping",
       "states": "49 (not AR)",
-      "contact": "Relinda Pedrus, Onboarding Specialist · onboarding@redrockrx.com · 801-500-1720 (also compounding@redrockrx.com · 801-839-5080)",
+      "contact": "Relinda Pedrus, Onboarding Specialist \u00b7 onboarding@redrockrx.com \u00b7 801-500-1720 (also compounding@redrockrx.com \u00b7 801-839-5080)",
       "status": "Waiting on us",
       "owes": "Us (enrollment form; Max approved Oct 14, being filled in)",
       "statusNote": "Relinda Pedrus (Onboarding) emailed Oct 13 ~00:08 CEST: sent drug catalog + Clinic Enrollment & Documentation Form. Pricing/partnership details only after completed verification form; then API specialist for e-prescribing/integration/turnaround. Confirms no Arkansas.",
@@ -286,10 +290,10 @@
       "states": "Confirm",
       "contact": "Jordan Lund, Director of Business Development (jordan.lund@precisionmeds.com, 516-833-6262); Britney Stella, Territory Sales Rep (britstella@mypcphealth.com)",
       "status": "Waiting on vendor",
-      "owes": "Vendor: Jordan's pricing proposal",
-      "statusNote": "Phil sent formulary picks to Jordan Oct 14 ~18:41 CEST (tretinoin/niacinamide 0.025%/4% and 0.05%/4%; tretinoin/azelaic acid/niacinamide 0.04%/5%/4%; spironolactone/clindamycin 5%/1.25%; one-month packaging) and asked about catalog gaps. Jordan answered Max's testing/go-live question Oct 14 ~20:05 CEST: no test cases beyond section #6 of their integration doc; for testing, send a few real-quantity orders per SKU, then Tori (Implementation Manager) triggers 5–6 warning-event flags via their API that Jovia must answer correctly; same-day turnaround; timeline mostly on Jovia's side. Earlier: intro call Oct 13; API docs, catalog and contract draft received.",
-      "next": "Await Jordan's pricing proposal and answers on catalog gaps; polite nudge if silent by Fri Oct 16. Contract draft and $5k deposit are Max decisions; nothing signed or paid.",
-      "updated": "Oct 14",
+      "owes": "Vendor: Jordan's pricing proposal (in progress)",
+      "statusNote": "Jordan Lund emailed Oct 15 ~19:40 CEST (cc Max): \"Our team is putting the pricing proposal together for you. Stay tuned.\" Phil had sent formulary picks Oct 14 ~18:41 CEST (tretinoin/niacinamide 0.025%/4% and 0.05%/4%; tretinoin/azelaic acid/niacinamide 0.04%/5%/4%; spironolactone/clindamycin 5%/1.25%; one-month packaging) and asked about catalog gaps. Jordan answered Max's testing/go-live question Oct 14 ~20:05 CEST: no test cases beyond section #6 of their integration doc; for testing, send a few real-quantity orders per SKU, then Tori (Implementation Manager) triggers 5\u20136 warning-event flags via their API that Jovia must answer correctly; same-day turnaround; timeline mostly on Jovia's side. Earlier: intro call Oct 13; API docs, catalog and contract draft received.",
+      "next": "Await Jordan's pricing proposal (he confirmed it's in progress Oct 15). Contract draft and $5k deposit are Max decisions; nothing signed or paid.",
+      "updated": "Oct 15",
       "flags": [
         "$5,000 implementation deposit required before API access (100% credited to future invoices).",
         "Contract draft received Oct 13; not reviewed or signed."
@@ -309,14 +313,14 @@
       "fit": "Medium",
       "fitNote": "OK via 503A arm only; core is hormones, acne TBC",
       "states": "503A: all 50",
-      "contact": "800-525-9473 · pharmacy@belmarpharmacy.com (confirmed by phone menu)",
+      "contact": "800-525-9473 \u00b7 pharmacy@belmarpharmacy.com (confirmed by phone menu)",
       "status": "Waiting on vendor",
       "owes": "Vendor: Belmar to reply",
       "statusNote": "Email follow-up sent Oct 14 ~14:21 CEST (US morning) on Oct 12 thread to pharmacy@belmarpharmacy.com. Still no reply; prior calls reached staff (Pam; Colorado rep) but cut off before answers.",
       "next": "Await reply to Wed follow-up; if silent through Fri Oct 16, retry call for partnerships contact.",
       "updated": "Oct 14",
       "flags": [
-        "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
+        "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices \u2014 old, 503B only.",
         "pharmacy@belmarpharmacy.com confirmed via phone menu; outreach email sent Oct 12."
       ],
       "sources": [
@@ -339,10 +343,10 @@
       "fit": "Good",
       "fitNote": "Can staff board-certified dermatologists",
       "states": "All 50 (confirm)",
-      "contact": "Dominic Nassivera (dominic.nassivera@mdintegrations.com, 518-796-0559) · Jim Flowers-Glotz, Sales Director",
+      "contact": "Dominic Nassivera (dominic.nassivera@mdintegrations.com, 518-796-0559) \u00b7 Jim Flowers-Glotz, Sales Director",
       "status": "Waiting on us",
       "owes": "Us (intake form + proposed offerings sheet; then Fri reconnect)",
-      "statusNote": "Post-intro follow-up from Dominic Nassivera (Oct 13 ~22:05 CEST) to Max + Phil: MDI overview/API/patient journey, sales deck, Shopify & WooCommerce plugins. Pricing quoted: $5,000 one-time setup (due 14 days after Effective Date); $3k/mo consult minimum (~150 consults, all therapies total, starts 60 days after first patient consult); async/follow-up $20; extended/sync $30. Attachments: MDI Intake Form.docx, proposed_offerings_for_mdi_review.xlsx, Telehealth_Readiness_Guide.pdf, MDI_Overview.pptx. Next from MDI once forms returned: draft proposal + clinical med review. Reconnect still Fri Oct 16, 7:00–7:30 PM CEST (Google Meet). Dominic cell 518-796-0559.",
+      "statusNote": "Post-intro follow-up from Dominic Nassivera (Oct 13 ~22:05 CEST) to Max + Phil: MDI overview/API/patient journey, sales deck, Shopify & WooCommerce plugins. Pricing quoted: $5,000 one-time setup (due 14 days after Effective Date); $3k/mo consult minimum (~150 consults, all therapies total, starts 60 days after first patient consult); async/follow-up $20; extended/sync $30. Attachments: MDI Intake Form.docx, proposed_offerings_for_mdi_review.xlsx, Telehealth_Readiness_Guide.pdf, MDI_Overview.pptx. Next from MDI once forms returned: draft proposal + clinical med review. Reconnect still Fri Oct 16, 7:00\u20137:30 PM CEST (Google Meet). Dominic cell 518-796-0559.",
       "next": "Max: fill intake + offerings forms (or decide what to send); keep Fri reconnect. Do not agree to pricing/contracts without Max.",
       "updated": "Oct 13",
       "path": "B",
@@ -363,7 +367,7 @@
       "fit": "Medium",
       "fitNote": "Focus is GLP-1/HRT; derm not advertised",
       "states": "Claims all 50",
-      "contact": "support@carevalidate.com · 678-661-9377",
+      "contact": "support@carevalidate.com \u00b7 678-661-9377",
       "status": "Waiting on vendor",
       "owes": "Vendor: CareValidate to reply",
       "statusNote": "Email follow-up sent Oct 14 ~14:21 CEST on Oct 12 outreach thread to support@carevalidate.com. Still no reply.",
@@ -371,7 +375,7 @@
       "updated": "Oct 14",
       "flags": [
         "No FDA letters or lawsuits found.",
-        "Heavy GLP-1 client exposure — request pharmacy list and LegitScript certificate."
+        "Heavy GLP-1 client exposure \u2014 request pharmacy list and LegitScript certificate."
       ],
       "sources": [
         {
@@ -387,8 +391,8 @@
       "type": "Clinicians + ops/platform",
       "fit": "Medium",
       "fitNote": "Clinician side only",
-      "states": "—",
-      "contact": "—",
+      "states": "\u2014",
+      "contact": "\u2014",
       "status": "On hold",
       "owes": "On hold: lawsuit (RICO) risk review",
       "statusNote": "On hold",
@@ -418,7 +422,7 @@
       "fit": "Low",
       "fitNote": "Some derm, small",
       "states": "Unclear",
-      "contact": "—",
+      "contact": "\u2014",
       "status": "Skipped",
       "owes": "None",
       "statusNote": "Skipped",
@@ -443,7 +447,7 @@
       "fit": "Low",
       "fitNote": "Historically derm; now unclear",
       "states": "\"45+\" (unverified)",
-      "contact": "—",
+      "contact": "\u2014",
       "status": "Skipped",
       "owes": "None",
       "statusNote": "Skipped",
@@ -466,8 +470,8 @@
       "type": "Considered alternatives",
       "fit": "Unrated",
       "fitNote": "Not yet evaluated in depth",
-      "states": "—",
-      "contact": "—",
+      "states": "\u2014",
+      "contact": "\u2014",
       "status": "Not contacted",
       "owes": "None",
       "statusNote": "Considered, not contacted",
