@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-16T23:25+02:00",
-  "lastUpdatedLabel": "Oct 16, 2026, 23:25 CEST (Belgrade)",
+  "lastUpdated": "2026-10-16T23:58+02:00",
+  "lastUpdatedLabel": "Oct 16, 2026, 23:58 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -188,6 +188,10 @@
     {
       "time": "23:16",
       "text": "MD Integrations (Dominic Nassivera): two replies ~23:14\u201323:16 CEST. Connecting Max+Phil with Victoria (legal) for draft agreement; proposed offerings submitted for clinical approval; early next week Jim (Head of Pharmacy Partnerships) will intro pharmacy partners for formulary pricing."
+    },
+    {
+      "time": "23:57",
+      "text": "Belmar live call (800-525-9473): reached technician Aaron; asked for partnerships/BD contact for Jovia 503A acne topicals; Aaron unsure who handles that; remote hung up before a named contact. Prior after-hours VM (~15:57) + emails Oct 12/14 still unanswered."
     }
   ],
   "vendors": [
@@ -331,9 +335,9 @@
       "states": "503A: all 50",
       "contact": "800-525-9473 \u00b7 pharmacy@belmarpharmacy.com (confirmed by phone menu)",
       "status": "Waiting on vendor",
-      "owes": "Vendor: Belmar to reply / return call",
-      "statusNote": "Fri Oct 16 ~15:57 CEST retry to 800-525-9473: Colorado after-hours IVR (still closed); left pharmacy-staff voicemail with partnerships ask + callback 310-866-6347 / max@getpilot.ai. Prior emails Oct 12 + Oct 14 follow-up still unanswered.",
-      "next": "Await callback or email reply to pharmacy@belmarpharmacy.com; if still silent Mon Oct 19 US Mountain hours, retry live call.",
+      "owes": "Vendor: Belmar to name partnerships contact / reply to emails",
+      "statusNote": "Fri Oct 16 ~23:54\u201323:57 CEST live call to 800-525-9473 (Mountain afternoon): reached technician Aaron. Asked for partnerships/BD/telehealth contact for Jovia (503A acne topicals); Aaron said he was not sure who that would be in the organization; call ended (remote hangup) before a named contact or transfer. Earlier ~15:57 CEST after-hours VM left (callback 310-866-6347 / max@getpilot.ai). Emails Oct 12 + Oct 14 still unanswered.",
+      "next": "Await email reply to pharmacy@belmarpharmacy.com or callback. If still silent Mon Oct 19 Mountain morning, retry live and ask for transfer to business development / account management.",
       "updated": "Oct 16",
       "flags": [
         "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices \u2014 old, 503B only.",
