@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T22:08+02:00",
-  "lastUpdatedLabel": "Oct 15, 2026, 22:08 CEST (Belgrade)",
+  "lastUpdated": "2026-10-16T16:00+02:00",
+  "lastUpdatedLabel": "Oct 16, 2026, 16:00 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -176,6 +176,10 @@
     {
       "time": "22:01",
       "text": "MD Integrations (Dominic Nassivera, CC Judd Bobin, Solutions Engineer) answered Max's testing questions: no fixed test-case list but detailed guides; White Label testing mostly handled by MDI, Full API needs technical + medical review of intake forms; ~24h technical turnaround, clinical a bit longer; using MDI intake questionnaires 1:1 cuts iterations. Waiting on Max's thoughts."
+    },
+    {
+      "time": "15:57",
+      "text": "Belmar phone retry (800-525-9473): Colorado still closed/after-hours; left pharmacy-staff voicemail for partnerships contact (callback 310-866-6347 / max@getpilot.ai). Emails Oct 12+14 still unanswered."
     }
   ],
   "vendors": [
@@ -319,10 +323,10 @@
       "states": "503A: all 50",
       "contact": "800-525-9473 \u00b7 pharmacy@belmarpharmacy.com (confirmed by phone menu)",
       "status": "Waiting on vendor",
-      "owes": "Vendor: Belmar to reply",
-      "statusNote": "Email follow-up sent Oct 14 ~14:21 CEST (US morning) on Oct 12 thread to pharmacy@belmarpharmacy.com. Still no reply; prior calls reached staff (Pam; Colorado rep) but cut off before answers.",
-      "next": "Await reply to Wed follow-up; if silent through Fri Oct 16, retry call for partnerships contact.",
-      "updated": "Oct 14",
+      "owes": "Vendor: Belmar to reply / return call",
+      "statusNote": "Fri Oct 16 ~15:57 CEST retry to 800-525-9473: Colorado after-hours IVR (still closed); left pharmacy-staff voicemail with partnerships ask + callback 310-866-6347 / max@getpilot.ai. Prior emails Oct 12 + Oct 14 follow-up still unanswered.",
+      "next": "Await callback or email reply to pharmacy@belmarpharmacy.com; if still silent Mon Oct 19 US Mountain hours, retry live call.",
+      "updated": "Oct 16",
       "flags": [
         "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices \u2014 old, 503B only.",
         "pharmacy@belmarpharmacy.com confirmed via phone menu; outreach email sent Oct 12."
