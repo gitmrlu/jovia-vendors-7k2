@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T00:20+02:00",
-  "lastUpdatedLabel": "Oct 17, 2026, 00:20 CEST (Belgrade)",
+  "lastUpdated": "2026-10-17T00:40+02:00",
+  "lastUpdatedLabel": "Oct 17, 2026, 00:40 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -196,6 +196,10 @@
     {
       "time": "00:20 (Sat)",
       "text": "Belmar: reached Garrett (801-599-4247), who will connect Max with Belmar's national account team for telemedicine clinics by email."
+    },
+    {
+      "time": "00:40 (Sat)",
+      "text": "Belmar: Garrett Heiby emailed intro to National Accounts (Jonathan Banks, Riley Kilgore). Replied-all proposing intro-call windows Mon/Wed/Thu Oct 19–22, 9–11 AM Mountain."
     }
   ],
   "vendors": [
@@ -337,15 +341,15 @@
       "fit": "Medium",
       "fitNote": "OK via 503A arm only; core is hormones, acne TBC",
       "states": "503A: all 50",
-      "contact": "Garrett (Belmar, routes telemedicine-clinic accounts) 801-599-4247 · 800-525-9473 · pharmacy@belmarpharmacy.com",
+      "contact": "Garrett Heiby, PharmD (Clinical Sales Liaison, MedQuest/Belmar) gheiby@mqrx.com · 801-599-4247 · National Accounts: Jonathan Banks (jonathan.banks@belmarpharma.com), Riley Kilgore (riley.kilgore@belmarpharma.com)",
       "status": "Waiting on vendor",
-      "owes": "Vendor: Garrett to have Belmar national account team (telemedicine clinics) email Max",
-      "statusNote": "Fri Oct 16 ~00:16 CEST (Sat) call: Belmar Colorado technician routed us to 801-599-4247, which reached Garrett. He confirmed he is the right person for partnerships and said he will connect Max with Belmar's national account team, which handles telemedicine clinics, by email with Max CC'd (max@getpilot.ai). Scheduling with that team to be proposed by email once they reach out. Earlier: ~23:54 CEST call reached technician Aaron (no contact); ~15:57 CEST after-hours VM; emails Oct 12 + Oct 14.",
-      "next": "Watch max@getpilot.ai for the national account team intro email. When it arrives, propose intro-call times. If nothing by Tue Oct 20, call Garrett at 801-599-4247 (SMS to that number is blocked).",
+      "owes": "Vendor: Jonathan/Riley (National Accounts) to pick an intro-call time",
+      "statusNote": "Sat Oct 17 ~00:28 CEST: Garrett Heiby emailed Max and CC'd Belmar's National Account team (Jonathan Banks, Riley Kilgore) to set up a partnership intro for telehealth dermatology compounds. ~00:40 CEST we replied-all proposing intro-call windows Mon Oct 19 / Wed Oct 21 / Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST), or their times. Earlier: Fri night calls reached technician Aaron, then Garrett (801-599-4247).",
+      "next": "Watch for Jonathan/Riley's reply and confirm a time with Max. If no reply by Tue Oct 20, polite follow-up on the same thread. Don't agree to pricing or terms on the call; that's Max's call.",
       "updated": "Oct 17",
       "flags": [
         "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
-        "Partnership route found: Garrett (801-599-4247) → national account team for telemedicine clinics."
+        "Intro made: Garrett Heiby → National Accounts (Jonathan Banks, Riley Kilgore)."
       ],
       "sources": [
         {
