@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T18:33+02:00",
-  "lastUpdatedLabel": "Oct 19, 2026, 18:33 CEST (Belgrade)",
+  "lastUpdated": "2026-10-19T19:00+02:00",
+  "lastUpdatedLabel": "Oct 19, 2026, 19:00 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -216,6 +216,10 @@
     {
       "time": "18:32 (Mon)",
       "text": "Belmar: Riley Kilgore replied (out Wed–Fri, Monday booked) and handed scheduling to Jonny Banks. We replied-all offering Wed Oct 21 / Thu Oct 22, 9–11 AM MT, with Phil on the invite."
+    },
+    {
+      "time": "18:33 (Mon)",
+      "text": "Belmar: Jonathan Banks booked an intro call for Wed Oct 21, 11:00 AM ET (17:00 CEST) on Teams; Max and Phil invited."
     }
   ],
   "vendors": [
@@ -357,16 +361,16 @@
       "fit": "Medium",
       "fitNote": "OK via 503A arm only; core is hormones, acne TBC",
       "states": "503A: all 50",
-      "contact": "Garrett Heiby, PharmD (Clinical Sales Liaison, MedQuest/Belmar) gheiby@mqrx.com · 801-599-4247 · National Accounts: Jonathan Banks (jonathan.banks@belmarpharma.com), Riley Kilgore, Inside Manager of National Sales (riley.kilgore@belmarpharma.com, 720-809-8815)",
-      "status": "Waiting on vendor",
-      "owes": "Vendor: Jonny Banks (National Accounts) to pick an intro-call time (Wed Oct 21 / Thu Oct 22, 9–11 AM MT); Phil on invite",
-      "statusNote": "Mon Oct 19 ~18:28 CEST: Riley Kilgore (Inside Manager of National Sales) replied: she's traveling Wed and out Thu–Fri, Monday is booked, and asked her partner Jonny Banks to coordinate a meeting. ~18:32 CEST we replied-all confirming Wed Oct 21 or Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST) still works, or Jonny's times, and asked them to include Phil. Sun Oct 18 ~20:05 CEST: replied-all looping in cofounder Phil Shen (philipshen13@gmail.com) — ask Belmar to include him on the invite once a time is locked. Still waiting on Jonathan/Riley to pick a slot. Sat Oct 17 ~00:28 CEST: Garrett Heiby emailed Max and CC'd Belmar's National Account team (Jonathan Banks, Riley Kilgore) to set up a partnership intro for telehealth dermatology compounds. ~00:40 CEST we replied-all proposing intro-call windows Mon Oct 19 / Wed Oct 21 / Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST), or their times. Earlier: Fri night calls reached technician Aaron, then Garrett (801-599-4247).",
-      "next": "Watch for Jonny Banks to confirm a time, then confirm with Max (Phil joins). If no reply by Wed Oct 21 morning, polite nudge on the same thread. Don't agree to pricing or terms on the call; that's Max's call.",
+      "contact": "Garrett Heiby, PharmD (Clinical Sales Liaison, MedQuest/Belmar) gheiby@mqrx.com · 801-599-4247 · National Accounts: Jonathan Banks, PharmD, Director of National Accounts (jonathan.banks@belmarpharma.com, 720-666-2784), Riley Kilgore, Inside Manager of National Sales (riley.kilgore@belmarpharma.com, 720-809-8815)",
+      "status": "Active talks",
+      "owes": "Vendor: Jonathan Banks (Director of National Accounts) hosting intro call Wed Oct 21, 11:00 AM ET (17:00 CEST) on Teams; Phil on invite",
+      "statusNote": "Mon Oct 19 ~18:33 CEST: Jonathan (Jonny) Banks, PharmD, Director of National Accounts (720-666-2784, Eastern), sent a Microsoft Teams invite for Wed Oct 21, 11:00 AM ET / 9:00 AM MT (17:00 CEST) to Max and Phil (cc Riley). Intro call booked. Mon Oct 19 ~18:28 CEST: Riley Kilgore (Inside Manager of National Sales) replied: she's traveling Wed and out Thu–Fri, Monday is booked, and asked her partner Jonny Banks to coordinate a meeting. ~18:32 CEST we replied-all confirming Wed Oct 21 or Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST) still works, or Jonny's times, and asked them to include Phil. Sun Oct 18 ~20:05 CEST: replied-all looping in cofounder Phil Shen (philipshen13@gmail.com) — ask Belmar to include him on the invite once a time is locked. Still waiting on Jonathan/Riley to pick a slot. Sat Oct 17 ~00:28 CEST: Garrett Heiby emailed Max and CC'd Belmar's National Account team (Jonathan Banks, Riley Kilgore) to set up a partnership intro for telehealth dermatology compounds. ~00:40 CEST we replied-all proposing intro-call windows Mon Oct 19 / Wed Oct 21 / Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST), or their times. Earlier: Fri night calls reached technician Aaron, then Garrett (801-599-4247).",
+      "next": "Intro call Wed Oct 21, 17:00 CEST (Teams link in the invite email from jonathan.banks@belmarpharma.com). Max + Phil attend; ask about acne topicals formulary, telehealth onboarding, states and minimums. Don't agree to pricing or terms on the call; that's Max's call.",
       "updated": "Oct 19",
       "flags": [
         "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
         "Intro made: Garrett Heiby → National Accounts (Jonathan Banks, Riley Kilgore).",
-        "Phil Shen to join intro call (cc'd Sun Oct 18)."
+        "Intro call booked: Wed Oct 21, 11:00 AM ET (17:00 CEST), Teams; Max + Phil invited."
       ],
       "sources": [
         {
