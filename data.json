@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T18:26+02:00",
-  "lastUpdatedLabel": "Oct 20, 2026, 18:26 CEST (Belgrade)",
+  "lastUpdated": "2026-10-20T20:40+02:00",
+  "lastUpdatedLabel": "Oct 20, 2026, 20:40 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -248,6 +248,14 @@
     {
       "time": "18:24 (Tue)",
       "text": "Follow-ups sent (cc Phil) on all 5 pharmacy intro threads with a Jovia overview + proposed launch formulary attached. Ball with the pharmacies."
+    },
+    {
+      "time": "20:18 (Tue)",
+      "text": "Strive: Erin replied, pointed to their Clear Revive Blemish and Unblemished creams plus full skincare catalog, and asked Max to book a call this week via her scheduling link. Ball with Max."
+    },
+    {
+      "time": "20:32 (Tue)",
+      "text": "ChemistryRx: Houry said she added pricing to our formulary sheet and offered a Friday call, but no attachment came through; asked her to resend and propose Friday times (cc Phil)."
     }
   ],
   "vendors": [
@@ -445,10 +453,10 @@
       "fitNote": "Derm specialist (acne listed); PCAB/ACHC + NABP",
       "states": "All 50",
       "contact": "Houry Lepedjian, VP Ops (houry@chemistryrx.com)",
-      "status": "Waiting on vendor",
-      "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Folcroft, PA 503A; branded packaging yes, asked about inserts.",
-      "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
+      "status": "Active talks",
+      "owes": "Vendor: resend pricing sheet + propose Friday call times",
+      "statusNote": "Tue Oct 20 ~20:32 CEST: Houry replied (cc Phil) that she added pricing in the 2nd column of our formulary sheet and offered a call Friday (Oct 23) to go over services, but no attachment came through. ~20:40 CEST: replied (cc Phil) asking her to resend the sheet and share a couple of Friday times to confirm. Earlier: intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral; follow-up ~18:24 CEST with Jovia overview + proposed launch formulary. Folcroft, PA 503A; branded packaging yes, asked about inserts.",
+      "next": "Get resent pricing sheet; lock Friday call time with Max. Pricing/contracts are Max's call.",
       "updated": "Oct 20",
       "path": "B",
       "flags": [],
@@ -544,11 +552,11 @@
       "fit": "Medium",
       "fitNote": "Large 503A, white-label, derm listed; regulatory flags",
       "states": "All 50",
-      "contact": "Erin Eulberg (erin@strivepharmacy.com)",
-      "status": "Waiting on vendor",
-      "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Gilbert, AZ / Fenton, MO 503A; asked how much derm volume they handle alongside GLP-1s.",
-      "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
+      "contact": "Erin Halligan, AE National Partnerships (erin@strivepharmacy.com, 385.526.5486)",
+      "status": "Waiting on us",
+      "owes": "Us (book intro call via Erin's scheduling link this week)",
+      "statusNote": "Tue Oct 20 ~20:18 CEST: Erin replied (cc Phil): Strive would love to support the launch; their catalog Clear Revive Blemish and Unblemished creams fit the last two items on our list; shared a full skincare catalog link; asked Max to book a call this week via her scheduling link. Earlier: intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral; follow-up ~18:24 CEST with Jovia overview + proposed launch formulary. Gilbert, AZ / Fenton, MO 503A; asked how much derm volume they handle alongside GLP-1s.",
+      "next": "Max books a call with Erin this week; review skincare catalog. Pricing/contracts are Max's call.",
       "updated": "Oct 20",
       "path": "B",
       "flags": [
@@ -561,7 +569,8 @@
           "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/strive-pharmacy-texas-llc-dba-strive-pharmacy-639220-05132026",
           "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
         }
-      ]
+      ],
+      "needFromMax": "Pick a time this week and book a call with Erin (Strive) via her scheduling link in the Oct 20 email, or tell me a slot to book."
     },
     {
       "name": "CareValidate",
