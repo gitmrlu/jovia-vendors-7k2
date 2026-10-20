@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T18:10+02:00",
-  "lastUpdatedLabel": "Oct 20, 2026, 18:10 CEST (Belgrade)",
+  "lastUpdated": "2026-10-20T18:26+02:00",
+  "lastUpdatedLabel": "Oct 20, 2026, 18:26 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -244,6 +244,10 @@
     {
       "time": "18:05 (Tue)",
       "text": "Intro emails sent (cc Phil) to 5 MDI preferred pharmacies: ChemistryRx, Medivera, The Pharmacy Hub, EpiqScripts, Strive. Ball with them."
+    },
+    {
+      "time": "18:24 (Tue)",
+      "text": "Follow-ups sent (cc Phil) on all 5 pharmacy intro threads with a Jovia overview + proposed launch formulary attached. Ball with the pharmacies."
     }
   ],
   "vendors": [
@@ -443,7 +447,7 @@
       "contact": "Houry Lepedjian, VP Ops (houry@chemistryrx.com)",
       "status": "Waiting on vendor",
       "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Folcroft, PA 503A; branded packaging yes, asked about inserts.",
+      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Folcroft, PA 503A; branded packaging yes, asked about inserts.",
       "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
       "updated": "Oct 20",
       "path": "B",
@@ -466,7 +470,7 @@
       "contact": "Elena Blazeski (elena@mediverarx.com)",
       "status": "Waiting on vendor",
       "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Troy, MI 503A; asked about California timeline.",
+      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Troy, MI 503A; asked about California timeline.",
       "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
       "updated": "Oct 20",
       "path": "B",
@@ -492,7 +496,7 @@
       "contact": "Crystal Juliao (crystal.juliao@thepharmacyhub.com)",
       "status": "Waiting on vendor",
       "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Miami/Davie, FL 503A; mostly GLP-1 telehealth clients today.",
+      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Miami/Davie, FL 503A; mostly GLP-1 telehealth clients today.",
       "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
       "updated": "Oct 20",
       "path": "B",
@@ -517,7 +521,7 @@
       "contact": "Josh Hoders (josh@epiqscripts.com)",
       "status": "Waiting on vendor",
       "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Richardson, TX; asked whether they compound derm topicals in-house.",
+      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Richardson, TX; asked whether they compound derm topicals in-house.",
       "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
       "updated": "Oct 20",
       "path": "B",
@@ -543,7 +547,7 @@
       "contact": "Erin Eulberg (erin@strivepharmacy.com)",
       "status": "Waiting on vendor",
       "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Gilbert, AZ / Fenton, MO 503A; asked how much derm volume they handle alongside GLP-1s.",
+      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Gilbert, AZ / Fenton, MO 503A; asked how much derm volume they handle alongside GLP-1s.",
       "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
       "updated": "Oct 20",
       "path": "B",
