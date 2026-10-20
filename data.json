@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T22:58+02:00",
-  "lastUpdatedLabel": "Oct 19, 2026, 22:58 CEST (Belgrade)",
+  "lastUpdated": "2026-10-20T15:40+02:00",
+  "lastUpdatedLabel": "Oct 20, 2026, 15:40 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -228,6 +228,10 @@
     {
       "time": "22:58 (Mon)",
       "text": "Precision: Phil sent Jordan the strengths/dosage forms for the catalog-gap items (commercial generics OK; dropped the spironolactone/clindamycin cream) and asked about pack sizes, lead times, 503A status and state licenses. Ball with Precision."
+    },
+    {
+      "time": "15:40 (Tue)",
+      "text": "MD Integrations: sent Dominic Nassivera a short check-in (cc Phil) on the MDI follow-up thread. Waiting on Jim's pharmacy-partner intros; the DocuSign agreement is still with Max to review."
     }
   ],
   "vendors": [
@@ -403,9 +407,9 @@
       "contact": "Dominic Nassivera (dominic.nassivera@mdintegrations.com, 518-796-0559) · Judd Bobin, Solutions Engineer (judd.bobin@mdintegrations.com) · Jim Flowers-Glotz, Sales Director",
       "status": "Waiting on us",
       "owes": "Us (review/sign MDI agreement in DocuSign at max@joviahealth.com)",
-      "statusNote": "Mon Oct 19 ~17:54 CEST: Victoria (MDI legal, victoria@mdintegrations.com) replied on the 'MDI Follow Up' thread (cc Max + Phil): the agreement has been sent to max@joviahealth.com via DocuSign. Waiting on Max to review/sign. Jim's pharmacy-partner intros (formulary pricing) and clinical approval of the med list still expected this week. Oct 16 ~23:14–23:16 CEST: Dominic replied twice after intake + offerings. (1) Connecting Max + Phil with Victoria from legal for a draft agreement; once in place, onboarding/integration next (CC victoria@mdintegrations.com). (2) Proposed offerings submitted for clinical approval; early next week Jim (Head of Pharmacy Partnerships) will introduce pharmacy partners for formulary pricing; Victoria will send the draft agreement. Earlier Oct 16: Fri reconnect held; ~20:13 CEST Max sent completed intake questionnaire; ~21:32 CEST Phil sent preliminary proposed medication list (priority 1 launch SKUs / priority 2 extras incl. rosacea/eczema). Oct 15: Dominic + Judd Bobin answered testing questions (White Label vs Full API). Pricing quoted Oct 13: $5,000 one-time setup; $3k/mo consult minimum (starts 60 days after first consult); async/follow-up $20; extended/sync $30. Dominic cell 518-796-0559.",
-      "next": "Max reviews the DocuSign agreement (sent to max@joviahealth.com) and decides whether to sign; questions go to Victoria/Dominic. Still expecting Jim's pharmacy intros early this week. Do not agree to pricing/contracts without Max.",
-      "updated": "Oct 19",
+      "statusNote": "Tue Oct 20 ~15:40 CEST: sent Dominic a soft check-in on the 'Thank you for your time! | MDI Follow Up' thread (cc Phil) since Jim's pharmacy intros haven't arrived yet; waiting on the pharmacy intros. Mon Oct 19 ~17:54 CEST: Victoria (MDI legal, victoria@mdintegrations.com) replied on the 'MDI Follow Up' thread (cc Max + Phil): the agreement has been sent to max@joviahealth.com via DocuSign. Waiting on Max to review/sign. Jim's pharmacy-partner intros (formulary pricing) and clinical approval of the med list still expected this week. Oct 16 ~23:14–23:16 CEST: Dominic replied twice after intake + offerings. (1) Connecting Max + Phil with Victoria from legal for a draft agreement; once in place, onboarding/integration next (CC victoria@mdintegrations.com). (2) Proposed offerings submitted for clinical approval; early next week Jim (Head of Pharmacy Partnerships) will introduce pharmacy partners for formulary pricing; Victoria will send the draft agreement. Earlier Oct 16: Fri reconnect held; ~20:13 CEST Max sent completed intake questionnaire; ~21:32 CEST Phil sent preliminary proposed medication list (priority 1 launch SKUs / priority 2 extras incl. rosacea/eczema). Oct 15: Dominic + Judd Bobin answered testing questions (White Label vs Full API). Pricing quoted Oct 13: $5,000 one-time setup; $3k/mo consult minimum (starts 60 days after first consult); async/follow-up $20; extended/sync $30. Dominic cell 518-796-0559.",
+      "next": "Max reviews the DocuSign agreement (sent to max@joviahealth.com) and decides whether to sign; questions go to Victoria/Dominic. Nudge sent Oct 20; waiting on Jim's pharmacy intros. Do not agree to pricing/contracts without Max.",
+      "updated": "Oct 20",
       "path": "B",
       "flags": [],
       "sources": [
