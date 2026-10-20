@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T20:40+02:00",
-  "lastUpdatedLabel": "Oct 20, 2026, 20:40 CEST (Belgrade)",
+  "lastUpdated": "2026-10-20T20:53+02:00",
+  "lastUpdatedLabel": "Oct 20, 2026, 20:53 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -256,6 +256,10 @@
     {
       "time": "20:32 (Tue)",
       "text": "ChemistryRx: Houry said she added pricing to our formulary sheet and offered a Friday call, but no attachment came through; asked her to resend and propose Friday times (cc Phil)."
+    },
+    {
+      "time": "20:52 (Tue)",
+      "text": "ChemistryRx: Houry resent the formulary sheet with priority-1 pricing ($14.55 to $18.95 per tube). Proposed Fri Oct 23, 10 or 11 AM ET for the call (cc Phil). Ball with Max to review pricing."
     }
   ],
   "vendors": [
@@ -453,10 +457,10 @@
       "fitNote": "Derm specialist (acne listed); PCAB/ACHC + NABP",
       "states": "All 50",
       "contact": "Houry Lepedjian, VP Ops (houry@chemistryrx.com)",
-      "status": "Active talks",
-      "owes": "Vendor: resend pricing sheet + propose Friday call times",
-      "statusNote": "Tue Oct 20 ~20:32 CEST: Houry replied (cc Phil) that she added pricing in the 2nd column of our formulary sheet and offered a call Friday (Oct 23) to go over services, but no attachment came through. ~20:40 CEST: replied (cc Phil) asking her to resend the sheet and share a couple of Friday times to confirm. Earlier: intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral; follow-up ~18:24 CEST with Jovia overview + proposed launch formulary. Folcroft, PA 503A; branded packaging yes, asked about inserts.",
-      "next": "Get resent pricing sheet; lock Friday call time with Max. Pricing/contracts are Max's call.",
+      "status": "Waiting on us",
+      "owes": "Us (Max: review pricing); Vendor: confirm Friday call time",
+      "statusNote": "Tue Oct 20 ~20:35 CEST: Houry resent the formulary sheet with pricing for the 4 priority-1 SKUs only: Tretinoin/Niacinamide 0.025%/4% 15g $14.55; Tretinoin/Niacinamide 0.05%/4% 15g $15.75; Tretinoin/Azelaic/Niacinamide 0.04%/5%/4% 15g $17.35; Spironolactone/Clindamycin 5%/1.25% 30g $18.95. Priority-2 items unpriced. ~20:52 CEST: replied (cc Phil) confirming receipt and proposing Fri Oct 23 at 10:00 or 11:00 AM ET (16:00/17:00 CEST). Tue Oct 20 ~20:32 CEST: Houry replied (cc Phil) that she added pricing in the 2nd column of our formulary sheet and offered a call Friday (Oct 23) to go over services, but no attachment came through. ~20:40 CEST: replied (cc Phil) asking her to resend the sheet and share a couple of Friday times to confirm. Earlier: intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral; follow-up ~18:24 CEST with Jovia overview + proposed launch formulary. Folcroft, PA 503A; branded packaging yes, asked about inserts.",
+      "next": "Max reviews pricing; confirm Friday call time with Houry and send invite (cc Phil). Ask about priority-2 pricing and inserts on the call. Pricing/contracts are Max's call.",
       "updated": "Oct 20",
       "path": "B",
       "flags": [],
@@ -466,7 +470,8 @@
           "url": "https://www.chemistryrx.com/general-dermatology/",
           "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
         }
-      ]
+      ],
+      "needFromMax": "Review ChemistryRx pricing for the 4 priority-1 topicals ($14.55 to $18.95 each) and hold Fri Oct 23, 10 or 11 AM ET for the call."
     },
     {
       "name": "Medivera",
