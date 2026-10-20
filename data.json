@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T21:28+02:00",
-  "lastUpdatedLabel": "Oct 20, 2026, 21:28 CEST (Belgrade)",
+  "lastUpdated": "2026-10-20T22:58+02:00",
+  "lastUpdatedLabel": "Oct 20, 2026, 22:58 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -268,6 +268,10 @@
     {
       "time": "21:08 (Tue)",
       "text": "ChemistryRx: Houry confirmed Fri Oct 23, 11 AM ET (17:00 CEST). Invite with Meet link sent to Houry and Phil."
+    },
+    {
+      "time": "22:35 (Tue)",
+      "text": "EpiqScripts declined: no dermatology products (oral dosage forms only). Open to helping later for other form factors."
     }
   ],
   "vendors": [
@@ -537,14 +541,14 @@
       "name": "EpiqScripts",
       "role": "Pharmacy 503A",
       "type": "Compounding pharmacy (MDI preferred partner)",
-      "fit": "Good",
-      "fitNote": "503A non-sterile compounding, LegitScript, custom branding/packaging",
+      "fit": "Low",
+      "fitNote": "No derm topicals; oral dosage forms only",
       "states": "All 50 + PR",
       "contact": "Josh Hoders (josh@epiqscripts.com)",
-      "status": "Waiting on vendor",
-      "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Richardson, TX; asked whether they compound derm topicals in-house.",
-      "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
+      "status": "Declined",
+      "owes": "None (declined)",
+      "statusNote": "Tue Oct 20 ~22:35 CEST: Josh Hoders (SVP BD) replied (cc Phil): Epiq doesn't offer any dermatology products today. They specialize in oral dosage forms (ODTs, medicated gums) across GLP-1s, hormones, sexual health, hair loss, sleep, longevity; licensed in all 50 states + PR. Not a fit now; open to helping later if Jovia expands into other form factors. Earlier: intro emailed Oct 20 (~18:05 CEST) via MDI referral, follow-up with formulary ~18:24 CEST.",
+      "next": "None for launch. Possible later option for oral products.",
       "updated": "Oct 20",
       "path": "B",
       "flags": [
