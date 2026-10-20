@@ -1,716 +1,716 @@
 {
- "lastUpdated": "2026-10-20T21:28+02:00",
- "lastUpdatedLabel": "Oct 20, 2026, 21:28 CEST (Belgrade)",
- "launch": "Compounded acne topicals (503A, patient-specific)",
- "paths": [
-  {
-   "id": "A",
-   "name": "Direct",
-   "vendors": "SteadyMD + 503A pharmacy (Curexa declined)",
-   "weeks": "8–14 weeks",
-   "note": "More control and better unit economics; we run more of the stack. Curexa declined on volume/LegitScript — need another 503A (RedRock/Precision/Belmar) with SteadyMD.",
-   "recommended": true
-  },
-  {
-   "id": "B",
-   "name": "Turnkey",
-   "vendors": "MD Integrations",
-   "weeks": "3–8 weeks",
-   "note": "Fastest to first patients; less control, platform fees.",
-   "recommended": false
-  }
- ],
- "timeline": [
-  {
-   "time": "14:36",
-   "text": "Called Curexa before opening; after-hours line, voicemail cut off."
-  },
-  {
-   "time": "15:07",
-   "text": "Business-hours retry to Curexa; reached main menu."
-  },
-  {
-   "time": "16:05",
-   "text": "Curexa (Bianca Lin) replied: licensed in all 50 states; asked for discovery form."
-  },
-  {
-   "time": "16:30",
-   "text": "Curexa discovery form submitted; Max replied open to a call."
-  },
-  {
-   "time": "16:45",
-   "text": "Additional vendors vetted; Triad Rx and Beaker skipped, OpenLoop put on hold."
-  },
-  {
-   "time": "17:02",
-   "text": "Outreach emailed to RedRock, CareValidate, Beluga and Precision."
-  },
-  {
-   "time": "17:05",
-   "text": "Belmar call started to find telehealth partnerships contact."
-  },
-  {
-   "time": "17:25",
-   "text": "Added source tags showing why each vendor is on the list."
-  },
-  {
-   "time": "17:26",
-   "text": "Belmar 2nd call (~3.5 min): live Colorado rep answered, hung up mid-intro. No named contact; callback not delivered. Menu confirmed pharmacy@belmarpharmacy.com."
-  },
-  {
-   "time": "18:24",
-   "text": "SteadyMD call window (planned); no SteadyMD Inkbox call logged by ~18:40 CEST."
-  },
-  {
-   "time": "17:26",
-   "text": "Belmar: emailed pharmacy@belmarpharmacy.com; 2nd call reached a Colorado rep then hung up mid-intro."
-  },
-  {
-   "time": "17:42",
-   "text": "Precision replied (Britney Stella): open to an intro call, sent catalog; pricing after call, $5k credited implementation deposit, ~30-day go-live. We asked for call times."
-  },
-  {
-   "time": "18:07",
-   "text": "Precision (Britney Stella) sent intro call slots for Oct 13–16 ET; waiting on Max to pick one."
-  },
-  {
-   "time": "18:54",
-   "text": "RedRock (Lucho, CSR) replied: passed inquiry to marketing for clinic pricing/partnership; expect outreach in 1–2 business days."
-  },
-  {
-   "time": "18:49",
-   "text": "SteadyMD main line (+1-800-449-4280) called again; busy/declined (same as earlier attempt). Still no live connect."
-  },
-  {
-   "time": "19:13",
-   "text": "Curexa (Bianca Lin) declined: needs 500–1,000+ Rx/month + LegitScript; volume projections below minimum. On hold; reconnect later."
-  },
-  {
-   "time": "22:49",
-   "text": "SteadyMD (Lindsey Anderson, VP Enterprise Sales) replied: wants clinical scope, patient population, scale/volume, state coverage and timing before next step. Waiting on Max."
-  },
-  {
-   "time": "00:16",
-   "text": "RedRock (Relinda Pedrus, Onboarding) replied: sent drug catalog + Clinic Enrollment form; pricing after completed verification form; no Arkansas. Waiting on Max."
-  },
-  {
-   "time": "01:20",
-   "text": "Dashboard: status pills + summary strip added; Curexa marked Declined (open to reconnect later)."
-  },
-  {
-   "time": "02:35",
-   "text": "Precision: intro call booked for Tue Oct 13, 10:30 AM ET (16:30 CEST) with Britney Stella + Jordan Lund; Phil invited."
-  },
-  {
-   "time": "14:00",
-   "text": "MD Integrations (Jim Flowers-Glotz) looped in Dominic Nassivera to schedule a call with Max this week."
-  },
-  {
-   "time": "15:02",
-   "text": "MD Integrations (Dominic Nassivera) asked to connect this afternoon or tomorrow afternoon; sent calendar booking link. Waiting on Max to pick a time."
-  },
-  {
-   "time": "15:52",
-   "text": "MD Integrations intro call booked with Dominic Nassivera: Tue Oct 13, 1:00–1:30 PM ET (7:00–7:30 PM CEST) on Zoom."
-  },
-  {
-   "time": "17:38",
-   "text": "Precision (Jordan Lund) followed up after the intro call: API docs, catalog, implementation guides and contract draft; asks which products to put on the formulary for a pricing proposal. Waiting on Max."
-  },
-  {
-   "time": "19:31",
-   "text": "MD Integrations: intro held; reconnect booked Fri Oct 16, 7:00–7:30 PM CEST (Google Meet) with Dominic Nassivera; Phil invited."
-  },
-  {
-   "time": "22:05",
-   "text": "MD Integrations (Dominic Nassivera) post-call follow-up: pricing ($5k setup, $3k/mo min, $20/$30 consults), intake form + proposed offerings sheet attached; waiting on Max to return forms before draft proposal. Fri Oct 16 reconnect still on."
-  },
-  {
-   "time": "14:21",
-   "text": "Polite email follow-ups sent (Wed Oct 14 US morning) to Belmar (pharmacy@belmarpharmacy.com), Beluga (gordon@belugahealth.com), and CareValidate (support@carevalidate.com) after no reply since Oct 12 outreach."
-  },
-  {
-   "time": "15:01",
-   "text": "Beluga replied: CRO Gordon Tobin looped in Alexandra Hajaj, who sent a calendar link for a 20-min intro call."
-  },
-  {
-   "time": "16:55",
-   "text": "Beluga: 20-min intro call booked with Alexandra Hajaj for Thu Oct 15, 17:20–17:40 CEST (Google Meet)."
-  },
-  {
-   "time": "18:41",
-   "text": "Precision: Phil sent formulary picks to Jordan Lund; waiting on pricing proposal."
-  },
-  {
-   "time": "19:45",
-   "text": "SteadyMD (Lindsey Anderson) asked for a call; offered Tue–Thu Oct 20–22 slots."
-  },
-  {
-   "time": "20:05",
-   "text": "Precision (Jordan Lund) explained testing: real-quantity test orders per SKU, then 5–6 warning flags from their implementation manager; same-day turnaround."
-  },
-  {
-   "time": "22:04",
-   "text": "SteadyMD: Max confirmed Tue Oct 20, 11:00 AM PT (8:00 PM CEST); waiting on Lindsey's invite to Max + Phil."
-  },
-  {
-   "time": "23:26",
-   "text": "SteadyMD: Lindsey Anderson sent calendar invite for Tue Oct 20, 8:00–8:25 PM CEST (11:00–11:25 AM PT); Google Meet meet.google.com/dwm-stbg-npy. Guests so far: Lindsey + max@getpilot.ai only (Phil not yet on invite)."
-  },
-  {
-   "time": "23:39",
-   "text": "SteadyMD: Max forwarded Lindsey's calendar invite to Phil (philipshen13@gmail.com) with Meet link meet.google.com/dwm-stbg-npy; calendar guest list still Lindsey + max only."
-  },
-  {
-   "time": "18:02",
-   "text": "Beluga intro window (17:20–17:40 CEST) passed; no post-call email from Alexandra yet. Tracker next-step updated to await follow-up."
-  },
-  {
-   "time": "18:20",
-   "text": "Beluga: Alexandra sent post-call follow-up. Not partnering until Jovia is live and sending visits; shared pricing, API/platform-partner options and docs. Moved to On hold."
-  },
-  {
-   "time": "19:42",
-   "text": "Precision: Jordan Lund emailed that their team is putting the pricing proposal together (reply to Phil's Oct 14 formulary picks). Stay tuned — still waiting on vendor for the quote."
-  },
-  {
-   "time": "22:01",
-   "text": "MD Integrations (Dominic Nassivera, CC Judd Bobin, Solutions Engineer) answered Max's testing questions: no fixed test-case list but detailed guides; White Label testing mostly handled by MDI, Full API needs technical + medical review of intake forms; ~24h technical turnaround, clinical a bit longer; using MDI intake questionnaires 1:1 cuts iterations. Waiting on Max's thoughts."
-  },
-  {
-   "time": "15:57",
-   "text": "Belmar phone retry (800-525-9473): Colorado still closed/after-hours; left pharmacy-staff voicemail for partnerships contact (callback 310-866-6347 / max@getpilot.ai). Emails Oct 12+14 still unanswered."
-  },
-  {
-   "time": "21:32",
-   "text": "MD Integrations: Fri reconnect held. Max sent Dominic the completed intake questionnaire; Phil sent the preliminary proposed medication list (priority 1 launch SKUs, priority 2 extras incl. rosacea/eczema). Ball now with MDI for the draft proposal, med review and pharmacy intros."
-  },
-  {
-   "time": "23:16",
-   "text": "MD Integrations (Dominic Nassivera): two replies ~23:14–23:16 CEST. Connecting Max+Phil with Victoria (legal) for draft agreement; proposed offerings submitted for clinical approval; early next week Jim (Head of Pharmacy Partnerships) will intro pharmacy partners for formulary pricing."
-  },
-  {
-   "time": "23:57",
-   "text": "Belmar live call (800-525-9473): reached technician Aaron; asked for partnerships/BD contact for Jovia 503A acne topicals; Aaron unsure who handles that; remote hung up before a named contact. Prior after-hours VM (~15:57) + emails Oct 12/14 still unanswered."
-  },
-  {
-   "time": "00:20 (Sat)",
-   "text": "Belmar: reached Garrett (801-599-4247), who will connect Max with Belmar's national account team for telemedicine clinics by email."
-  },
-  {
-   "time": "00:40 (Sat)",
-   "text": "Belmar: Garrett Heiby emailed intro to National Accounts (Jonathan Banks, Riley Kilgore). Replied-all proposing intro-call windows Mon/Wed/Thu Oct 19–22, 9–11 AM Mountain."
-  },
-  {
-   "time": "20:04 (Sun)",
-   "text": "Belmar: replied-all looping in Phil Shen (philipshen13@gmail.com) so Belmar includes him on the intro-call invite once a time is locked. Still awaiting Jonathan/Riley's slot pick."
-  },
-  {
-   "time": "15:55 (Mon)",
-   "text": "CareValidate: sent second follow-up email to support@ asking for a partnerships contact."
-  },
-  {
-   "time": "17:54 (Mon)",
-   "text": "MD Integrations: Victoria (legal) sent the partnership agreement via DocuSign to max@joviahealth.com. Ball is with Max to review/sign."
-  },
-  {
-   "time": "18:32 (Mon)",
-   "text": "Belmar: Riley Kilgore replied (out Wed–Fri, Monday booked) and handed scheduling to Jonny Banks. We replied-all offering Wed Oct 21 / Thu Oct 22, 9–11 AM MT, with Phil on the invite."
-  },
-  {
-   "time": "18:33 (Mon)",
-   "text": "Belmar: Jonathan Banks booked an intro call for Wed Oct 21, 11:00 AM ET (17:00 CEST) on Teams; Max and Phil invited."
-  },
-  {
-   "time": "19:10 (Mon)",
-   "text": "Precision: Jordan Lund asked for the strengths/dosage forms we want for the catalog-gap items (points 1–3); none are compounded there, so they'll look at commercial versions. Ball with Max/Phil."
-  },
-  {
-   "time": "22:58 (Mon)",
-   "text": "Precision: Phil sent Jordan the strengths/dosage forms for the catalog-gap items (commercial generics OK; dropped the spironolactone/clindamycin cream) and asked about pack sizes, lead times, 503A status and state licenses. Ball with Precision."
-  },
-  {
-   "time": "15:40 (Tue)",
-   "text": "MD Integrations: sent Dominic Nassivera a short check-in (cc Phil) on the MDI follow-up thread. Waiting on Jim's pharmacy-partner intros; the DocuSign agreement is still with Max to review."
-  },
-  {
-   "time": "16:46 (Tue)",
-   "text": "MD Integrations: clinical team fully approved all proposed offerings; Dominic sent MDI's preferred pharmacy list (derm-focused: ChemistryRx, Medivera, Medmetrics, The Pharmacy Hub) to contact directly for pricing. Ball with Max."
-  },
-  {
-   "time": "18:05 (Tue)",
-   "text": "MD Integrations: Max thanked Dominic for the approval and pharmacy list (cc Phil)."
-  },
-  {
-   "time": "18:05 (Tue)",
-   "text": "Intro emails sent (cc Phil) to 5 MDI preferred pharmacies: ChemistryRx, Medivera, The Pharmacy Hub, EpiqScripts, Strive. Ball with them."
-  },
-  {
-   "time": "18:24 (Tue)",
-   "text": "Follow-ups sent (cc Phil) on all 5 pharmacy intro threads with a Jovia overview + proposed launch formulary attached. Ball with the pharmacies."
-  },
-  {
-   "time": "20:18 (Tue)",
-   "text": "Strive: Erin replied, pointed to their Clear Revive Blemish and Unblemished creams plus full skincare catalog, and asked Max to book a call this week via her scheduling link. Ball with Max."
-  },
-  {
-   "time": "20:32 (Tue)",
-   "text": "ChemistryRx: Houry said she added pricing to our formulary sheet and offered a Friday call, but no attachment came through; asked her to resend and propose Friday times (cc Phil)."
-  },
-  {
-   "time": "20:52 (Tue)",
-   "text": "ChemistryRx: Houry resent the formulary sheet with priority-1 pricing ($14.55 to $18.95 per tube). Proposed Fri Oct 23, 10 or 11 AM ET for the call (cc Phil). Ball with Max to review pricing."
-  },
-  {
-   "time": "21:05 (Tue)",
-   "text": "SteadyMD: after today's intro call, Lindsey sent notes, overview deck and pricing: ~$5K/mo ops fee + $17 per async visit, 150 visits/mo minimum for 3 months then 350, no setup fee, no exclusivity, 6 to 8 week integration. Ball with Max to decide."
-  },
-  {
-   "time": "21:08 (Tue)",
-   "text": "ChemistryRx: Houry confirmed Fri Oct 23, 11 AM ET (17:00 CEST). Invite with Meet link sent to Houry and Phil."
-  }
- ],
- "vendors": [
-  {
-   "name": "Curexa",
-   "role": "Pharmacy 503A",
-   "type": "503A compounding pharmacy (PCAB, LegitScript)",
-   "fit": "Low",
-   "fitNote": "Strong ops fit, but minimum volume (500–1k+ Rx/mo) + LegitScript bar out for pre-launch",
-   "states": "All 50",
-   "contact": "Bianca Lin, Pharm.D. · blin@curexa.com · 855-927-0390",
-   "status": "Declined",
-   "owes": "Declined for now; open to reconnect later",
-   "statusNote": "Bianca Lin declined Oct 12 ~19:13 CEST: need consistent 500–1,000+ Rx/month + LegitScript; current volume projections below minimum. Door open to reconnect later.",
-   "next": "Path A pharmacy: prioritize RedRock / Precision / Belmar. Revisit Curexa only after LegitScript + volume plan. No reply sent yet (Max decides).",
-   "updated": "Oct 12",
-   "path": "A",
-   "flags": [
-    "Declined for launch: 500–1,000+ Rx/mo minimum + LegitScript required.",
-    "2023 FDA warning letter — ask what was remediated."
-   ],
-   "sources": [
+  "lastUpdated": "2026-10-20T21:28+02:00",
+  "lastUpdatedLabel": "Oct 20, 2026, 21:28 CEST (Belgrade)",
+  "launch": "Compounded acne topicals (503A, patient-specific)",
+  "paths": [
     {
-     "tag": "Used by Nolla Health",
-     "url": "https://nollahealth.com/privacy-policy",
-     "note": "Nolla privacy policy names Curexa as its pharmacy"
-    }
-   ]
-  },
-  {
-   "name": "SteadyMD",
-   "role": "Clinicians",
-   "type": "Clinician network (B2B telehealth, partner API)",
-   "fit": "Good",
-   "fitNote": "Derm via condition-specific care; confirm compounded Rx support",
-   "states": "All 50",
-   "contact": "Lindsey Anderson, lindsey@steadymd.com (partnerships@steadymd.com)",
-   "status": "Waiting on us",
-   "owes": "Us (decide on pricing proposal; set beta volume)",
-   "statusNote": "Tue Oct 20 ~21:05 CEST: after today's intro call (8:00 PM CEST, Max + Lindsey), Lindsey sent the meeting notes/recording, the SteadyMD 2026 overview PDF and a pricing proposal: Monthly operations fee ~$5,000 (clinician recruiting, compliance, clinical oversight, account mgmt), starts at contract signing; async visits $17 each incl. two-way messaging (43 states); minimum ~150 visits/mo (~$2,500/mo) for the first 3 months, then 350/mo, starting at patient launch; no implementation/onboarding fee; no exclusivity. Derm clinical leads with NPs where allowed; e-Rx via Surescripts, custom compounding pharmacies supported; 6 to 8 week integration from signing; SLA under 4 hrs (medians under 10 min). API docs at docs.steadymd.com. Lindsey asked whether the model fits our expectations. Note: her emails went to Max only (Phil not cc'd). Earlier: invite sent Oct 14 for Tue Oct 20, 11:00 AM PT; Max had sent scope Oct 14.",
-   "next": "Max (with Phil) decides whether the ~$5K/mo + $17/visit model works and sets the beta volume; review API docs (docs.steadymd.com). Pricing/contracts are Max's call.",
-   "updated": "Oct 20",
-   "path": "A",
-   "flags": [
-    "Possibly now part of DocGo — confirm ownership and whether terms changed.",
-    "Requires patient choice of pharmacy."
-   ],
-   "sources": [
-    {
-     "tag": "Used by Nolla Health",
-     "url": "https://nollahealth.com/terms",
-     "note": "Nolla terms: consults via 'SteadyMD and its affiliated medical practices'"
-    }
-   ],
-   "needFromMax": "Decide whether SteadyMD's proposal works (~$5K/mo ops fee + $17 per async visit, 150 visits/mo minimum for 3 months then 350) and reply to Lindsey."
-  },
-  {
-   "name": "Beluga Health",
-   "role": "Clinicians",
-   "type": "Clinicians only (async / video)",
-   "fit": "Medium",
-   "fitNote": "Clinician side only; pair with a pharmacy",
-   "states": "Confirm",
-   "contact": "gordon@belugahealth.com (Gordon Tobin, CRO); alexandra@belugahealth.com (Alexandra Hajaj, scheduling)",
-   "status": "On hold",
-   "owes": "Vendor: will revisit once Jovia is live and sending visits",
-   "statusNote": "Intro call with Max + Phil held Thu Oct 15 (17:20 CEST). Alexandra Hajaj's follow-up (18:07 CEST): Beluga only partners with companies already live and sending visits, so they'll pick this back up once Jovia launches. Model: 50-state MD/DO/PA network, optional pharmacy/lab or route to our pharmacy; we own the front end. Two paths: direct API (about 60 days from contract, one-time $5,500 fee credited back in visits, plus $1,000/mo API access) or via an already-integrated platform partner (about 2 weeks). Visits from $30 async / $45 sync, tiered down with volume; pharmacy pass-through plus $15 facilitation fee. Sent visit catalog PDF plus API and webhook docs.",
-   "next": "Revisit after launch (or if a Beluga-integrated platform partner becomes the route). No action needed now.",
-   "updated": "Oct 15",
-   "flags": [],
-   "sources": [
-    {
-     "tag": "Research of alternatives",
-     "url": "",
-     "note": "Internal partner research (Jovia partner report)"
+      "id": "A",
+      "name": "Direct",
+      "vendors": "SteadyMD + 503A pharmacy (Curexa declined)",
+      "weeks": "8–14 weeks",
+      "note": "More control and better unit economics; we run more of the stack. Curexa declined on volume/LegitScript — need another 503A (RedRock/Precision/Belmar) with SteadyMD.",
+      "recommended": true
     },
     {
-     "tag": "Used by Medvi (reported)",
-     "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
-     "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
+      "id": "B",
+      "name": "Turnkey",
+      "vendors": "MD Integrations",
+      "weeks": "3–8 weeks",
+      "note": "Fastest to first patients; less control, platform fees.",
+      "recommended": false
     }
-   ]
-  },
-  {
-   "name": "RedRock Pharmacy",
-   "role": "Pharmacy 503A",
-   "type": "503A pharmacy (sterile + non-sterile), St. George / Springville, UT",
-   "fit": "Good",
-   "fitNote": "Lists skincare; telehealth integration; patient-direct shipping",
-   "states": "49 (not AR)",
-   "contact": "Relinda Pedrus, Onboarding Specialist · onboarding@redrockrx.com · 801-500-1720 (also compounding@redrockrx.com · 801-839-5080)",
-   "status": "Waiting on us",
-   "owes": "Us (enrollment form; Max approved Oct 14, being filled in)",
-   "statusNote": "Relinda Pedrus (Onboarding) emailed Oct 13 ~00:08 CEST: sent drug catalog + Clinic Enrollment & Documentation Form. Pricing/partnership details only after completed verification form; then API specialist for e-prescribing/integration/turnaround. Confirms no Arkansas.",
-   "next": "Max approved submitting the clinic enrollment form on Oct 14; form is being filled in. Pricing follows verification; then API specialist for e-prescribing. Cannot ship to Arkansas.",
-   "updated": "Oct 14",
-   "flags": [
-    "No FDA letters or lawsuits found.",
-    "No Arkansas coverage.",
-    "Verification/enrollment form required before pricing (Relinda Pedrus, Oct 13)."
-   ],
-   "sources": [
+  ],
+  "timeline": [
     {
-     "tag": "Used by Medvi",
-     "url": "https://home.medvi.org/communication",
-     "note": "Listed on Medvi's own site"
-    }
-   ],
-   "needFromMax": "Nothing new: you approved the enrollment form Oct 14; it's being filled in now."
-  },
-  {
-   "name": "Precision",
-   "role": "Pharmacy 503A",
-   "type": "Compounding pharmacy",
-   "fit": "Medium",
-   "fitNote": "Pharmacy side only; confirm derm formulary",
-   "states": "Confirm",
-   "contact": "Jordan Lund, Director of Business Development (jordan.lund@precisionmeds.com, 516-833-6262); Britney Stella, Territory Sales Rep (britstella@mypcphealth.com)",
-   "status": "Waiting on vendor",
-   "owes": "Vendor: pricing proposal + answers to Phil's Oct 19 questions",
-   "statusNote": "Phil replied to Jordan Oct 19 ~22:49 CEST (cc Max) with strengths/dosage forms for points 1–3; commercial generics are fine. Launch acne: clindamycin 1.2%/BPO 2.5% gel, BPO 2.5% gel, azelaic acid 15% gel, oral spironolactone 25/50/100 mg, doxycycline hyclate 50/100 mg, backup tretinoin cream 0.025%/0.05%. Adapalene 0.3%/BPO 2.5% gel. Post-launch rosacea/dermatitis quote for planning: ivermectin 1%, metronidazole 0.75%, doxycycline 40 mg MR, oxymetazoline 1%, desonide 0.05%, pimecrolimus 1%, tacrolimus 0.1%, ketoconazole 2%. Dropped spironolactone/clindamycin cream from the Oct 14 list; kept tretinoin/niacinamide 0.025%/4% and 0.05%/4% and tretinoin/azelaic/niacinamide 0.04%/5%/4% at 15 g for 30 days (pump preferred); added hydroquinone/ascorbic acid/niacinamide 5%/1%/4% for pricing only. Asked for pack sizes, stock and lead times, unit prices, 503A status and beyond-use dates, CA/TX/FL/OH/WA licenses, and refrigerated clindamycin/BPO handling. Earlier: Jordan asked Oct 19 ~18:58 CEST for these strengths (none compounded there, so commercial versions); Oct 15 pricing proposal in progress; intro call Oct 13; API docs, catalog and contract draft received.",
-   "next": "Wait for Jordan's pricing proposal and answers. Contract draft and $5k deposit are Max decisions; nothing signed or paid.",
-   "updated": "Oct 19",
-   "flags": [
-    "$5,000 implementation deposit required before API access (100% credited to future invoices).",
-    "Contract draft received Oct 13; not reviewed or signed."
-   ],
-   "sources": [
-    {
-     "tag": "Research of alternatives",
-     "url": "",
-     "note": "Internal partner research (Jovia partner report)"
-    }
-   ]
-  },
-  {
-   "name": "Belmar Pharma Solutions",
-   "role": "Pharmacy 503A",
-   "type": "Six 503A pharmacies + two 503B (CO)",
-   "fit": "Medium",
-   "fitNote": "OK via 503A arm only; core is hormones, acne TBC",
-   "states": "503A: all 50",
-   "contact": "Garrett Heiby, PharmD (Clinical Sales Liaison, MedQuest/Belmar) gheiby@mqrx.com · 801-599-4247 · National Accounts: Jonathan Banks, PharmD, Director of National Accounts (jonathan.banks@belmarpharma.com, 720-666-2784), Riley Kilgore, Inside Manager of National Sales (riley.kilgore@belmarpharma.com, 720-809-8815)",
-   "status": "Active talks",
-   "owes": "Vendor: Jonathan Banks (Director of National Accounts) hosting intro call Wed Oct 21, 11:00 AM ET (17:00 CEST) on Teams; Phil on invite",
-   "statusNote": "Mon Oct 19 ~18:33 CEST: Jonathan (Jonny) Banks, PharmD, Director of National Accounts (720-666-2784, Eastern), sent a Microsoft Teams invite for Wed Oct 21, 11:00 AM ET / 9:00 AM MT (17:00 CEST) to Max and Phil (cc Riley). Intro call booked. Mon Oct 19 ~18:28 CEST: Riley Kilgore (Inside Manager of National Sales) replied: she's traveling Wed and out Thu–Fri, Monday is booked, and asked her partner Jonny Banks to coordinate a meeting. ~18:32 CEST we replied-all confirming Wed Oct 21 or Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST) still works, or Jonny's times, and asked them to include Phil. Sun Oct 18 ~20:05 CEST: replied-all looping in cofounder Phil Shen (philipshen13@gmail.com) — ask Belmar to include him on the invite once a time is locked. Still waiting on Jonathan/Riley to pick a slot. Sat Oct 17 ~00:28 CEST: Garrett Heiby emailed Max and CC'd Belmar's National Account team (Jonathan Banks, Riley Kilgore) to set up a partnership intro for telehealth dermatology compounds. ~00:40 CEST we replied-all proposing intro-call windows Mon Oct 19 / Wed Oct 21 / Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST), or their times. Earlier: Fri night calls reached technician Aaron, then Garrett (801-599-4247).",
-   "next": "Intro call Wed Oct 21, 17:00 CEST (Teams link in the invite email from jonathan.banks@belmarpharma.com). Max + Phil attend; ask about acne topicals formulary, telehealth onboarding, states and minimums. Don't agree to pricing or terms on the call; that's Max's call.",
-   "updated": "Oct 19",
-   "flags": [
-    "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
-    "Intro made: Garrett Heiby → National Accounts (Jonathan Banks, Riley Kilgore).",
-    "Intro call booked: Wed Oct 21, 11:00 AM ET (17:00 CEST), Teams; Max + Phil invited."
-   ],
-   "sources": [
-    {
-     "tag": "Used by Medvi (reported)",
-     "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
-     "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
+      "time": "14:36",
+      "text": "Called Curexa before opening; after-hours line, voicemail cut off."
     },
     {
-     "tag": "Used by Medvi (reported)",
-     "url": "https://medvi.io/safety-standards-503b-pharmacy-partner/",
-     "note": "medvi.io page calls Belmar a 'verified partner' (medvi.io is not Medvi's main home.medvi.org domain)"
-    }
-   ]
-  },
-  {
-   "name": "MD Integrations",
-   "role": "Turnkey platform",
-   "type": "Clinicians + pharmacy routing + platform",
-   "fit": "Good",
-   "fitNote": "Can staff board-certified dermatologists",
-   "states": "All 50 (confirm)",
-   "contact": "Dominic Nassivera (dominic.nassivera@mdintegrations.com, 518-796-0559) · Judd Bobin, Solutions Engineer (judd.bobin@mdintegrations.com) · Jim Flowers-Glotz, Sales Director",
-   "status": "Waiting on us",
-   "owes": "Us (sign MDI agreement)",
-   "statusNote": "Tue Oct 20 ~18:05 CEST: Max thanked Dominic on the MDI Follow Up thread (cc Phil) and said we're reaching out to a few of the pharmacies that look like good fits. Intro emails sent to 5 MDI preferred pharmacies (ChemistryRx, Medivera, The Pharmacy Hub, EpiqScripts, Strive); not emailed: Medmetrics (Max's call; possible AZ-only shipping), Honeybee (not a compounder), ReviveRx (FDA record), Southend (GLP-1 only). Tue Oct 20 ~16:46 CEST: Dominic replied (cc Phil): MDI's clinical team fully approved all proposed offerings, and he attached MDI's preferred pharmacy partner list (dermatology-relevant: ChemistryRx, Medivera, Medmetrics, The Pharmacy Hub; also EpiqScripts, Honeybee, ReviveRx, Strive, Southend) to contact directly about pricing and catalog. Tue Oct 20 ~15:40 CEST: sent Dominic a soft check-in on the 'Thank you for your time! | MDI Follow Up' thread (cc Phil) since Jim's pharmacy intros haven't arrived yet; waiting on the pharmacy intros. Mon Oct 19 ~17:54 CEST: Victoria (MDI legal, victoria@mdintegrations.com) replied on the 'MDI Follow Up' thread (cc Max + Phil): the agreement has been sent to max@joviahealth.com via DocuSign. Waiting on Max to review/sign. Jim's pharmacy-partner intros (formulary pricing) and clinical approval of the med list still expected this week. Oct 16 ~23:14–23:16 CEST: Dominic replied twice after intake + offerings. (1) Connecting Max + Phil with Victoria from legal for a draft agreement; once in place, onboarding/integration next (CC victoria@mdintegrations.com). (2) Proposed offerings submitted for clinical approval; early next week Jim (Head of Pharmacy Partnerships) will introduce pharmacy partners for formulary pricing; Victoria will send the draft agreement. Earlier Oct 16: Fri reconnect held; ~20:13 CEST Max sent completed intake questionnaire; ~21:32 CEST Phil sent preliminary proposed medication list (priority 1 launch SKUs / priority 2 extras incl. rosacea/eczema). Oct 15: Dominic + Judd Bobin answered testing questions (White Label vs Full API). Pricing quoted Oct 13: $5,000 one-time setup; $3k/mo consult minimum (starts 60 days after first consult); async/follow-up $20; extended/sync $30. Dominic cell 518-796-0559.",
-   "next": "Max reviews the DocuSign agreement (sent to max@joviahealth.com) and decides whether to sign. Do not agree to pricing/contracts without Max.",
-   "updated": "Oct 20",
-   "path": "B",
-   "flags": [],
-   "sources": [
-    {
-     "tag": "Research of alternatives",
-     "url": "",
-     "note": "Internal partner research (Jovia partner report)"
-    }
-   ],
-   "needFromMax": "Review/sign the MDI DocuSign agreement (max@joviahealth.com)."
-  },
-  {
-   "name": "ChemistryRx",
-   "role": "Pharmacy 503A",
-   "type": "Compounding pharmacy (MDI preferred partner)",
-   "fit": "Strong",
-   "fitNote": "Derm specialist (acne listed); PCAB/ACHC + NABP",
-   "states": "All 50",
-   "contact": "Houry Lepedjian, VP Ops (houry@chemistryrx.com)",
-   "status": "Waiting on us",
-   "owes": "Us (Max: review pricing); call booked Fri Oct 23",
-   "statusNote": "Tue Oct 20 ~21:08 CEST: Houry confirmed Fri Oct 23 at 11:00 AM ET (17:00 CEST). Calendar invite sent from max@getpilot.ai to Houry and Phil with Google Meet meet.google.com/mkf-pqwc-ahi. Tue Oct 20 ~20:35 CEST: Houry resent the formulary sheet with pricing for the 4 priority-1 SKUs only: Tretinoin/Niacinamide 0.025%/4% 15g $14.55; Tretinoin/Niacinamide 0.05%/4% 15g $15.75; Tretinoin/Azelaic/Niacinamide 0.04%/5%/4% 15g $17.35; Spironolactone/Clindamycin 5%/1.25% 30g $18.95. Priority-2 items unpriced. ~20:52 CEST: replied (cc Phil) confirming receipt and proposing Fri Oct 23 at 10:00 or 11:00 AM ET (16:00/17:00 CEST). Tue Oct 20 ~20:32 CEST: Houry replied (cc Phil) that she added pricing in the 2nd column of our formulary sheet and offered a call Friday (Oct 23) to go over services, but no attachment came through. ~20:40 CEST: replied (cc Phil) asking her to resend the sheet and share a couple of Friday times to confirm. Earlier: intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral; follow-up ~18:24 CEST with Jovia overview + proposed launch formulary. Folcroft, PA 503A; branded packaging yes, asked about inserts.",
-   "next": "Call Fri Oct 23, 11:00 to 11:30 AM ET (17:00 CEST), Meet link on the invite. Max reviews pricing beforehand; ask about priority-2 pricing and inserts on the call. Pricing/contracts are Max's call.",
-   "updated": "Oct 20",
-   "path": "B",
-   "flags": [],
-   "sources": [
-    {
-     "tag": "MDI preferred pharmacy list",
-     "url": "https://www.chemistryrx.com/general-dermatology/",
-     "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
-    }
-   ],
-   "needFromMax": "Review ChemistryRx pricing for the 4 priority-1 topicals ($14.55 to $18.95 each) before Friday's call (Oct 23, 11 AM ET / 17:00 CEST, invite on your calendar)."
-  },
-  {
-   "name": "Medivera",
-   "role": "Pharmacy 503A",
-   "type": "Compounding pharmacy (MDI preferred partner)",
-   "fit": "Good",
-   "fitNote": "503A, PCAB, tretinoin derm formulas; white-label labels/packaging/inserts",
-   "states": "49 + DC (no CA yet)",
-   "contact": "Elena Blazeski (elena@mediverarx.com)",
-   "status": "Waiting on vendor",
-   "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-   "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Troy, MI 503A; asked about California timeline.",
-   "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
-   "updated": "Oct 20",
-   "path": "B",
-   "flags": [
-    "2016 FDA warning letter + 2016-17 483s (as Diversified Pharmacy); nothing recent found.",
-    "No California yet."
-   ],
-   "sources": [
-    {
-     "tag": "MDI preferred pharmacy list",
-     "url": "https://mediverarx.com/telehealth/",
-     "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
-    }
-   ]
-  },
-  {
-   "name": "The Pharmacy Hub",
-   "role": "Pharmacy 503A",
-   "type": "Compounding pharmacy (MDI preferred partner)",
-   "fit": "Good",
-   "fitNote": "503A, LegitScript, white-label packaging + API",
-   "states": "49 of 50",
-   "contact": "Crystal Juliao (crystal.juliao@thepharmacyhub.com)",
-   "status": "Waiting on vendor",
-   "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-   "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Miami/Davie, FL 503A; mostly GLP-1 telehealth clients today.",
-   "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
-   "updated": "Oct 20",
-   "path": "B",
-   "flags": [
-    "Younger company (FL license since 2022)."
-   ],
-   "sources": [
-    {
-     "tag": "MDI preferred pharmacy list",
-     "url": "https://www.thepharmacyhub.com/solutions/telehealth-platforms",
-     "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
-    }
-   ]
-  },
-  {
-   "name": "EpiqScripts",
-   "role": "Pharmacy 503A",
-   "type": "Compounding pharmacy (MDI preferred partner)",
-   "fit": "Good",
-   "fitNote": "503A non-sterile compounding, LegitScript, custom branding/packaging",
-   "states": "All 50 + PR",
-   "contact": "Josh Hoders (josh@epiqscripts.com)",
-   "status": "Waiting on vendor",
-   "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
-   "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Richardson, TX; asked whether they compound derm topicals in-house.",
-   "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
-   "updated": "Oct 20",
-   "path": "B",
-   "flags": [
-    "Derm topicals not publicly confirmed.",
-    "Law-firm investigation re: Willow oral tirzepatide drops possibly filled by Epiq (not an FDA action)."
-   ],
-   "sources": [
-    {
-     "tag": "MDI preferred pharmacy list",
-     "url": "https://www.epiqscripts.com/",
-     "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
-    }
-   ]
-  },
-  {
-   "name": "Strive",
-   "role": "Pharmacy 503A",
-   "type": "Compounding pharmacy (MDI preferred partner)",
-   "fit": "Medium",
-   "fitNote": "Large 503A, white-label, derm listed; regulatory flags",
-   "states": "All 50",
-   "contact": "Erin Halligan, AE National Partnerships (erin@strivepharmacy.com, 385.526.5486)",
-   "status": "Waiting on us",
-   "owes": "Us (book intro call via Erin's scheduling link this week)",
-   "statusNote": "Tue Oct 20 ~20:18 CEST: Erin replied (cc Phil): Strive would love to support the launch; their catalog Clear Revive Blemish and Unblemished creams fit the last two items on our list; shared a full skincare catalog link; asked Max to book a call this week via her scheduling link. Earlier: intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral; follow-up ~18:24 CEST with Jovia overview + proposed launch formulary. Gilbert, AZ / Fenton, MO 503A; asked how much derm volume they handle alongside GLP-1s.",
-   "next": "Max books a call with Erin this week; review skincare catalog. Pricing/contracts are Max's call.",
-   "updated": "Oct 20",
-   "path": "B",
-   "flags": [
-    "FDA warning letter (Strive Texas, 2022; closed May 2026), Form 483 Sep 2023.",
-    "Eli Lilly tirzepatide lawsuit (Apr 2025); Arizona board scrutiny."
-   ],
-   "sources": [
-    {
-     "tag": "MDI preferred pharmacy list",
-     "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/strive-pharmacy-texas-llc-dba-strive-pharmacy-639220-05132026",
-     "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
-    }
-   ],
-   "needFromMax": "Pick a time this week and book a call with Erin (Strive) via her scheduling link in the Oct 20 email, or tell me a slot to book."
-  },
-  {
-   "name": "CareValidate",
-   "role": "Turnkey platform",
-   "type": "Platform + provider network + 503A/503B routing",
-   "fit": "Medium",
-   "fitNote": "Focus is GLP-1/HRT; derm not advertised",
-   "states": "Claims all 50",
-   "contact": "support@carevalidate.com · 678-661-9377",
-   "status": "Waiting on vendor",
-   "owes": "Vendor: CareValidate to reply",
-   "statusNote": "Second email follow-up sent Oct 19 ~15:55 CEST to support@carevalidate.com (after Oct 12 outreach and Oct 14 follow-up), asking for a partnerships/sales contact if support@ is wrong. Still no reply.",
-   "next": "Await reply; if still silent by Wed Oct 21, try phone 678-661-9377 during US Eastern hours.",
-   "updated": "Oct 19",
-   "flags": [
-    "No FDA letters or lawsuits found.",
-    "Heavy GLP-1 client exposure — request pharmacy list and LegitScript certificate."
-   ],
-   "sources": [
-    {
-     "tag": "Used by Medvi (reported)",
-     "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
-     "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
-    }
-   ]
-  },
-  {
-   "name": "OpenLoop",
-   "role": "On hold / Skipped",
-   "type": "Clinicians + ops/platform",
-   "fit": "Medium",
-   "fitNote": "Clinician side only",
-   "states": "—",
-   "contact": "—",
-   "status": "On hold",
-   "owes": "On hold: lawsuit (RICO) risk review",
-   "statusNote": "On hold",
-   "next": "Hold pending lawsuit risk review",
-   "updated": "Oct 12",
-   "flags": [
-    "Defendant in Day v. OpenLoop Health, RICO class action (D. Del. No. 1:25-cv-01418) over compounded oral tirzepatide. Allegations only, but reputational / LegitScript risk.",
-    "Related: Novo Nordisk v. Link Pharmacy (N.D. Tex. No. 3:25-cv-02061); Link reportedly shares holding companies with OpenLoop (unverified)."
-   ],
-   "sources": [
-    {
-     "tag": "Used by Medvi",
-     "url": "https://home.medvi.org/communication",
-     "note": "Listed on Medvi's own site"
+      "time": "15:07",
+      "text": "Business-hours retry to Curexa; reached main menu."
     },
     {
-     "tag": "Research of alternatives",
-     "url": "",
-     "note": "Internal partner research (Jovia partner report)"
-    }
-   ]
-  },
-  {
-   "name": "Triad Rx",
-   "role": "On hold / Skipped",
-   "type": "Small 503A pharmacy (Daphne, AL)",
-   "fit": "Low",
-   "fitNote": "Some derm, small",
-   "states": "Unclear",
-   "contact": "—",
-   "status": "Skipped",
-   "owes": "None",
-   "statusNote": "Skipped",
-   "next": "None",
-   "updated": "Oct 12",
-   "flags": [
-    "Co-defendant in Day v. OpenLoop Health (D. Del. No. 1:25-cv-01418).",
-    "Reportedly owned by OpenLoop's founders (allegation backed by state records)."
-   ],
-   "sources": [
+      "time": "16:05",
+      "text": "Curexa (Bianca Lin) replied: licensed in all 50 states; asked for discovery form."
+    },
     {
-     "tag": "Used by Medvi",
-     "url": "https://home.medvi.org/communication",
-     "note": "Listed on Medvi's own site"
-    }
-   ]
-  },
-  {
-   "name": "Beaker Pharmacy",
-   "role": "On hold / Skipped",
-   "type": "503A pharmacy (McKinney, TX)",
-   "fit": "Low",
-   "fitNote": "Historically derm; now unclear",
-   "states": "\"45+\" (unverified)",
-   "contact": "—",
-   "status": "Skipped",
-   "owes": "None",
-   "statusNote": "Skipped",
-   "next": "None",
-   "updated": "Oct 12",
-   "flags": [
-    "Retail reportedly closed Feb 2026 after acquisition; new licensee (APTEEK RX, LLC); ownership unclear."
-   ],
-   "sources": [
+      "time": "16:30",
+      "text": "Curexa discovery form submitted; Max replied open to a call."
+    },
     {
-     "tag": "Used by Medvi",
-     "url": "https://home.medvi.org/communication",
-     "note": "Listed on Medvi's own site"
-    }
-   ]
-  },
-  {
-   "name": "Wheel, Foothills",
-   "role": "On hold / Skipped",
-   "type": "Considered alternatives",
-   "fit": "Unrated",
-   "fitNote": "Not yet evaluated in depth",
-   "states": "—",
-   "contact": "—",
-   "status": "Not contacted",
-   "owes": "None",
-   "statusNote": "Considered, not contacted (Strive now tracked separately via MDI list)",
-   "next": "Revisit if primaries stall",
-   "updated": "Oct 12",
-   "flags": [],
-   "sources": [
+      "time": "16:45",
+      "text": "Additional vendors vetted; Triad Rx and Beaker skipped, OpenLoop put on hold."
+    },
     {
-     "tag": "Research of alternatives",
-     "url": "",
-     "note": "Internal partner research (Jovia partner report)"
+      "time": "17:02",
+      "text": "Outreach emailed to RedRock, CareValidate, Beluga and Precision."
+    },
+    {
+      "time": "17:05",
+      "text": "Belmar call started to find telehealth partnerships contact."
+    },
+    {
+      "time": "17:25",
+      "text": "Added source tags showing why each vendor is on the list."
+    },
+    {
+      "time": "17:26",
+      "text": "Belmar 2nd call (~3.5 min): live Colorado rep answered, hung up mid-intro. No named contact; callback not delivered. Menu confirmed pharmacy@belmarpharmacy.com."
+    },
+    {
+      "time": "18:24",
+      "text": "SteadyMD call window (planned); no SteadyMD Inkbox call logged by ~18:40 CEST."
+    },
+    {
+      "time": "17:26",
+      "text": "Belmar: emailed pharmacy@belmarpharmacy.com; 2nd call reached a Colorado rep then hung up mid-intro."
+    },
+    {
+      "time": "17:42",
+      "text": "Precision replied (Britney Stella): open to an intro call, sent catalog; pricing after call, $5k credited implementation deposit, ~30-day go-live. We asked for call times."
+    },
+    {
+      "time": "18:07",
+      "text": "Precision (Britney Stella) sent intro call slots for Oct 13–16 ET; waiting on Max to pick one."
+    },
+    {
+      "time": "18:54",
+      "text": "RedRock (Lucho, CSR) replied: passed inquiry to marketing for clinic pricing/partnership; expect outreach in 1–2 business days."
+    },
+    {
+      "time": "18:49",
+      "text": "SteadyMD main line (+1-800-449-4280) called again; busy/declined (same as earlier attempt). Still no live connect."
+    },
+    {
+      "time": "19:13",
+      "text": "Curexa (Bianca Lin) declined: needs 500–1,000+ Rx/month + LegitScript; volume projections below minimum. On hold; reconnect later."
+    },
+    {
+      "time": "22:49",
+      "text": "SteadyMD (Lindsey Anderson, VP Enterprise Sales) replied: wants clinical scope, patient population, scale/volume, state coverage and timing before next step. Waiting on Max."
+    },
+    {
+      "time": "00:16",
+      "text": "RedRock (Relinda Pedrus, Onboarding) replied: sent drug catalog + Clinic Enrollment form; pricing after completed verification form; no Arkansas. Waiting on Max."
+    },
+    {
+      "time": "01:20",
+      "text": "Dashboard: status pills + summary strip added; Curexa marked Declined (open to reconnect later)."
+    },
+    {
+      "time": "02:35",
+      "text": "Precision: intro call booked for Tue Oct 13, 10:30 AM ET (16:30 CEST) with Britney Stella + Jordan Lund; Phil invited."
+    },
+    {
+      "time": "14:00",
+      "text": "MD Integrations (Jim Flowers-Glotz) looped in Dominic Nassivera to schedule a call with Max this week."
+    },
+    {
+      "time": "15:02",
+      "text": "MD Integrations (Dominic Nassivera) asked to connect this afternoon or tomorrow afternoon; sent calendar booking link. Waiting on Max to pick a time."
+    },
+    {
+      "time": "15:52",
+      "text": "MD Integrations intro call booked with Dominic Nassivera: Tue Oct 13, 1:00–1:30 PM ET (7:00–7:30 PM CEST) on Zoom."
+    },
+    {
+      "time": "17:38",
+      "text": "Precision (Jordan Lund) followed up after the intro call: API docs, catalog, implementation guides and contract draft; asks which products to put on the formulary for a pricing proposal. Waiting on Max."
+    },
+    {
+      "time": "19:31",
+      "text": "MD Integrations: intro held; reconnect booked Fri Oct 16, 7:00–7:30 PM CEST (Google Meet) with Dominic Nassivera; Phil invited."
+    },
+    {
+      "time": "22:05",
+      "text": "MD Integrations (Dominic Nassivera) post-call follow-up: pricing ($5k setup, $3k/mo min, $20/$30 consults), intake form + proposed offerings sheet attached; waiting on Max to return forms before draft proposal. Fri Oct 16 reconnect still on."
+    },
+    {
+      "time": "14:21",
+      "text": "Polite email follow-ups sent (Wed Oct 14 US morning) to Belmar (pharmacy@belmarpharmacy.com), Beluga (gordon@belugahealth.com), and CareValidate (support@carevalidate.com) after no reply since Oct 12 outreach."
+    },
+    {
+      "time": "15:01",
+      "text": "Beluga replied: CRO Gordon Tobin looped in Alexandra Hajaj, who sent a calendar link for a 20-min intro call."
+    },
+    {
+      "time": "16:55",
+      "text": "Beluga: 20-min intro call booked with Alexandra Hajaj for Thu Oct 15, 17:20–17:40 CEST (Google Meet)."
+    },
+    {
+      "time": "18:41",
+      "text": "Precision: Phil sent formulary picks to Jordan Lund; waiting on pricing proposal."
+    },
+    {
+      "time": "19:45",
+      "text": "SteadyMD (Lindsey Anderson) asked for a call; offered Tue–Thu Oct 20–22 slots."
+    },
+    {
+      "time": "20:05",
+      "text": "Precision (Jordan Lund) explained testing: real-quantity test orders per SKU, then 5–6 warning flags from their implementation manager; same-day turnaround."
+    },
+    {
+      "time": "22:04",
+      "text": "SteadyMD: Max confirmed Tue Oct 20, 11:00 AM PT (8:00 PM CEST); waiting on Lindsey's invite to Max + Phil."
+    },
+    {
+      "time": "23:26",
+      "text": "SteadyMD: Lindsey Anderson sent calendar invite for Tue Oct 20, 8:00–8:25 PM CEST (11:00–11:25 AM PT); Google Meet meet.google.com/dwm-stbg-npy. Guests so far: Lindsey + max@getpilot.ai only (Phil not yet on invite)."
+    },
+    {
+      "time": "23:39",
+      "text": "SteadyMD: Max forwarded Lindsey's calendar invite to Phil (philipshen13@gmail.com) with Meet link meet.google.com/dwm-stbg-npy; calendar guest list still Lindsey + max only."
+    },
+    {
+      "time": "18:02",
+      "text": "Beluga intro window (17:20–17:40 CEST) passed; no post-call email from Alexandra yet. Tracker next-step updated to await follow-up."
+    },
+    {
+      "time": "18:20",
+      "text": "Beluga: Alexandra sent post-call follow-up. Not partnering until Jovia is live and sending visits; shared pricing, API/platform-partner options and docs. Moved to On hold."
+    },
+    {
+      "time": "19:42",
+      "text": "Precision: Jordan Lund emailed that their team is putting the pricing proposal together (reply to Phil's Oct 14 formulary picks). Stay tuned — still waiting on vendor for the quote."
+    },
+    {
+      "time": "22:01",
+      "text": "MD Integrations (Dominic Nassivera, CC Judd Bobin, Solutions Engineer) answered Max's testing questions: no fixed test-case list but detailed guides; White Label testing mostly handled by MDI, Full API needs technical + medical review of intake forms; ~24h technical turnaround, clinical a bit longer; using MDI intake questionnaires 1:1 cuts iterations. Waiting on Max's thoughts."
+    },
+    {
+      "time": "15:57",
+      "text": "Belmar phone retry (800-525-9473): Colorado still closed/after-hours; left pharmacy-staff voicemail for partnerships contact (callback 310-866-6347 / max@getpilot.ai). Emails Oct 12+14 still unanswered."
+    },
+    {
+      "time": "21:32",
+      "text": "MD Integrations: Fri reconnect held. Max sent Dominic the completed intake questionnaire; Phil sent the preliminary proposed medication list (priority 1 launch SKUs, priority 2 extras incl. rosacea/eczema). Ball now with MDI for the draft proposal, med review and pharmacy intros."
+    },
+    {
+      "time": "23:16",
+      "text": "MD Integrations (Dominic Nassivera): two replies ~23:14–23:16 CEST. Connecting Max+Phil with Victoria (legal) for draft agreement; proposed offerings submitted for clinical approval; early next week Jim (Head of Pharmacy Partnerships) will intro pharmacy partners for formulary pricing."
+    },
+    {
+      "time": "23:57",
+      "text": "Belmar live call (800-525-9473): reached technician Aaron; asked for partnerships/BD contact for Jovia 503A acne topicals; Aaron unsure who handles that; remote hung up before a named contact. Prior after-hours VM (~15:57) + emails Oct 12/14 still unanswered."
+    },
+    {
+      "time": "00:20 (Sat)",
+      "text": "Belmar: reached Garrett (801-599-4247), who will connect Max with Belmar's national account team for telemedicine clinics by email."
+    },
+    {
+      "time": "00:40 (Sat)",
+      "text": "Belmar: Garrett Heiby emailed intro to National Accounts (Jonathan Banks, Riley Kilgore). Replied-all proposing intro-call windows Mon/Wed/Thu Oct 19–22, 9–11 AM Mountain."
+    },
+    {
+      "time": "20:04 (Sun)",
+      "text": "Belmar: replied-all looping in Phil Shen (philipshen13@gmail.com) so Belmar includes him on the intro-call invite once a time is locked. Still awaiting Jonathan/Riley's slot pick."
+    },
+    {
+      "time": "15:55 (Mon)",
+      "text": "CareValidate: sent second follow-up email to support@ asking for a partnerships contact."
+    },
+    {
+      "time": "17:54 (Mon)",
+      "text": "MD Integrations: Victoria (legal) sent the partnership agreement via DocuSign to max@joviahealth.com. Ball is with Max to review/sign."
+    },
+    {
+      "time": "18:32 (Mon)",
+      "text": "Belmar: Riley Kilgore replied (out Wed–Fri, Monday booked) and handed scheduling to Jonny Banks. We replied-all offering Wed Oct 21 / Thu Oct 22, 9–11 AM MT, with Phil on the invite."
+    },
+    {
+      "time": "18:33 (Mon)",
+      "text": "Belmar: Jonathan Banks booked an intro call for Wed Oct 21, 11:00 AM ET (17:00 CEST) on Teams; Max and Phil invited."
+    },
+    {
+      "time": "19:10 (Mon)",
+      "text": "Precision: Jordan Lund asked for the strengths/dosage forms we want for the catalog-gap items (points 1–3); none are compounded there, so they'll look at commercial versions. Ball with Max/Phil."
+    },
+    {
+      "time": "22:58 (Mon)",
+      "text": "Precision: Phil sent Jordan the strengths/dosage forms for the catalog-gap items (commercial generics OK; dropped the spironolactone/clindamycin cream) and asked about pack sizes, lead times, 503A status and state licenses. Ball with Precision."
+    },
+    {
+      "time": "15:40 (Tue)",
+      "text": "MD Integrations: sent Dominic Nassivera a short check-in (cc Phil) on the MDI follow-up thread. Waiting on Jim's pharmacy-partner intros; the DocuSign agreement is still with Max to review."
+    },
+    {
+      "time": "16:46 (Tue)",
+      "text": "MD Integrations: clinical team fully approved all proposed offerings; Dominic sent MDI's preferred pharmacy list (derm-focused: ChemistryRx, Medivera, Medmetrics, The Pharmacy Hub) to contact directly for pricing. Ball with Max."
+    },
+    {
+      "time": "18:05 (Tue)",
+      "text": "MD Integrations: Max thanked Dominic for the approval and pharmacy list (cc Phil)."
+    },
+    {
+      "time": "18:05 (Tue)",
+      "text": "Intro emails sent (cc Phil) to 5 MDI preferred pharmacies: ChemistryRx, Medivera, The Pharmacy Hub, EpiqScripts, Strive. Ball with them."
+    },
+    {
+      "time": "18:24 (Tue)",
+      "text": "Follow-ups sent (cc Phil) on all 5 pharmacy intro threads with a Jovia overview + proposed launch formulary attached. Ball with the pharmacies."
+    },
+    {
+      "time": "20:18 (Tue)",
+      "text": "Strive: Erin replied, pointed to their Clear Revive Blemish and Unblemished creams plus full skincare catalog, and asked Max to book a call this week via her scheduling link. Ball with Max."
+    },
+    {
+      "time": "20:32 (Tue)",
+      "text": "ChemistryRx: Houry said she added pricing to our formulary sheet and offered a Friday call, but no attachment came through; asked her to resend and propose Friday times (cc Phil)."
+    },
+    {
+      "time": "20:52 (Tue)",
+      "text": "ChemistryRx: Houry resent the formulary sheet with priority-1 pricing ($14.55 to $18.95 per tube). Proposed Fri Oct 23, 10 or 11 AM ET for the call (cc Phil). Ball with Max to review pricing."
+    },
+    {
+      "time": "21:05 (Tue)",
+      "text": "SteadyMD: after today's intro call, Lindsey sent notes, overview deck and pricing: ~$5K/mo ops fee + $17 per async visit, 150 visits/mo minimum for 3 months then 350, no setup fee, no exclusivity, 6 to 8 week integration. Ball with Max to decide."
+    },
+    {
+      "time": "21:08 (Tue)",
+      "text": "ChemistryRx: Houry confirmed Fri Oct 23, 11 AM ET (17:00 CEST). Invite with Meet link sent to Houry and Phil."
     }
-   ]
-  }
- ]
+  ],
+  "vendors": [
+    {
+      "name": "Curexa",
+      "role": "Pharmacy 503A",
+      "type": "503A compounding pharmacy (PCAB, LegitScript)",
+      "fit": "Low",
+      "fitNote": "Strong ops fit, but minimum volume (500–1k+ Rx/mo) + LegitScript bar out for pre-launch",
+      "states": "All 50",
+      "contact": "Bianca Lin, Pharm.D. · blin@curexa.com · 855-927-0390",
+      "status": "Declined",
+      "owes": "Declined for now; open to reconnect later",
+      "statusNote": "Bianca Lin declined Oct 12 ~19:13 CEST: need consistent 500–1,000+ Rx/month + LegitScript; current volume projections below minimum. Door open to reconnect later.",
+      "next": "Path A pharmacy: prioritize RedRock / Precision / Belmar. Revisit Curexa only after LegitScript + volume plan. No reply sent yet (Max decides).",
+      "updated": "Oct 12",
+      "path": "A",
+      "flags": [
+        "Declined for launch: 500–1,000+ Rx/mo minimum + LegitScript required.",
+        "2023 FDA warning letter — ask what was remediated."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Nolla Health",
+          "url": "https://nollahealth.com/privacy-policy",
+          "note": "Nolla privacy policy names Curexa as its pharmacy"
+        }
+      ]
+    },
+    {
+      "name": "SteadyMD",
+      "role": "Clinicians",
+      "type": "Clinician network (B2B telehealth, partner API)",
+      "fit": "Good",
+      "fitNote": "Derm via condition-specific care; confirm compounded Rx support",
+      "states": "All 50",
+      "contact": "Lindsey Anderson, lindsey@steadymd.com (partnerships@steadymd.com)",
+      "status": "Waiting on us",
+      "owes": "Us (decide on pricing proposal; set beta volume)",
+      "statusNote": "Tue Oct 20 ~21:05 CEST: after today's intro call (8:00 PM CEST, Max + Lindsey), Lindsey sent the meeting notes/recording, the SteadyMD 2026 overview PDF and a pricing proposal: Monthly operations fee ~$5,000 (clinician recruiting, compliance, clinical oversight, account mgmt), starts at contract signing; async visits $17 each incl. two-way messaging (43 states); minimum ~150 visits/mo (~$2,500/mo) for the first 3 months, then 350/mo, starting at patient launch; no implementation/onboarding fee; no exclusivity. Derm clinical leads with NPs where allowed; e-Rx via Surescripts, custom compounding pharmacies supported; 6 to 8 week integration from signing; SLA under 4 hrs (medians under 10 min). API docs at docs.steadymd.com. Lindsey asked whether the model fits our expectations. Note: her emails went to Max only (Phil not cc'd). Earlier: invite sent Oct 14 for Tue Oct 20, 11:00 AM PT; Max had sent scope Oct 14.",
+      "next": "Max (with Phil) decides whether the ~$5K/mo + $17/visit model works and sets the beta volume; review API docs (docs.steadymd.com). Pricing/contracts are Max's call.",
+      "updated": "Oct 20",
+      "path": "A",
+      "flags": [
+        "Possibly now part of DocGo — confirm ownership and whether terms changed.",
+        "Requires patient choice of pharmacy."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Nolla Health",
+          "url": "https://nollahealth.com/terms",
+          "note": "Nolla terms: consults via 'SteadyMD and its affiliated medical practices'"
+        }
+      ],
+      "needFromMax": "Decide whether SteadyMD's proposal works (~$5K/mo ops fee + $17 per async visit, 150 visits/mo minimum for 3 months then 350) and reply to Lindsey."
+    },
+    {
+      "name": "Beluga Health",
+      "role": "Clinicians",
+      "type": "Clinicians only (async / video)",
+      "fit": "Medium",
+      "fitNote": "Clinician side only; pair with a pharmacy",
+      "states": "Confirm",
+      "contact": "gordon@belugahealth.com (Gordon Tobin, CRO); alexandra@belugahealth.com (Alexandra Hajaj, scheduling)",
+      "status": "On hold",
+      "owes": "Vendor: will revisit once Jovia is live and sending visits",
+      "statusNote": "Intro call with Max + Phil held Thu Oct 15 (17:20 CEST). Alexandra Hajaj's follow-up (18:07 CEST): Beluga only partners with companies already live and sending visits, so they'll pick this back up once Jovia launches. Model: 50-state MD/DO/PA network, optional pharmacy/lab or route to our pharmacy; we own the front end. Two paths: direct API (about 60 days from contract, one-time $5,500 fee credited back in visits, plus $1,000/mo API access) or via an already-integrated platform partner (about 2 weeks). Visits from $30 async / $45 sync, tiered down with volume; pharmacy pass-through plus $15 facilitation fee. Sent visit catalog PDF plus API and webhook docs.",
+      "next": "Revisit after launch (or if a Beluga-integrated platform partner becomes the route). No action needed now.",
+      "updated": "Oct 15",
+      "flags": [],
+      "sources": [
+        {
+          "tag": "Research of alternatives",
+          "url": "",
+          "note": "Internal partner research (Jovia partner report)"
+        },
+        {
+          "tag": "Used by Medvi (reported)",
+          "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
+          "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
+        }
+      ]
+    },
+    {
+      "name": "RedRock Pharmacy",
+      "role": "Pharmacy 503A",
+      "type": "503A pharmacy (sterile + non-sterile), St. George / Springville, UT",
+      "fit": "Good",
+      "fitNote": "Lists skincare; telehealth integration; patient-direct shipping",
+      "states": "49 (not AR)",
+      "contact": "Relinda Pedrus, Onboarding Specialist · onboarding@redrockrx.com · 801-500-1720 (also compounding@redrockrx.com · 801-839-5080)",
+      "status": "Waiting on us",
+      "owes": "Us (enrollment form; Max approved Oct 14, being filled in)",
+      "statusNote": "Relinda Pedrus (Onboarding) emailed Oct 13 ~00:08 CEST: sent drug catalog + Clinic Enrollment & Documentation Form. Pricing/partnership details only after completed verification form; then API specialist for e-prescribing/integration/turnaround. Confirms no Arkansas.",
+      "next": "Max approved submitting the clinic enrollment form on Oct 14; form is being filled in. Pricing follows verification; then API specialist for e-prescribing. Cannot ship to Arkansas.",
+      "updated": "Oct 14",
+      "flags": [
+        "No FDA letters or lawsuits found.",
+        "No Arkansas coverage.",
+        "Verification/enrollment form required before pricing (Relinda Pedrus, Oct 13)."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi",
+          "url": "https://home.medvi.org/communication",
+          "note": "Listed on Medvi's own site"
+        }
+      ],
+      "needFromMax": "Nothing new: you approved the enrollment form Oct 14; it's being filled in now."
+    },
+    {
+      "name": "Precision",
+      "role": "Pharmacy 503A",
+      "type": "Compounding pharmacy",
+      "fit": "Medium",
+      "fitNote": "Pharmacy side only; confirm derm formulary",
+      "states": "Confirm",
+      "contact": "Jordan Lund, Director of Business Development (jordan.lund@precisionmeds.com, 516-833-6262); Britney Stella, Territory Sales Rep (britstella@mypcphealth.com)",
+      "status": "Waiting on vendor",
+      "owes": "Vendor: pricing proposal + answers to Phil's Oct 19 questions",
+      "statusNote": "Phil replied to Jordan Oct 19 ~22:49 CEST (cc Max) with strengths/dosage forms for points 1–3; commercial generics are fine. Launch acne: clindamycin 1.2%/BPO 2.5% gel, BPO 2.5% gel, azelaic acid 15% gel, oral spironolactone 25/50/100 mg, doxycycline hyclate 50/100 mg, backup tretinoin cream 0.025%/0.05%. Adapalene 0.3%/BPO 2.5% gel. Post-launch rosacea/dermatitis quote for planning: ivermectin 1%, metronidazole 0.75%, doxycycline 40 mg MR, oxymetazoline 1%, desonide 0.05%, pimecrolimus 1%, tacrolimus 0.1%, ketoconazole 2%. Dropped spironolactone/clindamycin cream from the Oct 14 list; kept tretinoin/niacinamide 0.025%/4% and 0.05%/4% and tretinoin/azelaic/niacinamide 0.04%/5%/4% at 15 g for 30 days (pump preferred); added hydroquinone/ascorbic acid/niacinamide 5%/1%/4% for pricing only. Asked for pack sizes, stock and lead times, unit prices, 503A status and beyond-use dates, CA/TX/FL/OH/WA licenses, and refrigerated clindamycin/BPO handling. Earlier: Jordan asked Oct 19 ~18:58 CEST for these strengths (none compounded there, so commercial versions); Oct 15 pricing proposal in progress; intro call Oct 13; API docs, catalog and contract draft received.",
+      "next": "Wait for Jordan's pricing proposal and answers. Contract draft and $5k deposit are Max decisions; nothing signed or paid.",
+      "updated": "Oct 19",
+      "flags": [
+        "$5,000 implementation deposit required before API access (100% credited to future invoices).",
+        "Contract draft received Oct 13; not reviewed or signed."
+      ],
+      "sources": [
+        {
+          "tag": "Research of alternatives",
+          "url": "",
+          "note": "Internal partner research (Jovia partner report)"
+        }
+      ]
+    },
+    {
+      "name": "Belmar Pharma Solutions",
+      "role": "Pharmacy 503A",
+      "type": "Six 503A pharmacies + two 503B (CO)",
+      "fit": "Medium",
+      "fitNote": "OK via 503A arm only; core is hormones, acne TBC",
+      "states": "503A: all 50",
+      "contact": "Garrett Heiby, PharmD (Clinical Sales Liaison, MedQuest/Belmar) gheiby@mqrx.com · 801-599-4247 · National Accounts: Jonathan Banks, PharmD, Director of National Accounts (jonathan.banks@belmarpharma.com, 720-666-2784), Riley Kilgore, Inside Manager of National Sales (riley.kilgore@belmarpharma.com, 720-809-8815)",
+      "status": "Active talks",
+      "owes": "Vendor: Jonathan Banks (Director of National Accounts) hosting intro call Wed Oct 21, 11:00 AM ET (17:00 CEST) on Teams; Phil on invite",
+      "statusNote": "Mon Oct 19 ~18:33 CEST: Jonathan (Jonny) Banks, PharmD, Director of National Accounts (720-666-2784, Eastern), sent a Microsoft Teams invite for Wed Oct 21, 11:00 AM ET / 9:00 AM MT (17:00 CEST) to Max and Phil (cc Riley). Intro call booked. Mon Oct 19 ~18:28 CEST: Riley Kilgore (Inside Manager of National Sales) replied: she's traveling Wed and out Thu–Fri, Monday is booked, and asked her partner Jonny Banks to coordinate a meeting. ~18:32 CEST we replied-all confirming Wed Oct 21 or Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST) still works, or Jonny's times, and asked them to include Phil. Sun Oct 18 ~20:05 CEST: replied-all looping in cofounder Phil Shen (philipshen13@gmail.com) — ask Belmar to include him on the invite once a time is locked. Still waiting on Jonathan/Riley to pick a slot. Sat Oct 17 ~00:28 CEST: Garrett Heiby emailed Max and CC'd Belmar's National Account team (Jonathan Banks, Riley Kilgore) to set up a partnership intro for telehealth dermatology compounds. ~00:40 CEST we replied-all proposing intro-call windows Mon Oct 19 / Wed Oct 21 / Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST), or their times. Earlier: Fri night calls reached technician Aaron, then Garrett (801-599-4247).",
+      "next": "Intro call Wed Oct 21, 17:00 CEST (Teams link in the invite email from jonathan.banks@belmarpharma.com). Max + Phil attend; ask about acne topicals formulary, telehealth onboarding, states and minimums. Don't agree to pricing or terms on the call; that's Max's call.",
+      "updated": "Oct 19",
+      "flags": [
+        "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
+        "Intro made: Garrett Heiby → National Accounts (Jonathan Banks, Riley Kilgore).",
+        "Intro call booked: Wed Oct 21, 11:00 AM ET (17:00 CEST), Teams; Max + Phil invited."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi (reported)",
+          "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
+          "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
+        },
+        {
+          "tag": "Used by Medvi (reported)",
+          "url": "https://medvi.io/safety-standards-503b-pharmacy-partner/",
+          "note": "medvi.io page calls Belmar a 'verified partner' (medvi.io is not Medvi's main home.medvi.org domain)"
+        }
+      ]
+    },
+    {
+      "name": "MD Integrations",
+      "role": "Turnkey platform",
+      "type": "Clinicians + pharmacy routing + platform",
+      "fit": "Good",
+      "fitNote": "Can staff board-certified dermatologists",
+      "states": "All 50 (confirm)",
+      "contact": "Dominic Nassivera (dominic.nassivera@mdintegrations.com, 518-796-0559) · Judd Bobin, Solutions Engineer (judd.bobin@mdintegrations.com) · Jim Flowers-Glotz, Sales Director",
+      "status": "Waiting on us",
+      "owes": "Us (sign MDI agreement)",
+      "statusNote": "Tue Oct 20 ~18:05 CEST: Max thanked Dominic on the MDI Follow Up thread (cc Phil) and said we're reaching out to a few of the pharmacies that look like good fits. Intro emails sent to 5 MDI preferred pharmacies (ChemistryRx, Medivera, The Pharmacy Hub, EpiqScripts, Strive); not emailed: Medmetrics (Max's call; possible AZ-only shipping), Honeybee (not a compounder), ReviveRx (FDA record), Southend (GLP-1 only). Tue Oct 20 ~16:46 CEST: Dominic replied (cc Phil): MDI's clinical team fully approved all proposed offerings, and he attached MDI's preferred pharmacy partner list (dermatology-relevant: ChemistryRx, Medivera, Medmetrics, The Pharmacy Hub; also EpiqScripts, Honeybee, ReviveRx, Strive, Southend) to contact directly about pricing and catalog. Tue Oct 20 ~15:40 CEST: sent Dominic a soft check-in on the 'Thank you for your time! | MDI Follow Up' thread (cc Phil) since Jim's pharmacy intros haven't arrived yet; waiting on the pharmacy intros. Mon Oct 19 ~17:54 CEST: Victoria (MDI legal, victoria@mdintegrations.com) replied on the 'MDI Follow Up' thread (cc Max + Phil): the agreement has been sent to max@joviahealth.com via DocuSign. Waiting on Max to review/sign. Jim's pharmacy-partner intros (formulary pricing) and clinical approval of the med list still expected this week. Oct 16 ~23:14–23:16 CEST: Dominic replied twice after intake + offerings. (1) Connecting Max + Phil with Victoria from legal for a draft agreement; once in place, onboarding/integration next (CC victoria@mdintegrations.com). (2) Proposed offerings submitted for clinical approval; early next week Jim (Head of Pharmacy Partnerships) will introduce pharmacy partners for formulary pricing; Victoria will send the draft agreement. Earlier Oct 16: Fri reconnect held; ~20:13 CEST Max sent completed intake questionnaire; ~21:32 CEST Phil sent preliminary proposed medication list (priority 1 launch SKUs / priority 2 extras incl. rosacea/eczema). Oct 15: Dominic + Judd Bobin answered testing questions (White Label vs Full API). Pricing quoted Oct 13: $5,000 one-time setup; $3k/mo consult minimum (starts 60 days after first consult); async/follow-up $20; extended/sync $30. Dominic cell 518-796-0559.",
+      "next": "Max reviews the DocuSign agreement (sent to max@joviahealth.com) and decides whether to sign. Do not agree to pricing/contracts without Max.",
+      "updated": "Oct 20",
+      "path": "B",
+      "flags": [],
+      "sources": [
+        {
+          "tag": "Research of alternatives",
+          "url": "",
+          "note": "Internal partner research (Jovia partner report)"
+        }
+      ],
+      "needFromMax": "Review/sign the MDI DocuSign agreement (max@joviahealth.com)."
+    },
+    {
+      "name": "ChemistryRx",
+      "role": "Pharmacy 503A",
+      "type": "Compounding pharmacy (MDI preferred partner)",
+      "fit": "Strong",
+      "fitNote": "Derm specialist (acne listed); PCAB/ACHC + NABP",
+      "states": "All 50",
+      "contact": "Houry Lepedjian, VP Ops (houry@chemistryrx.com)",
+      "status": "Waiting on us",
+      "owes": "Us (Max: review pricing); call booked Fri Oct 23",
+      "statusNote": "Tue Oct 20 ~21:08 CEST: Houry confirmed Fri Oct 23 at 11:00 AM ET (17:00 CEST). Calendar invite sent from max@getpilot.ai to Houry and Phil with Google Meet meet.google.com/mkf-pqwc-ahi. Tue Oct 20 ~20:35 CEST: Houry resent the formulary sheet with pricing for the 4 priority-1 SKUs only: Tretinoin/Niacinamide 0.025%/4% 15g $14.55; Tretinoin/Niacinamide 0.05%/4% 15g $15.75; Tretinoin/Azelaic/Niacinamide 0.04%/5%/4% 15g $17.35; Spironolactone/Clindamycin 5%/1.25% 30g $18.95. Priority-2 items unpriced. ~20:52 CEST: replied (cc Phil) confirming receipt and proposing Fri Oct 23 at 10:00 or 11:00 AM ET (16:00/17:00 CEST). Tue Oct 20 ~20:32 CEST: Houry replied (cc Phil) that she added pricing in the 2nd column of our formulary sheet and offered a call Friday (Oct 23) to go over services, but no attachment came through. ~20:40 CEST: replied (cc Phil) asking her to resend the sheet and share a couple of Friday times to confirm. Earlier: intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral; follow-up ~18:24 CEST with Jovia overview + proposed launch formulary. Folcroft, PA 503A; branded packaging yes, asked about inserts.",
+      "next": "Call Fri Oct 23, 11:00 to 11:30 AM ET (17:00 CEST), Meet link on the invite. Max reviews pricing beforehand; ask about priority-2 pricing and inserts on the call. Pricing/contracts are Max's call.",
+      "updated": "Oct 20",
+      "path": "B",
+      "flags": [],
+      "sources": [
+        {
+          "tag": "MDI preferred pharmacy list",
+          "url": "https://www.chemistryrx.com/general-dermatology/",
+          "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
+        }
+      ],
+      "needFromMax": "Review ChemistryRx pricing for the 4 priority-1 topicals ($14.55 to $18.95 each) before Friday's call (Oct 23, 11 AM ET / 17:00 CEST, invite on your calendar)."
+    },
+    {
+      "name": "Medivera",
+      "role": "Pharmacy 503A",
+      "type": "Compounding pharmacy (MDI preferred partner)",
+      "fit": "Good",
+      "fitNote": "503A, PCAB, tretinoin derm formulas; white-label labels/packaging/inserts",
+      "states": "49 + DC (no CA yet)",
+      "contact": "Elena Blazeski (elena@mediverarx.com)",
+      "status": "Waiting on vendor",
+      "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
+      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Troy, MI 503A; asked about California timeline.",
+      "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
+      "updated": "Oct 20",
+      "path": "B",
+      "flags": [
+        "2016 FDA warning letter + 2016-17 483s (as Diversified Pharmacy); nothing recent found.",
+        "No California yet."
+      ],
+      "sources": [
+        {
+          "tag": "MDI preferred pharmacy list",
+          "url": "https://mediverarx.com/telehealth/",
+          "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
+        }
+      ]
+    },
+    {
+      "name": "The Pharmacy Hub",
+      "role": "Pharmacy 503A",
+      "type": "Compounding pharmacy (MDI preferred partner)",
+      "fit": "Good",
+      "fitNote": "503A, LegitScript, white-label packaging + API",
+      "states": "49 of 50",
+      "contact": "Crystal Juliao (crystal.juliao@thepharmacyhub.com)",
+      "status": "Waiting on vendor",
+      "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
+      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Miami/Davie, FL 503A; mostly GLP-1 telehealth clients today.",
+      "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
+      "updated": "Oct 20",
+      "path": "B",
+      "flags": [
+        "Younger company (FL license since 2022)."
+      ],
+      "sources": [
+        {
+          "tag": "MDI preferred pharmacy list",
+          "url": "https://www.thepharmacyhub.com/solutions/telehealth-platforms",
+          "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
+        }
+      ]
+    },
+    {
+      "name": "EpiqScripts",
+      "role": "Pharmacy 503A",
+      "type": "Compounding pharmacy (MDI preferred partner)",
+      "fit": "Good",
+      "fitNote": "503A non-sterile compounding, LegitScript, custom branding/packaging",
+      "states": "All 50 + PR",
+      "contact": "Josh Hoders (josh@epiqscripts.com)",
+      "status": "Waiting on vendor",
+      "owes": "Vendor: reply to intro (catalog, pricing, minimums, states, white-label)",
+      "statusNote": "Ball in their court, intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral. Follow-up sent Oct 20 ~18:24 CEST (cc Phil) with a short Jovia overview and the proposed launch formulary attached (Jovia_MDI_Proposed_Offerings_PRELIMINARY_2026-10-16.xlsx). Richardson, TX; asked whether they compound derm topicals in-house.",
+      "next": "Wait for reply; follow up ~Oct 23 if quiet. Pricing/contracts are Max's call.",
+      "updated": "Oct 20",
+      "path": "B",
+      "flags": [
+        "Derm topicals not publicly confirmed.",
+        "Law-firm investigation re: Willow oral tirzepatide drops possibly filled by Epiq (not an FDA action)."
+      ],
+      "sources": [
+        {
+          "tag": "MDI preferred pharmacy list",
+          "url": "https://www.epiqscripts.com/",
+          "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
+        }
+      ]
+    },
+    {
+      "name": "Strive",
+      "role": "Pharmacy 503A",
+      "type": "Compounding pharmacy (MDI preferred partner)",
+      "fit": "Medium",
+      "fitNote": "Large 503A, white-label, derm listed; regulatory flags",
+      "states": "All 50",
+      "contact": "Erin Halligan, AE National Partnerships (erin@strivepharmacy.com, 385.526.5486)",
+      "status": "Waiting on us",
+      "owes": "Us (book intro call via Erin's scheduling link this week)",
+      "statusNote": "Tue Oct 20 ~20:18 CEST: Erin replied (cc Phil): Strive would love to support the launch; their catalog Clear Revive Blemish and Unblemished creams fit the last two items on our list; shared a full skincare catalog link; asked Max to book a call this week via her scheduling link. Earlier: intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral; follow-up ~18:24 CEST with Jovia overview + proposed launch formulary. Gilbert, AZ / Fenton, MO 503A; asked how much derm volume they handle alongside GLP-1s.",
+      "next": "Max books a call with Erin this week; review skincare catalog. Pricing/contracts are Max's call.",
+      "updated": "Oct 20",
+      "path": "B",
+      "flags": [
+        "FDA warning letter (Strive Texas, 2022; closed May 2026), Form 483 Sep 2023.",
+        "Eli Lilly tirzepatide lawsuit (Apr 2025); Arizona board scrutiny."
+      ],
+      "sources": [
+        {
+          "tag": "MDI preferred pharmacy list",
+          "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/strive-pharmacy-texas-llc-dba-strive-pharmacy-639220-05132026",
+          "note": "MDI_Preferred_Pharmacy_Network.pdf (Dominic, Oct 20)"
+        }
+      ],
+      "needFromMax": "Pick a time this week and book a call with Erin (Strive) via her scheduling link in the Oct 20 email, or tell me a slot to book."
+    },
+    {
+      "name": "CareValidate",
+      "role": "Turnkey platform",
+      "type": "Platform + provider network + 503A/503B routing",
+      "fit": "Medium",
+      "fitNote": "Focus is GLP-1/HRT; derm not advertised",
+      "states": "Claims all 50",
+      "contact": "support@carevalidate.com · 678-661-9377",
+      "status": "Waiting on vendor",
+      "owes": "Vendor: CareValidate to reply",
+      "statusNote": "Second email follow-up sent Oct 19 ~15:55 CEST to support@carevalidate.com (after Oct 12 outreach and Oct 14 follow-up), asking for a partnerships/sales contact if support@ is wrong. Still no reply.",
+      "next": "Await reply; if still silent by Wed Oct 21, try phone 678-661-9377 during US Eastern hours.",
+      "updated": "Oct 19",
+      "flags": [
+        "No FDA letters or lawsuits found.",
+        "Heavy GLP-1 client exposure — request pharmacy list and LegitScript certificate."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi (reported)",
+          "url": "https://www.drugdiscoverytrends.com/fake-testimonials-no-pharmacy-and-an-fda-warning-how-medvi-built-a-1-8-billion-telehealth-company-in-the-gaps-between-regulators/",
+          "note": "Third-party report (Drug Discovery & Development); not on Medvi's own partner list"
+        }
+      ]
+    },
+    {
+      "name": "OpenLoop",
+      "role": "On hold / Skipped",
+      "type": "Clinicians + ops/platform",
+      "fit": "Medium",
+      "fitNote": "Clinician side only",
+      "states": "—",
+      "contact": "—",
+      "status": "On hold",
+      "owes": "On hold: lawsuit (RICO) risk review",
+      "statusNote": "On hold",
+      "next": "Hold pending lawsuit risk review",
+      "updated": "Oct 12",
+      "flags": [
+        "Defendant in Day v. OpenLoop Health, RICO class action (D. Del. No. 1:25-cv-01418) over compounded oral tirzepatide. Allegations only, but reputational / LegitScript risk.",
+        "Related: Novo Nordisk v. Link Pharmacy (N.D. Tex. No. 3:25-cv-02061); Link reportedly shares holding companies with OpenLoop (unverified)."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi",
+          "url": "https://home.medvi.org/communication",
+          "note": "Listed on Medvi's own site"
+        },
+        {
+          "tag": "Research of alternatives",
+          "url": "",
+          "note": "Internal partner research (Jovia partner report)"
+        }
+      ]
+    },
+    {
+      "name": "Triad Rx",
+      "role": "On hold / Skipped",
+      "type": "Small 503A pharmacy (Daphne, AL)",
+      "fit": "Low",
+      "fitNote": "Some derm, small",
+      "states": "Unclear",
+      "contact": "—",
+      "status": "Skipped",
+      "owes": "None",
+      "statusNote": "Skipped",
+      "next": "None",
+      "updated": "Oct 12",
+      "flags": [
+        "Co-defendant in Day v. OpenLoop Health (D. Del. No. 1:25-cv-01418).",
+        "Reportedly owned by OpenLoop's founders (allegation backed by state records)."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi",
+          "url": "https://home.medvi.org/communication",
+          "note": "Listed on Medvi's own site"
+        }
+      ]
+    },
+    {
+      "name": "Beaker Pharmacy",
+      "role": "On hold / Skipped",
+      "type": "503A pharmacy (McKinney, TX)",
+      "fit": "Low",
+      "fitNote": "Historically derm; now unclear",
+      "states": "\"45+\" (unverified)",
+      "contact": "—",
+      "status": "Skipped",
+      "owes": "None",
+      "statusNote": "Skipped",
+      "next": "None",
+      "updated": "Oct 12",
+      "flags": [
+        "Retail reportedly closed Feb 2026 after acquisition; new licensee (APTEEK RX, LLC); ownership unclear."
+      ],
+      "sources": [
+        {
+          "tag": "Used by Medvi",
+          "url": "https://home.medvi.org/communication",
+          "note": "Listed on Medvi's own site"
+        }
+      ]
+    },
+    {
+      "name": "Wheel, Foothills",
+      "role": "On hold / Skipped",
+      "type": "Considered alternatives",
+      "fit": "Unrated",
+      "fitNote": "Not yet evaluated in depth",
+      "states": "—",
+      "contact": "—",
+      "status": "Not contacted",
+      "owes": "None",
+      "statusNote": "Considered, not contacted (Strive now tracked separately via MDI list)",
+      "next": "Revisit if primaries stall",
+      "updated": "Oct 12",
+      "flags": [],
+      "sources": [
+        {
+          "tag": "Research of alternatives",
+          "url": "",
+          "note": "Internal partner research (Jovia partner report)"
+        }
+      ]
+    }
+  ]
 }
