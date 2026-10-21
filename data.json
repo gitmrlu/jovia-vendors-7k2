@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T22:58+02:00",
-  "lastUpdatedLabel": "Oct 20, 2026, 22:58 CEST (Belgrade)",
+  "lastUpdated": "2026-10-21T14:15+02:00",
+  "lastUpdatedLabel": "Oct 21, 2026, 14:15 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -272,6 +272,14 @@
     {
       "time": "22:35 (Tue)",
       "text": "EpiqScripts declined: no dermatology products (oral dosage forms only). Open to helping later for other form factors."
+    },
+    {
+      "time": "03:08 (Wed)",
+      "text": "ChemistryRx: Houry accepted the Fri Oct 23, 11 AM ET call invite."
+    },
+    {
+      "time": "14:02 (Wed)",
+      "text": "Belmar: Jonny Banks moved the Teams intro call to Thu Oct 22, 2:30 PM ET (20:30 CEST), as Max asked. Phil on the invite."
     }
   ],
   "vendors": [
@@ -416,10 +424,10 @@
       "states": "503A: all 50",
       "contact": "Garrett Heiby, PharmD (Clinical Sales Liaison, MedQuest/Belmar) gheiby@mqrx.com · 801-599-4247 · National Accounts: Jonathan Banks, PharmD, Director of National Accounts (jonathan.banks@belmarpharma.com, 720-666-2784), Riley Kilgore, Inside Manager of National Sales (riley.kilgore@belmarpharma.com, 720-809-8815)",
       "status": "Active talks",
-      "owes": "Vendor: Jonathan Banks (Director of National Accounts) hosting intro call Wed Oct 21, 11:00 AM ET (17:00 CEST) on Teams; Phil on invite",
-      "statusNote": "Mon Oct 19 ~18:33 CEST: Jonathan (Jonny) Banks, PharmD, Director of National Accounts (720-666-2784, Eastern), sent a Microsoft Teams invite for Wed Oct 21, 11:00 AM ET / 9:00 AM MT (17:00 CEST) to Max and Phil (cc Riley). Intro call booked. Mon Oct 19 ~18:28 CEST: Riley Kilgore (Inside Manager of National Sales) replied: she's traveling Wed and out Thu–Fri, Monday is booked, and asked her partner Jonny Banks to coordinate a meeting. ~18:32 CEST we replied-all confirming Wed Oct 21 or Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST) still works, or Jonny's times, and asked them to include Phil. Sun Oct 18 ~20:05 CEST: replied-all looping in cofounder Phil Shen (philipshen13@gmail.com) — ask Belmar to include him on the invite once a time is locked. Still waiting on Jonathan/Riley to pick a slot. Sat Oct 17 ~00:28 CEST: Garrett Heiby emailed Max and CC'd Belmar's National Account team (Jonathan Banks, Riley Kilgore) to set up a partnership intro for telehealth dermatology compounds. ~00:40 CEST we replied-all proposing intro-call windows Mon Oct 19 / Wed Oct 21 / Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST), or their times. Earlier: Fri night calls reached technician Aaron, then Garrett (801-599-4247).",
-      "next": "Intro call Wed Oct 21, 17:00 CEST (Teams link in the invite email from jonathan.banks@belmarpharma.com). Max + Phil attend; ask about acne topicals formulary, telehealth onboarding, states and minimums. Don't agree to pricing or terms on the call; that's Max's call.",
-      "updated": "Oct 19",
+      "owes": "Vendor: Jonny Banks hosting intro call Thu Oct 22, 2:30 PM ET (20:30 CEST) on Teams; Phil on invite",
+      "statusNote": "Wed Oct 21 ~14:02 CEST: at Max's request (he asked to move off Wednesday), Jonny Banks rescheduled the Teams intro call to Thu Oct 22, 2:30 to 3:00 PM ET (20:30 to 21:00 CEST), invite to Max and Phil (cc Riley), and asked us to say if the new time doesn't work. Mon Oct 19 ~18:33 CEST: Jonathan (Jonny) Banks, PharmD, Director of National Accounts (720-666-2784, Eastern), sent a Microsoft Teams invite for Wed Oct 21, 11:00 AM ET / 9:00 AM MT (17:00 CEST) to Max and Phil (cc Riley). Intro call booked. Mon Oct 19 ~18:28 CEST: Riley Kilgore (Inside Manager of National Sales) replied: she's traveling Wed and out Thu–Fri, Monday is booked, and asked her partner Jonny Banks to coordinate a meeting. ~18:32 CEST we replied-all confirming Wed Oct 21 or Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST) still works, or Jonny's times, and asked them to include Phil. Sun Oct 18 ~20:05 CEST: replied-all looping in cofounder Phil Shen (philipshen13@gmail.com) — ask Belmar to include him on the invite once a time is locked. Still waiting on Jonathan/Riley to pick a slot. Sat Oct 17 ~00:28 CEST: Garrett Heiby emailed Max and CC'd Belmar's National Account team (Jonathan Banks, Riley Kilgore) to set up a partnership intro for telehealth dermatology compounds. ~00:40 CEST we replied-all proposing intro-call windows Mon Oct 19 / Wed Oct 21 / Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST), or their times. Earlier: Fri night calls reached technician Aaron, then Garrett (801-599-4247).",
+      "next": "Join the Teams call Thu Oct 22, 2:30 PM ET (20:30 CEST): ask about acne topical compounding, telehealth integration, state coverage, branded packaging/inserts, pricing (Max decides).",
+      "updated": "Oct 21",
       "flags": [
         "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
         "Intro made: Garrett Heiby → National Accounts (Jonathan Banks, Riley Kilgore).",
@@ -472,9 +480,9 @@
       "contact": "Houry Lepedjian, VP Ops (houry@chemistryrx.com)",
       "status": "Waiting on us",
       "owes": "Us (Max: review pricing); call booked Fri Oct 23",
-      "statusNote": "Tue Oct 20 ~21:08 CEST: Houry confirmed Fri Oct 23 at 11:00 AM ET (17:00 CEST). Calendar invite sent from max@getpilot.ai to Houry and Phil with Google Meet meet.google.com/mkf-pqwc-ahi. Tue Oct 20 ~20:35 CEST: Houry resent the formulary sheet with pricing for the 4 priority-1 SKUs only: Tretinoin/Niacinamide 0.025%/4% 15g $14.55; Tretinoin/Niacinamide 0.05%/4% 15g $15.75; Tretinoin/Azelaic/Niacinamide 0.04%/5%/4% 15g $17.35; Spironolactone/Clindamycin 5%/1.25% 30g $18.95. Priority-2 items unpriced. ~20:52 CEST: replied (cc Phil) confirming receipt and proposing Fri Oct 23 at 10:00 or 11:00 AM ET (16:00/17:00 CEST). Tue Oct 20 ~20:32 CEST: Houry replied (cc Phil) that she added pricing in the 2nd column of our formulary sheet and offered a call Friday (Oct 23) to go over services, but no attachment came through. ~20:40 CEST: replied (cc Phil) asking her to resend the sheet and share a couple of Friday times to confirm. Earlier: intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral; follow-up ~18:24 CEST with Jovia overview + proposed launch formulary. Folcroft, PA 503A; branded packaging yes, asked about inserts.",
+      "statusNote": "Wed Oct 21 ~03:08 CEST: Houry accepted the Fri Oct 23, 11:00 AM ET (17:00 CEST) Google Meet invite. Tue Oct 20 ~21:08 CEST: Houry confirmed Fri Oct 23 at 11:00 AM ET (17:00 CEST). Calendar invite sent from max@getpilot.ai to Houry and Phil with Google Meet meet.google.com/mkf-pqwc-ahi. Tue Oct 20 ~20:35 CEST: Houry resent the formulary sheet with pricing for the 4 priority-1 SKUs only: Tretinoin/Niacinamide 0.025%/4% 15g $14.55; Tretinoin/Niacinamide 0.05%/4% 15g $15.75; Tretinoin/Azelaic/Niacinamide 0.04%/5%/4% 15g $17.35; Spironolactone/Clindamycin 5%/1.25% 30g $18.95. Priority-2 items unpriced. ~20:52 CEST: replied (cc Phil) confirming receipt and proposing Fri Oct 23 at 10:00 or 11:00 AM ET (16:00/17:00 CEST). Tue Oct 20 ~20:32 CEST: Houry replied (cc Phil) that she added pricing in the 2nd column of our formulary sheet and offered a call Friday (Oct 23) to go over services, but no attachment came through. ~20:40 CEST: replied (cc Phil) asking her to resend the sheet and share a couple of Friday times to confirm. Earlier: intro emailed Oct 20 (~18:05 CEST) from max@getpilot.ai, cc Phil, via MDI referral; follow-up ~18:24 CEST with Jovia overview + proposed launch formulary. Folcroft, PA 503A; branded packaging yes, asked about inserts.",
       "next": "Call Fri Oct 23, 11:00 to 11:30 AM ET (17:00 CEST), Meet link on the invite. Max reviews pricing beforehand; ask about priority-2 pricing and inserts on the call. Pricing/contracts are Max's call.",
-      "updated": "Oct 20",
+      "updated": "Oct 21",
       "path": "B",
       "flags": [],
       "sources": [
