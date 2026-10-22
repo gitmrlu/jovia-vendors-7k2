@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-21T14:15+02:00",
-  "lastUpdatedLabel": "Oct 21, 2026, 14:15 CEST (Belgrade)",
+  "lastUpdated": "2026-10-22T20:55+02:00",
+  "lastUpdatedLabel": "Oct 22, 2026, 20:55 CEST (Belgrade)",
   "launch": "Compounded acne topicals (503A, patient-specific)",
   "paths": [
     {
@@ -280,6 +280,10 @@
     {
       "time": "14:02 (Wed)",
       "text": "Belmar: Jonny Banks moved the Teams intro call to Thu Oct 22, 2:30 PM ET (20:30 CEST), as Max asked. Phil on the invite."
+    },
+    {
+      "time": "20:48 (Thu)",
+      "text": "Belmar: after today's intro call and our formulary email, Jonny Banks sent their standard Kansas dermatology price list ($1.55 to $2.45/unit, $30 to $65 min). None of our 4 priority-1 blends is on it; custom pricing still open."
     }
   ],
   "vendors": [
@@ -424,14 +428,15 @@
       "states": "503A: all 50",
       "contact": "Garrett Heiby, PharmD (Clinical Sales Liaison, MedQuest/Belmar) gheiby@mqrx.com · 801-599-4247 · National Accounts: Jonathan Banks, PharmD, Director of National Accounts (jonathan.banks@belmarpharma.com, 720-666-2784), Riley Kilgore, Inside Manager of National Sales (riley.kilgore@belmarpharma.com, 720-809-8815)",
       "status": "Active talks",
-      "owes": "Vendor: Jonny Banks hosting intro call Thu Oct 22, 2:30 PM ET (20:30 CEST) on Teams; Phil on invite",
-      "statusNote": "Wed Oct 21 ~14:02 CEST: at Max's request (he asked to move off Wednesday), Jonny Banks rescheduled the Teams intro call to Thu Oct 22, 2:30 to 3:00 PM ET (20:30 to 21:00 CEST), invite to Max and Phil (cc Riley), and asked us to say if the new time doesn't work. Mon Oct 19 ~18:33 CEST: Jonathan (Jonny) Banks, PharmD, Director of National Accounts (720-666-2784, Eastern), sent a Microsoft Teams invite for Wed Oct 21, 11:00 AM ET / 9:00 AM MT (17:00 CEST) to Max and Phil (cc Riley). Intro call booked. Mon Oct 19 ~18:28 CEST: Riley Kilgore (Inside Manager of National Sales) replied: she's traveling Wed and out Thu–Fri, Monday is booked, and asked her partner Jonny Banks to coordinate a meeting. ~18:32 CEST we replied-all confirming Wed Oct 21 or Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST) still works, or Jonny's times, and asked them to include Phil. Sun Oct 18 ~20:05 CEST: replied-all looping in cofounder Phil Shen (philipshen13@gmail.com) — ask Belmar to include him on the invite once a time is locked. Still waiting on Jonathan/Riley to pick a slot. Sat Oct 17 ~00:28 CEST: Garrett Heiby emailed Max and CC'd Belmar's National Account team (Jonathan Banks, Riley Kilgore) to set up a partnership intro for telehealth dermatology compounds. ~00:40 CEST we replied-all proposing intro-call windows Mon Oct 19 / Wed Oct 21 / Thu Oct 22, 9–11 AM Mountain (17:00–19:00 CEST), or their times. Earlier: Fri night calls reached technician Aaron, then Garrett (801-599-4247).",
-      "next": "Join the Teams call Thu Oct 22, 2:30 PM ET (20:30 CEST): ask about acne topical compounding, telehealth integration, state coverage, branded packaging/inserts, pricing (Max decides).",
-      "updated": "Oct 21",
+      "owes": "Vendor: pricing on our 4 priority-1 acne SKUs (so far sent only their standard derm price list)",
+      "statusNote": "Thu Oct 22: Teams intro call with Jonny Banks held at 2:30 PM ET (20:30 CEST). ~20:40 CEST Max emailed the proposed launch formulary (4 priority-1 acne topicals plus priority-2 rosacea/eczema extras) and asked for pricing on priority-1. ~20:48 CEST Jonny replied with a screenshot of the dermatology products Belmar currently makes out of Belmar Kansas (13 Cleoderm-base compounds, $1.55 to $2.45 per unit, $30 to $65 minimum per Rx). Overlap with our formulary: Azelaic acid/Niacinamide 15/4% matches a priority-2 SKU exactly; they also list Clindamycin/Niacinamide 4/2%, Niacinamide/Spironolactone 4/5%, Ivermectin/Niacinamide 1/4%, Niacinamide 4%, and tretinoin only in hydroquinone or estriol combos. None of our 4 priority-1 blends (Tretinoin/Niacinamide 0.025/4% and 0.05/4%, Tretinoin/Azelaic/Niacinamide 0.04/5/4%, Spironolactone/Clindamycin 5/1.25%) is on the standard list, so custom-blend pricing is still open. Earlier: Wed Oct 21 ~14:02 CEST Jonny moved the call to Thu at Max's request. Mon Oct 19 Riley Kilgore handed coordination to Jonny. Sat Oct 17 Garrett Heiby (MedQuest/Belmar) made the National Accounts intro.",
+      "next": "Max decides: ask Belmar to quote the 4 priority-1 blends as custom compounds, or adapt launch SKUs toward their stock list (e.g. Clindamycin/Niacinamide, Niacinamide/Spironolactone). Riley is out until Tue Oct 27.",
+      "updated": "Oct 22",
       "flags": [
         "2019 FDA untitled letter to its 503B (Lakewood, CO) over sterile practices — old, 503B only.",
         "Intro made: Garrett Heiby → National Accounts (Jonathan Banks, Riley Kilgore).",
-        "Intro call booked: Wed Oct 21, 11:00 AM ET (17:00 CEST), Teams; Max + Phil invited."
+        "Intro call held Thu Oct 22 (Teams); formulary sent same day.",
+        "Standard derm list: $1.55 to $2.45/unit, $30 to $65 minimum per Rx; Hydroquinone/Tretinoin combos ship on ice (expedited)."
       ],
       "sources": [
         {
